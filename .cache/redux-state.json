@@ -1,0 +1,803 @@
+{
+  "nodes": {
+    "SitePage /dev-404-page/": {
+      "layout": "index",
+      "jsonName": "dev-404-page.json",
+      "internalComponentName": "ComponentDev404Page",
+      "path": "/dev-404-page/",
+      "component": "/Users/juanjorge/Developer/gatsby-test-with-source-data/.cache/dev-404-page.js",
+      "componentChunkName": "component---cache-dev-404-page-js",
+      "context": {},
+      "updatedAt": 1513705209429,
+      "pluginCreator___NODE": "Plugin dev-404-page",
+      "pluginCreatorId": "Plugin dev-404-page",
+      "componentPath": "/Users/juanjorge/Developer/gatsby-test-with-source-data/.cache/dev-404-page.js",
+      "id": "SitePage /dev-404-page/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "17eae64cef68d3c66933c4833f3130d9",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin component-page-creator": {
+      "resolve": "/Users/juanjorge/Developer/gatsby-test-with-source-data/node_modules/gatsby/dist/internal-plugins/component-page-creator",
+      "id": "Plugin component-page-creator",
+      "name": "component-page-creator",
+      "version": "1.0.0",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [
+        "createPagesStatefully"
+      ],
+      "pluginFilepath": "/Users/juanjorge/Developer/gatsby-test-with-source-data/node_modules/gatsby/dist/internal-plugins/component-page-creator",
+      "packageJson": {
+        "name": "component-page-creator",
+        "description": "An internal Gatsby plugin that creates pages from component files in src/pages",
+        "version": "1.0.0",
+        "main": "index.js",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin"
+        ],
+        "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+        "license": "MIT",
+        "dependencies": [],
+        "devDependencies": [],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "c76d7855eac6089a3192d777e06d566f",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin component-layout-creator": {
+      "resolve": "/Users/juanjorge/Developer/gatsby-test-with-source-data/node_modules/gatsby/dist/internal-plugins/component-layout-creator",
+      "id": "Plugin component-layout-creator",
+      "name": "component-layout-creator",
+      "version": "1.0.0",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [
+        "createLayouts"
+      ],
+      "pluginFilepath": "/Users/juanjorge/Developer/gatsby-test-with-source-data/node_modules/gatsby/dist/internal-plugins/component-layout-creator",
+      "packageJson": {
+        "name": "component-layout-creator",
+        "description": "An internal Gatsby plugin that creates pages from component files in src/layouts",
+        "version": "1.0.0",
+        "main": "index.js",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin"
+        ],
+        "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+        "license": "MIT",
+        "dependencies": [],
+        "devDependencies": [],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "a244afca46d3a7a34ce7a03242e0e2ea",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin internal-data-bridge": {
+      "resolve": "/Users/juanjorge/Developer/gatsby-test-with-source-data/node_modules/gatsby/dist/internal-plugins/internal-data-bridge",
+      "id": "Plugin internal-data-bridge",
+      "name": "internal-data-bridge",
+      "version": "1.0.0",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [
+        "sourceNodes",
+        "onCreatePage"
+      ],
+      "pluginFilepath": "/Users/juanjorge/Developer/gatsby-test-with-source-data/node_modules/gatsby/dist/internal-plugins/internal-data-bridge",
+      "packageJson": {
+        "name": "internal-data-bridge",
+        "description": "An internal Gatsby plugin which creates data nodes from internal data",
+        "version": "1.0.0",
+        "main": "index.js",
+        "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+        "license": "MIT",
+        "dependencies": [],
+        "devDependencies": [],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "39259eb3f9f336ab5c4e1811da915570",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin dev-404-page": {
+      "resolve": "/Users/juanjorge/Developer/gatsby-test-with-source-data/node_modules/gatsby/dist/internal-plugins/dev-404-page",
+      "id": "Plugin dev-404-page",
+      "name": "dev-404-page",
+      "version": "1.0.0",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [
+        "createPages"
+      ],
+      "pluginFilepath": "/Users/juanjorge/Developer/gatsby-test-with-source-data/node_modules/gatsby/dist/internal-plugins/dev-404-page",
+      "packageJson": {
+        "name": "dev-404-page",
+        "description": "Internal plugin to add a 404 page in development with helpful information",
+        "version": "1.0.0",
+        "main": "index.js",
+        "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+        "license": "MIT",
+        "dependencies": [],
+        "devDependencies": [],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "223959dd86f9c5e0c10505196c110500",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin prod-404": {
+      "resolve": "/Users/juanjorge/Developer/gatsby-test-with-source-data/node_modules/gatsby/dist/internal-plugins/prod-404",
+      "id": "Plugin prod-404",
+      "name": "prod-404",
+      "version": "1.0.0",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [
+        "onCreatePage"
+      ],
+      "pluginFilepath": "/Users/juanjorge/Developer/gatsby-test-with-source-data/node_modules/gatsby/dist/internal-plugins/prod-404",
+      "packageJson": {
+        "name": "prod-404",
+        "description": "Internal plugin to detect various flavors of 404 pages and ensure there's a 404.html path created as well to ensure compatability with static hosts",
+        "version": "1.0.0",
+        "main": "index.js",
+        "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+        "license": "MIT",
+        "dependencies": [],
+        "devDependencies": [],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "d39b104f9ecd4fd838f30640a59bcd64",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin query-runner": {
+      "resolve": "/Users/juanjorge/Developer/gatsby-test-with-source-data/node_modules/gatsby/dist/internal-plugins/query-runner",
+      "id": "Plugin query-runner",
+      "name": "query-runner",
+      "version": "1.0.0",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [
+        "onCreatePage",
+        "onCreateLayout"
+      ],
+      "pluginFilepath": "/Users/juanjorge/Developer/gatsby-test-with-source-data/node_modules/gatsby/dist/internal-plugins/query-runner",
+      "packageJson": {
+        "name": "query-runner",
+        "description": "Internal plugin for running queries",
+        "version": "1.0.0",
+        "main": "index.js",
+        "author": "",
+        "license": "MIT",
+        "dependencies": [],
+        "devDependencies": [],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "f9890d86e331d5e0d51d49f47fd23130",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin gatsby-plugin-react-helmet": {
+      "resolve": "/Users/juanjorge/Developer/gatsby-test-with-source-data/node_modules/gatsby-plugin-react-helmet",
+      "id": "Plugin gatsby-plugin-react-helmet",
+      "name": "gatsby-plugin-react-helmet",
+      "version": "1.0.8",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [],
+      "pluginFilepath": "/Users/juanjorge/Developer/gatsby-test-with-source-data/node_modules/gatsby-plugin-react-helmet",
+      "packageJson": {
+        "name": "gatsby-plugin-react-helmet",
+        "description": "Stub description for gatsby-plugin-react-helmet",
+        "version": "1.0.8",
+        "main": "index.js",
+        "keywords": [
+          "gatsby"
+        ],
+        "author": {
+          "name": "Kyle Mathews &lt;mathews.kyle@gmail.com&gt;"
+        },
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "babel-runtime",
+            "version": "^6.26.0"
+          },
+          {
+            "name": "react-helmet",
+            "version": "^5.1.3"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "babel-cli",
+            "version": "^6.26.0"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.0.5"
+          }
+        ],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "9f1169efaf5161bfc07301daf283b344",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin default-site-plugin": {
+      "resolve": "/Users/juanjorge/Developer/gatsby-test-with-source-data",
+      "id": "Plugin default-site-plugin",
+      "name": "default-site-plugin",
+      "version": "ec3d09848bfdef403efba66e8a9f5f7b",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [
+        "createPages"
+      ],
+      "pluginFilepath": "/Users/juanjorge/Developer/gatsby-test-with-source-data",
+      "packageJson": {
+        "name": "gatsby-starter-default",
+        "description": "Gatsby default starter",
+        "version": "1.0.0",
+        "main": "n/a",
+        "keywords": [
+          "gatsby"
+        ],
+        "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "gatsby",
+            "version": "^1.9.141"
+          },
+          {
+            "name": "gatsby-image",
+            "version": "^1.0.30"
+          },
+          {
+            "name": "gatsby-link",
+            "version": "^1.6.32"
+          },
+          {
+            "name": "gatsby-plugin-react-helmet",
+            "version": "^1.0.8"
+          },
+          {
+            "name": "slugify",
+            "version": "^1.2.7"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "prettier",
+            "version": "^1.9.2"
+          }
+        ],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "733c4f53a99d63699b3caac381bf7d8d",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Site": {
+      "siteMetadata": {
+        "title": "Gatsby Default Starter"
+      },
+      "port": "8000",
+      "host": "localhost",
+      "pathPrefix": "",
+      "polyfill": true,
+      "buildTime": "2017-12-19T17:40:01.950Z",
+      "id": "Site",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "d0530a5ecaeb7d4ae4457dd0d5dcf975",
+        "type": "Site",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /calculadora-asi-afectara-a-tu-sueldo-la-reforma-de-impuestos": {
+      "layout": "index",
+      "jsonName": "calculadora-asi-afectara-a-tu-sueldo-la-reforma-de-impuestos.json",
+      "internalComponentName": "ComponentCalculadoraAsiAfectaraATuSueldoLaReformaDeImpuestos",
+      "path": "/calculadora-asi-afectara-a-tu-sueldo-la-reforma-de-impuestos",
+      "component": "/Users/juanjorge/Developer/gatsby-test-with-source-data/src/layouts/data.js",
+      "componentChunkName": "component---src-layouts-data-js",
+      "context": {
+        "slug": "00000160-5c0e-d8dc-a9f4-7d0f1bad0000",
+        "node": {
+          "id": "00000160-5c0e-d8dc-a9f4-7d0f1bad0000",
+          "publishDate": "2017-12-15T16:40:01-05:00",
+          "title": "Calculadora: Así afectará a tu sueldo la reforma de impuestos",
+          "widget": "FLEX Apertura 4 items",
+          "shortTitle": "Calculadora: Así afectará a tu sueldo la reforma de impuestos",
+          "description": "Elige las opciones que más se ajustan a tu situación y sabrás si pagarás más o menos impuestos durante los próximos años.",
+          "images": {
+            "original": {
+              "href": "https://cdn4.uvnimg.com/dc/70/1fd599774635882d082a29c8d220/calculadoragris7.gif",
+              "width": 600,
+              "height": 338
+            }
+          },
+          "children": [],
+          "parent": "00000160-5c0e-d8dc-a9f4-7d0f1bad0000",
+          "internal": {
+            "type": "Article",
+            "mediaType": "application/json",
+            "contentDigest": "731b7e462824e02b455de391fab9ed30"
+          }
+        }
+      },
+      "updatedAt": 1513705210516,
+      "pluginCreator___NODE": "Plugin default-site-plugin",
+      "pluginCreatorId": "Plugin default-site-plugin",
+      "componentPath": "/Users/juanjorge/Developer/gatsby-test-with-source-data/src/layouts/data.js",
+      "id": "SitePage /calculadora-asi-afectara-a-tu-sueldo-la-reforma-de-impuestos",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "f9270153169704cd95fc793e833bc700",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /el-tren-descarrilado-en-seattle-viajaba-a-casi-el-triple-de-velocidad-permitida": {
+      "layout": "index",
+      "jsonName": "el-tren-descarrilado-en-seattle-viajaba-a-casi-el-triple-de-velocidad-permitida.json",
+      "internalComponentName": "ComponentElTrenDescarriladoEnSeattleViajabaACasiElTripleDeVelocidadPermitida",
+      "path": "/el-tren-descarrilado-en-seattle-viajaba-a-casi-el-triple-de-velocidad-permitida",
+      "component": "/Users/juanjorge/Developer/gatsby-test-with-source-data/src/layouts/data.js",
+      "componentChunkName": "component---src-layouts-data-js",
+      "context": {
+        "slug": "00000160-6e76-d4d0-af63-6ff7a7c00000",
+        "node": {
+          "id": "00000160-6e76-d4d0-af63-6ff7a7c00000",
+          "publishDate": "2017-12-19T06:34:41-05:00",
+          "title": "El tren descarrilado en Seattle viajaba a casi el triple de velocidad permitida",
+          "widget": "FLEX Apertura 4 items",
+          "shortTitle": "El tren descarrilado en Seattle viajaba a casi el triple de velocidad permitida",
+          "description": "Según la Oficina de Seguridad Nacional de Transportes el convoy viajaba a 80 millas en un tramo cuya limitación era 30 millas por hora. Se desconoce qué provocó el descarrilamiento y por qué viajaba a tanta velocidad.",
+          "images": {
+            "original": {
+              "href": "https://cdn1.uvnimg.com/5e/52/f4982cb3438d89b92c2113ad2401/eeuu-tren-descarrilad-palo.jpg",
+              "width": 3135,
+              "height": 1945
+            }
+          },
+          "children": [],
+          "parent": "00000160-6e76-d4d0-af63-6ff7a7c00000",
+          "internal": {
+            "type": "Article",
+            "mediaType": "application/json",
+            "contentDigest": "2b713f72ce64ec0d4a670dd950a5ed91"
+          }
+        }
+      },
+      "updatedAt": 1513705210517,
+      "pluginCreator___NODE": "Plugin default-site-plugin",
+      "pluginCreatorId": "Plugin default-site-plugin",
+      "componentPath": "/Users/juanjorge/Developer/gatsby-test-with-source-data/src/layouts/data.js",
+      "id": "SitePage /el-tren-descarrilado-en-seattle-viajaba-a-casi-el-triple-de-velocidad-permitida",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "9878a3997aeac390f3636e28d5d6e3e7",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /residentes-de-california-se-reunen-en-stockton-para-celebrar-el-dia-internacional-del-migrante": {
+      "layout": "index",
+      "jsonName": "residentes-de-california-se-reunen-en-stockton-para-celebrar-el-dia-internacional-del-migrante.json",
+      "internalComponentName": "ComponentResidentesDeCaliforniaSeReunenEnStocktonParaCelebrarElDiaInternacionalDelMigrante",
+      "path": "/residentes-de-california-se-reunen-en-stockton-para-celebrar-el-dia-internacional-del-migrante",
+      "component": "/Users/juanjorge/Developer/gatsby-test-with-source-data/src/layouts/data.js",
+      "componentChunkName": "component---src-layouts-data-js",
+      "context": {
+        "slug": "00000160-6fcb-da48-ab73-6fcf84090000",
+        "node": {
+          "id": "00000160-6fcb-da48-ab73-6fcf84090000",
+          "publishDate": "2017-12-19T02:13:00-05:00",
+          "title": "Residentes de California se reúnen en Stockton para celebrar el Día Internacional del Migrante",
+          "widget": "Breaking News Titulares",
+          "shortTitle": "Residentes de California se reúnen en Stockton para celebrar el Día Internacional del Migrante",
+          "description": "Gustavo Ortiz habló con un inmigrante quien narró lo difícil de ser bracero en EEUU y conversó con activistas sobre cómo ha cambiado la situación para los inmigrantes en los últimos años.",
+          "images": {
+            "original": {
+              "href": "https://cdn3.uvnimg.com/6e/59/415f0c0b430db8675264cc7e7580/0c2e473d5b4649d580c04cce69753506",
+              "width": 1920,
+              "height": 1080
+            }
+          },
+          "children": [],
+          "parent": "00000160-6fcb-da48-ab73-6fcf84090000",
+          "internal": {
+            "type": "Video",
+            "mediaType": "application/json",
+            "contentDigest": "50f124a0db8deaccafc4112a89fa8871"
+          }
+        }
+      },
+      "updatedAt": 1513705210518,
+      "pluginCreator___NODE": "Plugin default-site-plugin",
+      "pluginCreatorId": "Plugin default-site-plugin",
+      "componentPath": "/Users/juanjorge/Developer/gatsby-test-with-source-data/src/layouts/data.js",
+      "id": "SitePage /residentes-de-california-se-reunen-en-stockton-para-celebrar-el-dia-internacional-del-migrante",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "3b1a7a855a4047049e7d6636a6f87a4d",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /joven-dreamer-de-san-antonio-narra-lo-ocurrido-durante-las-protestas-en-washington-para-exigir-una-solucion-al-fin-de-daca": {
+      "layout": "index",
+      "jsonName": "joven-dreamer-de-san-antonio-narra-lo-ocurrido-durante-las-protestas-en-washington-para-exigir-una-solucion-al-fin-de-daca.json",
+      "internalComponentName": "ComponentJovenDreamerDeSanAntonioNarraLoOcurridoDuranteLasProtestasEnWashingtonParaExigirUnaSolucionAlFinDeDaca",
+      "path": "/joven-dreamer-de-san-antonio-narra-lo-ocurrido-durante-las-protestas-en-washington-para-exigir-una-solucion-al-fin-de-daca",
+      "component": "/Users/juanjorge/Developer/gatsby-test-with-source-data/src/layouts/data.js",
+      "componentChunkName": "component---src-layouts-data-js",
+      "context": {
+        "slug": "00000160-6fbc-da48-ab73-6fbf54ce0000",
+        "node": {
+          "id": "00000160-6fbc-da48-ab73-6fbf54ce0000",
+          "publishDate": "2017-12-19T02:57:00-05:00",
+          "title": "Joven dreamer de San Antonio narra lo ocurrido durante las protestas en Washington para exigir una solución al fin de DACA",
+          "widget": "Breaking News Titulares",
+          "shortTitle": "Joven dreamer de San Antonio narra lo ocurrido durante las protestas en Washington para exigir una solución al fin de DACA",
+          "description": "Jessica Azúa, beneficiaria de DACA, nos habla sobre las manifestaciones locales y nacionales que se están organizando para exigir a los líderes del país una solución para los más de 800,000 dreamers.",
+          "images": {
+            "original": {
+              "href": "https://cdn2.uvnimg.com/18/57/3f1dd44f43c288d94a13272b43b3/0f0a3cf161a143e0a848f7a04b701500",
+              "width": 1920,
+              "height": 1080
+            }
+          },
+          "children": [],
+          "parent": "00000160-6fbc-da48-ab73-6fbf54ce0000",
+          "internal": {
+            "type": "Video",
+            "mediaType": "application/json",
+            "contentDigest": "bc62fe344a14416d34382e9702af49f1"
+          }
+        }
+      },
+      "updatedAt": 1513705210519,
+      "pluginCreator___NODE": "Plugin default-site-plugin",
+      "pluginCreatorId": "Plugin default-site-plugin",
+      "componentPath": "/Users/juanjorge/Developer/gatsby-test-with-source-data/src/layouts/data.js",
+      "id": "SitePage /joven-dreamer-de-san-antonio-narra-lo-ocurrido-durante-las-protestas-en-washington-para-exigir-una-solucion-al-fin-de-daca",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "89a8beaa2dcbcf0451394b0a0337c973",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /inmigrante-secuestrado-en-arizona-habla-sobre-su-necesidad-de-huir-a-otro-estado-y-su-deseo-de-tramitar-una-visa-u": {
+      "layout": "index",
+      "jsonName": "inmigrante-secuestrado-en-arizona-habla-sobre-su-necesidad-de-huir-a-otro-estado-y-su-deseo-de-tramitar-una-visa-u.json",
+      "internalComponentName": "ComponentInmigranteSecuestradoEnArizonaHablaSobreSuNecesidadDeHuirAOtroEstadoYSuDeseoDeTramitarUnaVisaU",
+      "path": "/inmigrante-secuestrado-en-arizona-habla-sobre-su-necesidad-de-huir-a-otro-estado-y-su-deseo-de-tramitar-una-visa-u",
+      "component": "/Users/juanjorge/Developer/gatsby-test-with-source-data/src/layouts/data.js",
+      "componentChunkName": "component---src-layouts-data-js",
+      "context": {
+        "slug": "00000160-6f7a-da48-ab73-6fff9d520000",
+        "node": {
+          "id": "00000160-6f7a-da48-ab73-6fff9d520000",
+          "publishDate": "2017-12-19T02:47:00-05:00",
+          "title": "Inmigrante secuestrado en Arizona habla sobre su necesidad de huir a otro estado y su deseo de tramitar una Visa U",
+          "widget": "Breaking News Titulares",
+          "shortTitle": "Inmigrante secuestrado en Arizona habla sobre su necesidad de huir a otro estado y su deseo de tramitar una Visa U",
+          "description": "El inmigrante dijo a Univision que el secuestro del que fue víctima en 2006 se trató de un “ajuste de cuentas” con alguien con quien tuvo problemas años antes y asegura que le gustaría mucho regularizar su estatus debido al miedo que siente de regresar a México.",
+          "images": {
+            "original": {
+              "href": "https://cdn4.uvnimg.com/ac/98/b8c4060b4a7b8317abe9df83885c/787256d5c5b740c88e5eb03cdca07276",
+              "width": 1457,
+              "height": 826
+            }
+          },
+          "children": [],
+          "parent": "00000160-6f7a-da48-ab73-6fff9d520000",
+          "internal": {
+            "type": "Video",
+            "mediaType": "application/json",
+            "contentDigest": "0cb62eea9007fd9f0643e1659a5787d2"
+          }
+        }
+      },
+      "updatedAt": 1513705210521,
+      "pluginCreator___NODE": "Plugin default-site-plugin",
+      "pluginCreatorId": "Plugin default-site-plugin",
+      "componentPath": "/Users/juanjorge/Developer/gatsby-test-with-source-data/src/layouts/data.js",
+      "id": "SitePage /inmigrante-secuestrado-en-arizona-habla-sobre-su-necesidad-de-huir-a-otro-estado-y-su-deseo-de-tramitar-una-visa-u",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "9ebbd9a8703ce6b7be31e899a865d990",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /dreamers-de-california-se-unen-a-un-grupo-de-arizona-para-protestar-en-las-oficinas-del-senador-jeff-flake-en-phoenix": {
+      "layout": "index",
+      "jsonName": "dreamers-de-california-se-unen-a-un-grupo-de-arizona-para-protestar-en-las-oficinas-del-senador-jeff-flake-en-phoenix.json",
+      "internalComponentName": "ComponentDreamersDeCaliforniaSeUnenAUnGrupoDeArizonaParaProtestarEnLasOficinasDelSenadorJeffFlakeEnPhoenix",
+      "path": "/dreamers-de-california-se-unen-a-un-grupo-de-arizona-para-protestar-en-las-oficinas-del-senador-jeff-flake-en-phoenix",
+      "component": "/Users/juanjorge/Developer/gatsby-test-with-source-data/src/layouts/data.js",
+      "componentChunkName": "component---src-layouts-data-js",
+      "context": {
+        "slug": "00000160-6f6e-da48-ab73-6fef34150000",
+        "node": {
+          "id": "00000160-6f6e-da48-ab73-6fef34150000",
+          "publishDate": "2017-12-19T02:33:00-05:00",
+          "title": "Dreamers de California se unen a un grupo de Arizona para protestar en las oficinas del senador Jeff Flake en Phoenix",
+          "widget": "Breaking News Titulares",
+          "shortTitle": "Dreamers de California se unen a un grupo de Arizona para protestar en las oficinas del senador Jeff Flake en Phoenix",
+          "description": "Los dreamers se manifestaron ya que afirman que el voto del senador Flake podría hacer una diferencia en la vida de los más de 800,000 beneficiarios de DACA, cuyo futuro se encuentra en el limbo.",
+          "images": {
+            "original": {
+              "href": "https://cdn1.uvnimg.com/35/86/37165bd34183a3504a400c3d582c/ccc9630801f44258b2008edbc7d6d9c3",
+              "width": 1461,
+              "height": 862
+            }
+          },
+          "children": [],
+          "parent": "00000160-6f6e-da48-ab73-6fef34150000",
+          "internal": {
+            "type": "Video",
+            "mediaType": "application/json",
+            "contentDigest": "fb713733242065c349d689a5fe647f94"
+          }
+        }
+      },
+      "updatedAt": 1513705210522,
+      "pluginCreator___NODE": "Plugin default-site-plugin",
+      "pluginCreatorId": "Plugin default-site-plugin",
+      "componentPath": "/Users/juanjorge/Developer/gatsby-test-with-source-data/src/layouts/data.js",
+      "id": "SitePage /dreamers-de-california-se-unen-a-un-grupo-de-arizona-para-protestar-en-las-oficinas-del-senador-jeff-flake-en-phoenix",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "7008b8ac53dd4bc9ad22993d607d0878",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /una-jueza-falla-a-favor-de-dos-inmigrantes-adolescentes-indocumentadas-que-quieren-abortar": {
+      "layout": "index",
+      "jsonName": "una-jueza-falla-a-favor-de-dos-inmigrantes-adolescentes-indocumentadas-que-quieren-abortar.json",
+      "internalComponentName": "ComponentUnaJuezaFallaAFavorDeDosInmigrantesAdolescentesIndocumentadasQueQuierenAbortar",
+      "path": "/una-jueza-falla-a-favor-de-dos-inmigrantes-adolescentes-indocumentadas-que-quieren-abortar",
+      "component": "/Users/juanjorge/Developer/gatsby-test-with-source-data/src/layouts/data.js",
+      "componentChunkName": "component---src-layouts-data-js",
+      "context": {
+        "slug": "00000160-6ce7-d3f0-a5e7-7fff4e120000",
+        "node": {
+          "id": "00000160-6ce7-d3f0-a5e7-7fff4e120000",
+          "publishDate": "2017-12-19T00:09:45-05:00",
+          "title": "Una jueza falla a favor de dos inmigrantes adolescentes indocumentadas que quieren abortar",
+          "widget": "Breaking News Titulares",
+          "shortTitle": "Una jueza falla a favor de dos inmigrantes adolescentes indocumentadas que quieren abortar",
+          "description": "La jueza argumentó sobre la necesidad de \"preservar el derecho de (los adolescentes) a decidir si llevar o no sus embarazos a término\". Los casos son similares a los de otra menor (con nombre ficticio de 'Jane Doe') que logró abortar tras una batalla judicial en octubre pasado mientras se encontraba bajo custodia de autoridades migratorias. ",
+          "images": {
+            "original": {
+              "href": "https://cdn2.uvnimg.com/bd/47/d43edca84730895a201dd8bbb6b2/ap-17293582703795.jpg",
+              "width": 4444,
+              "height": 2920
+            }
+          },
+          "children": [],
+          "parent": "00000160-6ce7-d3f0-a5e7-7fff4e120000",
+          "internal": {
+            "type": "Article",
+            "mediaType": "application/json",
+            "contentDigest": "836fec30b369127554a7ddfd867540bb"
+          }
+        }
+      },
+      "updatedAt": 1513705210523,
+      "pluginCreator___NODE": "Plugin default-site-plugin",
+      "pluginCreatorId": "Plugin default-site-plugin",
+      "componentPath": "/Users/juanjorge/Developer/gatsby-test-with-source-data/src/layouts/data.js",
+      "id": "SitePage /una-jueza-falla-a-favor-de-dos-inmigrantes-adolescentes-indocumentadas-que-quieren-abortar",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "2407415e4c2922710d3d36e887dc2b01",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /a-180-dias-de-carcel-1-000-dolares-de-multa-y-la-revocacion-de-daca-se-enfrentan-los-siete-dreamers-detenidos": {
+      "layout": "index",
+      "jsonName": "a-180-dias-de-carcel-1-000-dolares-de-multa-y-la-revocacion-de-daca-se-enfrentan-los-siete-dreamers-detenidos.json",
+      "internalComponentName": "ComponentA180DiasDeCarcel1000DolaresDeMultaYLaRevocacionDeDacaSeEnfrentanLosSieteDreamersDetenidos",
+      "path": "/a-180-dias-de-carcel-1-000-dolares-de-multa-y-la-revocacion-de-daca-se-enfrentan-los-siete-dreamers-detenidos",
+      "component": "/Users/juanjorge/Developer/gatsby-test-with-source-data/src/layouts/data.js",
+      "componentChunkName": "component---src-layouts-data-js",
+      "context": {
+        "slug": "00000160-6ed9-d252-a7f4-6edfdf980000",
+        "node": {
+          "id": "00000160-6ed9-d252-a7f4-6edfdf980000",
+          "publishDate": "2017-12-19T07:40:00-05:00",
+          "title": "A 180 días de cárcel, 1,000 dólares de multa y la revocación de DACA se enfrentan los siete dreamers detenidos",
+          "widget": "Breaking News Titulares",
+          "shortTitle": "A 180 días de cárcel, 1,000 dólares de multa y la revocación de DACA se enfrentan los siete dreamers detenidos",
+          "description": "En entrevista con Catalina Adorno, hermana de uno de los soñadores arrestados, dice que los jóvenes continúan encerrados porque no quieren revelar su identidad, ni firmar un papel con el que podrían ser deportados a sus países de origen. Los dreamers enfrentan huelga de hambre y lucharán hasta que se les garanticen su permanencia en EEUU.",
+          "images": {
+            "original": {
+              "href": "https://cdn2.uvnimg.com/32/e6/3c3b02c64deca3b9c9d3f320cfe1/599705cc704747cbbe3639e14b78d7db",
+              "width": 1920,
+              "height": 1080
+            }
+          },
+          "children": [],
+          "parent": "00000160-6ed9-d252-a7f4-6edfdf980000",
+          "internal": {
+            "type": "Video",
+            "mediaType": "application/json",
+            "contentDigest": "92ae99f750a79c35fb374bdd5722e232"
+          }
+        }
+      },
+      "updatedAt": 1513705210524,
+      "pluginCreator___NODE": "Plugin default-site-plugin",
+      "pluginCreatorId": "Plugin default-site-plugin",
+      "componentPath": "/Users/juanjorge/Developer/gatsby-test-with-source-data/src/layouts/data.js",
+      "id": "SitePage /a-180-dias-de-carcel-1-000-dolares-de-multa-y-la-revocacion-de-daca-se-enfrentan-los-siete-dreamers-detenidos",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "9790bef99b24c40f4a241b5eb9f4d967",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /404/": {
+      "layout": "index",
+      "jsonName": "404.json",
+      "internalComponentName": "Component404",
+      "path": "/404/",
+      "component": "/Users/juanjorge/Developer/gatsby-test-with-source-data/src/pages/404.js",
+      "componentChunkName": "component---src-pages-404-js",
+      "context": {},
+      "updatedAt": 1513705210546,
+      "pluginCreator___NODE": "Plugin component-page-creator",
+      "pluginCreatorId": "Plugin component-page-creator",
+      "componentPath": "/Users/juanjorge/Developer/gatsby-test-with-source-data/src/pages/404.js",
+      "id": "SitePage /404/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "dea21d1d3d21c85e4042c995f6e9224f",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /": {
+      "layout": "index",
+      "jsonName": "index.json",
+      "internalComponentName": "ComponentIndex",
+      "path": "/",
+      "component": "/Users/juanjorge/Developer/gatsby-test-with-source-data/src/pages/index.js",
+      "componentChunkName": "component---src-pages-index-js",
+      "context": {},
+      "updatedAt": 1513705210548,
+      "pluginCreator___NODE": "Plugin component-page-creator",
+      "pluginCreatorId": "Plugin component-page-creator",
+      "componentPath": "/Users/juanjorge/Developer/gatsby-test-with-source-data/src/pages/index.js",
+      "id": "SitePage /",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "f388ca573b0d3bcc15a12e07a0dfa7b9",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /404.html": {
+      "layout": "index",
+      "jsonName": "404-html.json",
+      "internalComponentName": "Component404Html",
+      "path": "/404.html",
+      "component": "/Users/juanjorge/Developer/gatsby-test-with-source-data/src/pages/404.js",
+      "componentChunkName": "component---src-pages-404-js",
+      "context": {},
+      "updatedAt": 1513705210553,
+      "pluginCreator___NODE": "Plugin prod-404",
+      "pluginCreatorId": "Plugin prod-404",
+      "componentPath": "/Users/juanjorge/Developer/gatsby-test-with-source-data/src/pages/404.js",
+      "id": "SitePage /404.html",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "5d514d14cfb2905e434c83484fe34a5f",
+        "owner": "internal-data-bridge"
+      }
+    }
+  },
+  "status": {
+    "plugins": {},
+    "PLUGINS_HASH": "58976ff2c48613661c4b2981218c3c7b"
+  },
+  "componentDataDependencies": {
+    "nodes": {},
+    "connections": {
+      "SitePage": [
+        "/",
+        "/dev-404-page/"
+      ]
+    }
+  }
+}

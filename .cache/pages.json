@@ -1,0 +1,86 @@
+[
+    {
+        "componentChunkName": "component---cache-dev-404-page-js",
+        "layout": "layout---index",
+        "layoutComponentChunkName": "component---src-layouts-index-js",
+        "jsonName": "dev-404-page.json",
+        "path": "/dev-404-page/"
+    },
+    {
+        "componentChunkName": "component---src-layouts-data-js",
+        "layout": "layout---index",
+        "layoutComponentChunkName": "component---src-layouts-index-js",
+        "jsonName": "calculadora-asi-afectara-a-tu-sueldo-la-reforma-de-impuestos.json",
+        "path": "/calculadora-asi-afectara-a-tu-sueldo-la-reforma-de-impuestos"
+    },
+    {
+        "componentChunkName": "component---src-layouts-data-js",
+        "layout": "layout---index",
+        "layoutComponentChunkName": "component---src-layouts-index-js",
+        "jsonName": "el-tren-descarrilado-en-seattle-viajaba-a-casi-el-triple-de-velocidad-permitida.json",
+        "path": "/el-tren-descarrilado-en-seattle-viajaba-a-casi-el-triple-de-velocidad-permitida"
+    },
+    {
+        "componentChunkName": "component---src-layouts-data-js",
+        "layout": "layout---index",
+        "layoutComponentChunkName": "component---src-layouts-index-js",
+        "jsonName": "residentes-de-california-se-reunen-en-stockton-para-celebrar-el-dia-internacional-del-migrante.json",
+        "path": "/residentes-de-california-se-reunen-en-stockton-para-celebrar-el-dia-internacional-del-migrante"
+    },
+    {
+        "componentChunkName": "component---src-layouts-data-js",
+        "layout": "layout---index",
+        "layoutComponentChunkName": "component---src-layouts-index-js",
+        "jsonName": "joven-dreamer-de-san-antonio-narra-lo-ocurrido-durante-las-protestas-en-washington-para-exigir-una-solucion-al-fin-de-daca.json",
+        "path": "/joven-dreamer-de-san-antonio-narra-lo-ocurrido-durante-las-protestas-en-washington-para-exigir-una-solucion-al-fin-de-daca"
+    },
+    {
+        "componentChunkName": "component---src-layouts-data-js",
+        "layout": "layout---index",
+        "layoutComponentChunkName": "component---src-layouts-index-js",
+        "jsonName": "inmigrante-secuestrado-en-arizona-habla-sobre-su-necesidad-de-huir-a-otro-estado-y-su-deseo-de-tramitar-una-visa-u.json",
+        "path": "/inmigrante-secuestrado-en-arizona-habla-sobre-su-necesidad-de-huir-a-otro-estado-y-su-deseo-de-tramitar-una-visa-u"
+    },
+    {
+        "componentChunkName": "component---src-layouts-data-js",
+        "layout": "layout---index",
+        "layoutComponentChunkName": "component---src-layouts-index-js",
+        "jsonName": "dreamers-de-california-se-unen-a-un-grupo-de-arizona-para-protestar-en-las-oficinas-del-senador-jeff-flake-en-phoenix.json",
+        "path": "/dreamers-de-california-se-unen-a-un-grupo-de-arizona-para-protestar-en-las-oficinas-del-senador-jeff-flake-en-phoenix"
+    },
+    {
+        "componentChunkName": "component---src-layouts-data-js",
+        "layout": "layout---index",
+        "layoutComponentChunkName": "component---src-layouts-index-js",
+        "jsonName": "una-jueza-falla-a-favor-de-dos-inmigrantes-adolescentes-indocumentadas-que-quieren-abortar.json",
+        "path": "/una-jueza-falla-a-favor-de-dos-inmigrantes-adolescentes-indocumentadas-que-quieren-abortar"
+    },
+    {
+        "componentChunkName": "component---src-layouts-data-js",
+        "layout": "layout---index",
+        "layoutComponentChunkName": "component---src-layouts-index-js",
+        "jsonName": "a-180-dias-de-carcel-1-000-dolares-de-multa-y-la-revocacion-de-daca-se-enfrentan-los-siete-dreamers-detenidos.json",
+        "path": "/a-180-dias-de-carcel-1-000-dolares-de-multa-y-la-revocacion-de-daca-se-enfrentan-los-siete-dreamers-detenidos"
+    },
+    {
+        "componentChunkName": "component---src-pages-404-js",
+        "layout": "layout---index",
+        "layoutComponentChunkName": "component---src-layouts-index-js",
+        "jsonName": "404.json",
+        "path": "/404/"
+    },
+    {
+        "componentChunkName": "component---src-pages-index-js",
+        "layout": "layout---index",
+        "layoutComponentChunkName": "component---src-layouts-index-js",
+        "jsonName": "index.json",
+        "path": "/"
+    },
+    {
+        "componentChunkName": "component---src-pages-404-js",
+        "layout": "layout---index",
+        "layoutComponentChunkName": "component---src-layouts-index-js",
+        "jsonName": "404-html.json",
+        "path": "/404.html"
+    }
+]
