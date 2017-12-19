@@ -8,7 +8,7 @@
       "component": "/Users/juanjorge/Developer/gatsby-test-with-source-data/.cache/dev-404-page.js",
       "componentChunkName": "component---cache-dev-404-page-js",
       "context": {},
-      "updatedAt": 1513705209429,
+      "updatedAt": 1513719493128,
       "pluginCreator___NODE": "Plugin dev-404-page",
       "pluginCreatorId": "Plugin dev-404-page",
       "componentPath": "/Users/juanjorge/Developer/gatsby-test-with-source-data/.cache/dev-404-page.js",
@@ -17,7 +17,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "17eae64cef68d3c66933c4833f3130d9",
+        "contentDigest": "56347e6c13cc7d2406cba2e8c10042b7",
         "owner": "internal-data-bridge"
       }
     },
@@ -287,7 +287,7 @@
       "resolve": "/Users/juanjorge/Developer/gatsby-test-with-source-data",
       "id": "Plugin default-site-plugin",
       "name": "default-site-plugin",
-      "version": "ec3d09848bfdef403efba66e8a9f5f7b",
+      "version": "acd2c09e42842f355624db6b555f79b8",
       "pluginOptions": {
         "plugins": []
       },
@@ -340,7 +340,7 @@
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "733c4f53a99d63699b3caac381bf7d8d",
+        "contentDigest": "99e84b4bc8e6a85e04a9a9ebb4ac6a66",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
@@ -351,14 +351,14 @@
       },
       "port": "8000",
       "host": "localhost",
-      "pathPrefix": "",
+      "pathPrefix": "/gatsby-dynamic-data",
       "polyfill": true,
-      "buildTime": "2017-12-19T17:40:01.950Z",
+      "buildTime": "2017-12-19T21:38:09.934Z",
       "id": "Site",
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "d0530a5ecaeb7d4ae4457dd0d5dcf975",
+        "contentDigest": "fc15d2181152677c3c2b154ae8cdaa86",
         "type": "Site",
         "owner": "internal-data-bridge"
       }
@@ -395,7 +395,7 @@
           }
         }
       },
-      "updatedAt": 1513705210516,
+      "updatedAt": 1513719493676,
       "pluginCreator___NODE": "Plugin default-site-plugin",
       "pluginCreatorId": "Plugin default-site-plugin",
       "componentPath": "/Users/juanjorge/Developer/gatsby-test-with-source-data/src/layouts/data.js",
@@ -404,7 +404,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "f9270153169704cd95fc793e833bc700",
+        "contentDigest": "a637c5b57b82fee46e57174ee82f83e6",
         "owner": "internal-data-bridge"
       }
     },
@@ -440,7 +440,7 @@
           }
         }
       },
-      "updatedAt": 1513705210517,
+      "updatedAt": 1513719493677,
       "pluginCreator___NODE": "Plugin default-site-plugin",
       "pluginCreatorId": "Plugin default-site-plugin",
       "componentPath": "/Users/juanjorge/Developer/gatsby-test-with-source-data/src/layouts/data.js",
@@ -449,7 +449,97 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "9878a3997aeac390f3636e28d5d6e3e7",
+        "contentDigest": "9ad626c5942617235831e74df5c9221c",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /al-punto-con-jorge-ramos-17-de-diciembre-2017": {
+      "layout": "index",
+      "jsonName": "al-punto-con-jorge-ramos-17-de-diciembre-2017.json",
+      "internalComponentName": "ComponentAlPuntoConJorgeRamos17DeDiciembre2017",
+      "path": "/al-punto-con-jorge-ramos-17-de-diciembre-2017",
+      "component": "/Users/juanjorge/Developer/gatsby-test-with-source-data/src/layouts/data.js",
+      "componentChunkName": "component---src-layouts-data-js",
+      "context": {
+        "slug": "00000160-70b0-da48-ab73-72b7447d0000",
+        "node": {
+          "id": "00000160-70b0-da48-ab73-72b7447d0000",
+          "publishDate": "2017-12-18T00:00:00-05:00",
+          "title": "Al Punto con Jorge Ramos - 17 de diciembre, 2017",
+          "widget": "Breaking News Titulares",
+          "shortTitle": "Al Punto con Jorge Ramos - 17 de diciembre",
+          "description": "Ricardo Anaya explica por qué quiere ser presidente de México. Meryl Streep, Tom Hanks and Steven Spielberg hablan sobre su nueva película ‘The Post’, sobre el acoso sexual y Trump.",
+          "images": {
+            "original": {
+              "href": "https://cdn2.uvnimg.com/da/02/8f4feacb410bbea910b53aa9ca5e/b1cc297361da43039a9a66e63aeb4a16",
+              "width": 1920,
+              "height": 1080
+            }
+          },
+          "children": [],
+          "parent": "00000160-70b0-da48-ab73-72b7447d0000",
+          "internal": {
+            "type": "Video",
+            "mediaType": "application/json",
+            "contentDigest": "d298462a89fd74681f96689e15fe2485"
+          }
+        }
+      },
+      "updatedAt": 1513719493678,
+      "pluginCreator___NODE": "Plugin default-site-plugin",
+      "pluginCreatorId": "Plugin default-site-plugin",
+      "componentPath": "/Users/juanjorge/Developer/gatsby-test-with-source-data/src/layouts/data.js",
+      "id": "SitePage /al-punto-con-jorge-ramos-17-de-diciembre-2017",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "02e88461c63866669d9bc3c11892e4ab",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /cuatro-dreamers-arrestados-en-el-congreso-siguen-en-la-carcel-para-presionar-al-senador-democrata-chuck-schumer": {
+      "layout": "index",
+      "jsonName": "cuatro-dreamers-arrestados-en-el-congreso-siguen-en-la-carcel-para-presionar-al-senador-democrata-chuck-schumer.json",
+      "internalComponentName": "ComponentCuatroDreamersArrestadosEnElCongresoSiguenEnLaCarcelParaPresionarAlSenadorDemocrataChuckSchumer",
+      "path": "/cuatro-dreamers-arrestados-en-el-congreso-siguen-en-la-carcel-para-presionar-al-senador-democrata-chuck-schumer",
+      "component": "/Users/juanjorge/Developer/gatsby-test-with-source-data/src/layouts/data.js",
+      "componentChunkName": "component---src-layouts-data-js",
+      "context": {
+        "slug": "00000160-6f7f-dade-a7f9-ff7f990f0000",
+        "node": {
+          "id": "00000160-6f7f-dade-a7f9-ff7f990f0000",
+          "publishDate": "2017-12-19T16:20:23-05:00",
+          "title": "Cuatro dreamers arrestados en el Congreso siguen en la cárcel para presionar al senador demócrata Chuck Schumer",
+          "widget": "Breaking News Titulares",
+          "shortTitle": "Cuatro dreamers arrestados en el Congreso siguen en la cárcel para presionar a demócratas",
+          "description": "Otros tres jóvenes inmigrantes fueron liberados. Las organizaciones proinmigrante llaman a la movilización en plena cuenta regresiva para encontrar una solución legal en el Congreso.",
+          "images": {
+            "original": {
+              "href": "https://cdn3.uvnimg.com/f7/4d/337682cb489f9d0b62470e5e2942/gettyimages-887140004.jpg",
+              "width": 3000,
+              "height": 2028
+            }
+          },
+          "children": [],
+          "parent": "00000160-6f7f-dade-a7f9-ff7f990f0000",
+          "internal": {
+            "type": "Article",
+            "mediaType": "application/json",
+            "contentDigest": "e2eaaf7452a9df979adbc23294104f77"
+          }
+        }
+      },
+      "updatedAt": 1513719493679,
+      "pluginCreator___NODE": "Plugin default-site-plugin",
+      "pluginCreatorId": "Plugin default-site-plugin",
+      "componentPath": "/Users/juanjorge/Developer/gatsby-test-with-source-data/src/layouts/data.js",
+      "id": "SitePage /cuatro-dreamers-arrestados-en-el-congreso-siguen-en-la-carcel-para-presionar-al-senador-democrata-chuck-schumer",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "ede87ce7f2cfea542bf10e3a061de0cb",
         "owner": "internal-data-bridge"
       }
     },
@@ -481,11 +571,11 @@
           "internal": {
             "type": "Video",
             "mediaType": "application/json",
-            "contentDigest": "50f124a0db8deaccafc4112a89fa8871"
+            "contentDigest": "b461077fb3b1ab97314b6256fc2bec5b"
           }
         }
       },
-      "updatedAt": 1513705210518,
+      "updatedAt": 1513719493687,
       "pluginCreator___NODE": "Plugin default-site-plugin",
       "pluginCreatorId": "Plugin default-site-plugin",
       "componentPath": "/Users/juanjorge/Developer/gatsby-test-with-source-data/src/layouts/data.js",
@@ -494,7 +584,52 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "3b1a7a855a4047049e7d6636a6f87a4d",
+        "contentDigest": "22876155bfe79f1667e3975c32207930",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /consejos-para-beneficiarios-de-daca-y-tps": {
+      "layout": "index",
+      "jsonName": "consejos-para-beneficiarios-de-daca-y-tps.json",
+      "internalComponentName": "ComponentConsejosParaBeneficiariosDeDacaYTps",
+      "path": "/consejos-para-beneficiarios-de-daca-y-tps",
+      "component": "/Users/juanjorge/Developer/gatsby-test-with-source-data/src/layouts/data.js",
+      "componentChunkName": "component---src-layouts-data-js",
+      "context": {
+        "slug": "00000160-7081-da48-ab73-7287a5930000",
+        "node": {
+          "id": "00000160-7081-da48-ab73-7287a5930000",
+          "publishDate": "2017-12-19T12:56:00-05:00",
+          "title": "Consejos para beneficiarios de DACA y TPS",
+          "widget": "Breaking News Titulares",
+          "shortTitle": "Consejos para beneficiarios de DACA y TPS",
+          "description": "Douglas Interiano, director de Proyecto Inmigrante, comparte algunas recomendaciones para beneficiarios de DACA y TPS que deseen salir del país.",
+          "images": {
+            "original": {
+              "href": "https://cdn3.uvnimg.com/9b/1f/ca301a39464db7d198d649d4a0d2/930a85e731ec4e0ea1280d09b22aa09f",
+              "width": 1920,
+              "height": 1080
+            }
+          },
+          "children": [],
+          "parent": "00000160-7081-da48-ab73-7287a5930000",
+          "internal": {
+            "type": "Video",
+            "mediaType": "application/json",
+            "contentDigest": "61fc7bb9a873f39ce9bdd511850e5fba"
+          }
+        }
+      },
+      "updatedAt": 1513719493687,
+      "pluginCreator___NODE": "Plugin default-site-plugin",
+      "pluginCreatorId": "Plugin default-site-plugin",
+      "componentPath": "/Users/juanjorge/Developer/gatsby-test-with-source-data/src/layouts/data.js",
+      "id": "SitePage /consejos-para-beneficiarios-de-daca-y-tps",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "ae4a8c33120fd28d94792a39387e444e",
         "owner": "internal-data-bridge"
       }
     },
@@ -526,11 +661,11 @@
           "internal": {
             "type": "Video",
             "mediaType": "application/json",
-            "contentDigest": "bc62fe344a14416d34382e9702af49f1"
+            "contentDigest": "c14058b392c73bc74c56ed858303090f"
           }
         }
       },
-      "updatedAt": 1513705210519,
+      "updatedAt": 1513719493688,
       "pluginCreator___NODE": "Plugin default-site-plugin",
       "pluginCreatorId": "Plugin default-site-plugin",
       "componentPath": "/Users/juanjorge/Developer/gatsby-test-with-source-data/src/layouts/data.js",
@@ -539,187 +674,52 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "89a8beaa2dcbcf0451394b0a0337c973",
+        "contentDigest": "0fb67ced0f05d7f504886dc71569fc48",
         "owner": "internal-data-bridge"
       }
     },
-    "SitePage /inmigrante-secuestrado-en-arizona-habla-sobre-su-necesidad-de-huir-a-otro-estado-y-su-deseo-de-tramitar-una-visa-u": {
+    "SitePage /cual-es-el-futuro-de-las-comunidades-amparadas-por-el-tps": {
       "layout": "index",
-      "jsonName": "inmigrante-secuestrado-en-arizona-habla-sobre-su-necesidad-de-huir-a-otro-estado-y-su-deseo-de-tramitar-una-visa-u.json",
-      "internalComponentName": "ComponentInmigranteSecuestradoEnArizonaHablaSobreSuNecesidadDeHuirAOtroEstadoYSuDeseoDeTramitarUnaVisaU",
-      "path": "/inmigrante-secuestrado-en-arizona-habla-sobre-su-necesidad-de-huir-a-otro-estado-y-su-deseo-de-tramitar-una-visa-u",
+      "jsonName": "cual-es-el-futuro-de-las-comunidades-amparadas-por-el-tps.json",
+      "internalComponentName": "ComponentCualEsElFuturoDeLasComunidadesAmparadasPorElTps",
+      "path": "/cual-es-el-futuro-de-las-comunidades-amparadas-por-el-tps",
       "component": "/Users/juanjorge/Developer/gatsby-test-with-source-data/src/layouts/data.js",
       "componentChunkName": "component---src-layouts-data-js",
       "context": {
-        "slug": "00000160-6f7a-da48-ab73-6fff9d520000",
+        "slug": "00000160-7034-da48-ab73-72b7a3900000",
         "node": {
-          "id": "00000160-6f7a-da48-ab73-6fff9d520000",
-          "publishDate": "2017-12-19T02:47:00-05:00",
-          "title": "Inmigrante secuestrado en Arizona habla sobre su necesidad de huir a otro estado y su deseo de tramitar una Visa U",
+          "id": "00000160-7034-da48-ab73-72b7a3900000",
+          "publishDate": "2017-12-19T09:04:00-05:00",
+          "title": "¿Cuál es el futuro de las comunidades amparadas por el TPS?",
           "widget": "Breaking News Titulares",
-          "shortTitle": "Inmigrante secuestrado en Arizona habla sobre su necesidad de huir a otro estado y su deseo de tramitar una Visa U",
-          "description": "El inmigrante dijo a Univision que el secuestro del que fue víctima en 2006 se trató de un “ajuste de cuentas” con alguien con quien tuvo problemas años antes y asegura que le gustaría mucho regularizar su estatus debido al miedo que siente de regresar a México.",
+          "shortTitle": "¿Cuál es el futuro de las comunidades amparadas por el TPS?",
+          "description": "La abogada Raissa Morris explica los cambios anunciados por la administración de Donald Trump y las fechas límite para renovar el permiso.",
           "images": {
             "original": {
-              "href": "https://cdn4.uvnimg.com/ac/98/b8c4060b4a7b8317abe9df83885c/787256d5c5b740c88e5eb03cdca07276",
-              "width": 1457,
-              "height": 826
-            }
-          },
-          "children": [],
-          "parent": "00000160-6f7a-da48-ab73-6fff9d520000",
-          "internal": {
-            "type": "Video",
-            "mediaType": "application/json",
-            "contentDigest": "0cb62eea9007fd9f0643e1659a5787d2"
-          }
-        }
-      },
-      "updatedAt": 1513705210521,
-      "pluginCreator___NODE": "Plugin default-site-plugin",
-      "pluginCreatorId": "Plugin default-site-plugin",
-      "componentPath": "/Users/juanjorge/Developer/gatsby-test-with-source-data/src/layouts/data.js",
-      "id": "SitePage /inmigrante-secuestrado-en-arizona-habla-sobre-su-necesidad-de-huir-a-otro-estado-y-su-deseo-de-tramitar-una-visa-u",
-      "parent": "SOURCE",
-      "children": [],
-      "internal": {
-        "type": "SitePage",
-        "contentDigest": "9ebbd9a8703ce6b7be31e899a865d990",
-        "owner": "internal-data-bridge"
-      }
-    },
-    "SitePage /dreamers-de-california-se-unen-a-un-grupo-de-arizona-para-protestar-en-las-oficinas-del-senador-jeff-flake-en-phoenix": {
-      "layout": "index",
-      "jsonName": "dreamers-de-california-se-unen-a-un-grupo-de-arizona-para-protestar-en-las-oficinas-del-senador-jeff-flake-en-phoenix.json",
-      "internalComponentName": "ComponentDreamersDeCaliforniaSeUnenAUnGrupoDeArizonaParaProtestarEnLasOficinasDelSenadorJeffFlakeEnPhoenix",
-      "path": "/dreamers-de-california-se-unen-a-un-grupo-de-arizona-para-protestar-en-las-oficinas-del-senador-jeff-flake-en-phoenix",
-      "component": "/Users/juanjorge/Developer/gatsby-test-with-source-data/src/layouts/data.js",
-      "componentChunkName": "component---src-layouts-data-js",
-      "context": {
-        "slug": "00000160-6f6e-da48-ab73-6fef34150000",
-        "node": {
-          "id": "00000160-6f6e-da48-ab73-6fef34150000",
-          "publishDate": "2017-12-19T02:33:00-05:00",
-          "title": "Dreamers de California se unen a un grupo de Arizona para protestar en las oficinas del senador Jeff Flake en Phoenix",
-          "widget": "Breaking News Titulares",
-          "shortTitle": "Dreamers de California se unen a un grupo de Arizona para protestar en las oficinas del senador Jeff Flake en Phoenix",
-          "description": "Los dreamers se manifestaron ya que afirman que el voto del senador Flake podría hacer una diferencia en la vida de los más de 800,000 beneficiarios de DACA, cuyo futuro se encuentra en el limbo.",
-          "images": {
-            "original": {
-              "href": "https://cdn1.uvnimg.com/35/86/37165bd34183a3504a400c3d582c/ccc9630801f44258b2008edbc7d6d9c3",
-              "width": 1461,
-              "height": 862
-            }
-          },
-          "children": [],
-          "parent": "00000160-6f6e-da48-ab73-6fef34150000",
-          "internal": {
-            "type": "Video",
-            "mediaType": "application/json",
-            "contentDigest": "fb713733242065c349d689a5fe647f94"
-          }
-        }
-      },
-      "updatedAt": 1513705210522,
-      "pluginCreator___NODE": "Plugin default-site-plugin",
-      "pluginCreatorId": "Plugin default-site-plugin",
-      "componentPath": "/Users/juanjorge/Developer/gatsby-test-with-source-data/src/layouts/data.js",
-      "id": "SitePage /dreamers-de-california-se-unen-a-un-grupo-de-arizona-para-protestar-en-las-oficinas-del-senador-jeff-flake-en-phoenix",
-      "parent": "SOURCE",
-      "children": [],
-      "internal": {
-        "type": "SitePage",
-        "contentDigest": "7008b8ac53dd4bc9ad22993d607d0878",
-        "owner": "internal-data-bridge"
-      }
-    },
-    "SitePage /una-jueza-falla-a-favor-de-dos-inmigrantes-adolescentes-indocumentadas-que-quieren-abortar": {
-      "layout": "index",
-      "jsonName": "una-jueza-falla-a-favor-de-dos-inmigrantes-adolescentes-indocumentadas-que-quieren-abortar.json",
-      "internalComponentName": "ComponentUnaJuezaFallaAFavorDeDosInmigrantesAdolescentesIndocumentadasQueQuierenAbortar",
-      "path": "/una-jueza-falla-a-favor-de-dos-inmigrantes-adolescentes-indocumentadas-que-quieren-abortar",
-      "component": "/Users/juanjorge/Developer/gatsby-test-with-source-data/src/layouts/data.js",
-      "componentChunkName": "component---src-layouts-data-js",
-      "context": {
-        "slug": "00000160-6ce7-d3f0-a5e7-7fff4e120000",
-        "node": {
-          "id": "00000160-6ce7-d3f0-a5e7-7fff4e120000",
-          "publishDate": "2017-12-19T00:09:45-05:00",
-          "title": "Una jueza falla a favor de dos inmigrantes adolescentes indocumentadas que quieren abortar",
-          "widget": "Breaking News Titulares",
-          "shortTitle": "Una jueza falla a favor de dos inmigrantes adolescentes indocumentadas que quieren abortar",
-          "description": "La jueza argumentó sobre la necesidad de \"preservar el derecho de (los adolescentes) a decidir si llevar o no sus embarazos a término\". Los casos son similares a los de otra menor (con nombre ficticio de 'Jane Doe') que logró abortar tras una batalla judicial en octubre pasado mientras se encontraba bajo custodia de autoridades migratorias. ",
-          "images": {
-            "original": {
-              "href": "https://cdn2.uvnimg.com/bd/47/d43edca84730895a201dd8bbb6b2/ap-17293582703795.jpg",
-              "width": 4444,
-              "height": 2920
-            }
-          },
-          "children": [],
-          "parent": "00000160-6ce7-d3f0-a5e7-7fff4e120000",
-          "internal": {
-            "type": "Article",
-            "mediaType": "application/json",
-            "contentDigest": "836fec30b369127554a7ddfd867540bb"
-          }
-        }
-      },
-      "updatedAt": 1513705210523,
-      "pluginCreator___NODE": "Plugin default-site-plugin",
-      "pluginCreatorId": "Plugin default-site-plugin",
-      "componentPath": "/Users/juanjorge/Developer/gatsby-test-with-source-data/src/layouts/data.js",
-      "id": "SitePage /una-jueza-falla-a-favor-de-dos-inmigrantes-adolescentes-indocumentadas-que-quieren-abortar",
-      "parent": "SOURCE",
-      "children": [],
-      "internal": {
-        "type": "SitePage",
-        "contentDigest": "2407415e4c2922710d3d36e887dc2b01",
-        "owner": "internal-data-bridge"
-      }
-    },
-    "SitePage /a-180-dias-de-carcel-1-000-dolares-de-multa-y-la-revocacion-de-daca-se-enfrentan-los-siete-dreamers-detenidos": {
-      "layout": "index",
-      "jsonName": "a-180-dias-de-carcel-1-000-dolares-de-multa-y-la-revocacion-de-daca-se-enfrentan-los-siete-dreamers-detenidos.json",
-      "internalComponentName": "ComponentA180DiasDeCarcel1000DolaresDeMultaYLaRevocacionDeDacaSeEnfrentanLosSieteDreamersDetenidos",
-      "path": "/a-180-dias-de-carcel-1-000-dolares-de-multa-y-la-revocacion-de-daca-se-enfrentan-los-siete-dreamers-detenidos",
-      "component": "/Users/juanjorge/Developer/gatsby-test-with-source-data/src/layouts/data.js",
-      "componentChunkName": "component---src-layouts-data-js",
-      "context": {
-        "slug": "00000160-6ed9-d252-a7f4-6edfdf980000",
-        "node": {
-          "id": "00000160-6ed9-d252-a7f4-6edfdf980000",
-          "publishDate": "2017-12-19T07:40:00-05:00",
-          "title": "A 180 días de cárcel, 1,000 dólares de multa y la revocación de DACA se enfrentan los siete dreamers detenidos",
-          "widget": "Breaking News Titulares",
-          "shortTitle": "A 180 días de cárcel, 1,000 dólares de multa y la revocación de DACA se enfrentan los siete dreamers detenidos",
-          "description": "En entrevista con Catalina Adorno, hermana de uno de los soñadores arrestados, dice que los jóvenes continúan encerrados porque no quieren revelar su identidad, ni firmar un papel con el que podrían ser deportados a sus países de origen. Los dreamers enfrentan huelga de hambre y lucharán hasta que se les garanticen su permanencia en EEUU.",
-          "images": {
-            "original": {
-              "href": "https://cdn2.uvnimg.com/32/e6/3c3b02c64deca3b9c9d3f320cfe1/599705cc704747cbbe3639e14b78d7db",
+              "href": "https://cdn3.uvnimg.com/b0/f5/6f3bbadb4c9289f612edc4d25e56/613c215152b54f24855c32aae5ba4306",
               "width": 1920,
               "height": 1080
             }
           },
           "children": [],
-          "parent": "00000160-6ed9-d252-a7f4-6edfdf980000",
+          "parent": "00000160-7034-da48-ab73-72b7a3900000",
           "internal": {
             "type": "Video",
             "mediaType": "application/json",
-            "contentDigest": "92ae99f750a79c35fb374bdd5722e232"
+            "contentDigest": "7543a1fb6f336b53044abd416397eecb"
           }
         }
       },
-      "updatedAt": 1513705210524,
+      "updatedAt": 1513719493689,
       "pluginCreator___NODE": "Plugin default-site-plugin",
       "pluginCreatorId": "Plugin default-site-plugin",
       "componentPath": "/Users/juanjorge/Developer/gatsby-test-with-source-data/src/layouts/data.js",
-      "id": "SitePage /a-180-dias-de-carcel-1-000-dolares-de-multa-y-la-revocacion-de-daca-se-enfrentan-los-siete-dreamers-detenidos",
+      "id": "SitePage /cual-es-el-futuro-de-las-comunidades-amparadas-por-el-tps",
       "parent": "SOURCE",
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "9790bef99b24c40f4a241b5eb9f4d967",
+        "contentDigest": "609103e27a7a7e0eef9ce68c8ce5cf78",
         "owner": "internal-data-bridge"
       }
     },
@@ -731,7 +731,7 @@
       "component": "/Users/juanjorge/Developer/gatsby-test-with-source-data/src/pages/404.js",
       "componentChunkName": "component---src-pages-404-js",
       "context": {},
-      "updatedAt": 1513705210546,
+      "updatedAt": 1513719493700,
       "pluginCreator___NODE": "Plugin component-page-creator",
       "pluginCreatorId": "Plugin component-page-creator",
       "componentPath": "/Users/juanjorge/Developer/gatsby-test-with-source-data/src/pages/404.js",
@@ -740,7 +740,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "dea21d1d3d21c85e4042c995f6e9224f",
+        "contentDigest": "af2ba8a9c6de2ef453d764ffd2ceecc4",
         "owner": "internal-data-bridge"
       }
     },
@@ -752,7 +752,7 @@
       "component": "/Users/juanjorge/Developer/gatsby-test-with-source-data/src/pages/index.js",
       "componentChunkName": "component---src-pages-index-js",
       "context": {},
-      "updatedAt": 1513705210548,
+      "updatedAt": 1513719493701,
       "pluginCreator___NODE": "Plugin component-page-creator",
       "pluginCreatorId": "Plugin component-page-creator",
       "componentPath": "/Users/juanjorge/Developer/gatsby-test-with-source-data/src/pages/index.js",
@@ -761,7 +761,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "f388ca573b0d3bcc15a12e07a0dfa7b9",
+        "contentDigest": "827b76a11126ff97e9fd07ddaa480f0d",
         "owner": "internal-data-bridge"
       }
     },
@@ -773,7 +773,7 @@
       "component": "/Users/juanjorge/Developer/gatsby-test-with-source-data/src/pages/404.js",
       "componentChunkName": "component---src-pages-404-js",
       "context": {},
-      "updatedAt": 1513705210553,
+      "updatedAt": 1513719493703,
       "pluginCreator___NODE": "Plugin prod-404",
       "pluginCreatorId": "Plugin prod-404",
       "componentPath": "/Users/juanjorge/Developer/gatsby-test-with-source-data/src/pages/404.js",
@@ -782,21 +782,21 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "5d514d14cfb2905e434c83484fe34a5f",
+        "contentDigest": "0993427d0084fcecb58538c07e56022f",
         "owner": "internal-data-bridge"
       }
     }
   },
   "status": {
     "plugins": {},
-    "PLUGINS_HASH": "58976ff2c48613661c4b2981218c3c7b"
+    "PLUGINS_HASH": "07c93b40879f413ea54d007b70458061"
   },
   "componentDataDependencies": {
     "nodes": {},
     "connections": {
       "SitePage": [
-        "/",
-        "/dev-404-page/"
+        "/dev-404-page/",
+        "/"
       ]
     }
   }

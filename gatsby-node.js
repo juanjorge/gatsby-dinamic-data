@@ -33,10 +33,8 @@
                     .update(JSON.stringify(_entity))
                     .digest(`hex`)
                     const children = []
-                    console.log({
-                        _widget: _widget
-                    });
-                    let entity = {
+                    
+                    let node = {
                         id: id,
                         publishDate: _entity.publishDate,
                         url: _entity.url,
@@ -46,13 +44,9 @@
                         description: _entity.description,
                         images: {
                             original: _entity.image.renditions.original
-                        }
-                    }
-                    
-                    let node = {
-                        ...entity,
+                        },
                         children,
-                        parent: entity.id,
+                        parent: id,
                         internal: {
                             type: $type,
                             mediaType: 'application/json',

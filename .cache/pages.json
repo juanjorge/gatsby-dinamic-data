@@ -24,8 +24,29 @@
         "componentChunkName": "component---src-layouts-data-js",
         "layout": "layout---index",
         "layoutComponentChunkName": "component---src-layouts-index-js",
+        "jsonName": "al-punto-con-jorge-ramos-17-de-diciembre-2017.json",
+        "path": "/al-punto-con-jorge-ramos-17-de-diciembre-2017"
+    },
+    {
+        "componentChunkName": "component---src-layouts-data-js",
+        "layout": "layout---index",
+        "layoutComponentChunkName": "component---src-layouts-index-js",
+        "jsonName": "cuatro-dreamers-arrestados-en-el-congreso-siguen-en-la-carcel-para-presionar-al-senador-democrata-chuck-schumer.json",
+        "path": "/cuatro-dreamers-arrestados-en-el-congreso-siguen-en-la-carcel-para-presionar-al-senador-democrata-chuck-schumer"
+    },
+    {
+        "componentChunkName": "component---src-layouts-data-js",
+        "layout": "layout---index",
+        "layoutComponentChunkName": "component---src-layouts-index-js",
         "jsonName": "residentes-de-california-se-reunen-en-stockton-para-celebrar-el-dia-internacional-del-migrante.json",
         "path": "/residentes-de-california-se-reunen-en-stockton-para-celebrar-el-dia-internacional-del-migrante"
+    },
+    {
+        "componentChunkName": "component---src-layouts-data-js",
+        "layout": "layout---index",
+        "layoutComponentChunkName": "component---src-layouts-index-js",
+        "jsonName": "consejos-para-beneficiarios-de-daca-y-tps.json",
+        "path": "/consejos-para-beneficiarios-de-daca-y-tps"
     },
     {
         "componentChunkName": "component---src-layouts-data-js",
@@ -38,29 +59,8 @@
         "componentChunkName": "component---src-layouts-data-js",
         "layout": "layout---index",
         "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "inmigrante-secuestrado-en-arizona-habla-sobre-su-necesidad-de-huir-a-otro-estado-y-su-deseo-de-tramitar-una-visa-u.json",
-        "path": "/inmigrante-secuestrado-en-arizona-habla-sobre-su-necesidad-de-huir-a-otro-estado-y-su-deseo-de-tramitar-una-visa-u"
-    },
-    {
-        "componentChunkName": "component---src-layouts-data-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "dreamers-de-california-se-unen-a-un-grupo-de-arizona-para-protestar-en-las-oficinas-del-senador-jeff-flake-en-phoenix.json",
-        "path": "/dreamers-de-california-se-unen-a-un-grupo-de-arizona-para-protestar-en-las-oficinas-del-senador-jeff-flake-en-phoenix"
-    },
-    {
-        "componentChunkName": "component---src-layouts-data-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "una-jueza-falla-a-favor-de-dos-inmigrantes-adolescentes-indocumentadas-que-quieren-abortar.json",
-        "path": "/una-jueza-falla-a-favor-de-dos-inmigrantes-adolescentes-indocumentadas-que-quieren-abortar"
-    },
-    {
-        "componentChunkName": "component---src-layouts-data-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "a-180-dias-de-carcel-1-000-dolares-de-multa-y-la-revocacion-de-daca-se-enfrentan-los-siete-dreamers-detenidos.json",
-        "path": "/a-180-dias-de-carcel-1-000-dolares-de-multa-y-la-revocacion-de-daca-se-enfrentan-los-siete-dreamers-detenidos"
+        "jsonName": "cual-es-el-futuro-de-las-comunidades-amparadas-por-el-tps.json",
+        "path": "/cual-es-el-futuro-de-las-comunidades-amparadas-por-el-tps"
     },
     {
         "componentChunkName": "component---src-pages-404-js",
