@@ -1,23 +1,13 @@
 {
   "nodes": {
     "SitePage /dev-404-page/": {
-      "layout": "index",
-      "jsonName": "dev-404-page.json",
-      "internalComponentName": "ComponentDev404Page",
       "path": "/dev-404-page/",
-      "component": "/Users/juanjorge/Developer/gatsby-test-with-source-data/.cache/dev-404-page.js",
-      "componentChunkName": "component---cache-dev-404-page-js",
-      "context": {},
-      "updatedAt": 1513719493128,
-      "pluginCreator___NODE": "Plugin dev-404-page",
-      "pluginCreatorId": "Plugin dev-404-page",
-      "componentPath": "/Users/juanjorge/Developer/gatsby-test-with-source-data/.cache/dev-404-page.js",
       "id": "SitePage /dev-404-page/",
       "parent": "SOURCE",
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "56347e6c13cc7d2406cba2e8c10042b7",
+        "contentDigest": "f91d29e10ba680b413138cf9ed86e655",
         "owner": "internal-data-bridge"
       }
     },
@@ -287,7 +277,7 @@
       "resolve": "/Users/juanjorge/Developer/gatsby-test-with-source-data",
       "id": "Plugin default-site-plugin",
       "name": "default-site-plugin",
-      "version": "acd2c09e42842f355624db6b555f79b8",
+      "version": "15e522dd3f4364d3ab589ee410b8c4cd",
       "pluginOptions": {
         "plugins": []
       },
@@ -306,6 +296,10 @@
         "author": "Kyle Mathews <mathews.kyle@gmail.com>",
         "license": "MIT",
         "dependencies": [
+          {
+            "name": "axios",
+            "version": "^0.17.1"
+          },
           {
             "name": "gatsby",
             "version": "^1.9.141"
@@ -331,6 +325,10 @@
           {
             "name": "prettier",
             "version": "^1.9.2"
+          },
+          {
+            "name": "axios",
+            "version": "^0.17.1"
           }
         ],
         "peerDependencies": [],
@@ -340,7 +338,7 @@
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "99e84b4bc8e6a85e04a9a9ebb4ac6a66",
+        "contentDigest": "3b00c96564dcc07b931b67f6091ff873",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
@@ -349,16 +347,14 @@
       "siteMetadata": {
         "title": "Gatsby Default Starter"
       },
-      "port": "8000",
-      "host": "localhost",
       "pathPrefix": "/gatsby-dynamic-data",
       "polyfill": true,
-      "buildTime": "2017-12-19T21:38:09.934Z",
+      "buildTime": "2017-12-19T22:24:57.454Z",
       "id": "Site",
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "fc15d2181152677c3c2b154ae8cdaa86",
+        "contentDigest": "969fda5de0b835ad7ece4f78d3d99923",
         "type": "Site",
         "owner": "internal-data-bridge"
       }
@@ -395,7 +391,7 @@
           }
         }
       },
-      "updatedAt": 1513719493676,
+      "updatedAt": 1513722302057,
       "pluginCreator___NODE": "Plugin default-site-plugin",
       "pluginCreatorId": "Plugin default-site-plugin",
       "componentPath": "/Users/juanjorge/Developer/gatsby-test-with-source-data/src/layouts/data.js",
@@ -404,7 +400,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "a637c5b57b82fee46e57174ee82f83e6",
+        "contentDigest": "71250e804b9f206905f878f31bb289d0",
         "owner": "internal-data-bridge"
       }
     },
@@ -440,7 +436,7 @@
           }
         }
       },
-      "updatedAt": 1513719493677,
+      "updatedAt": 1513722302058,
       "pluginCreator___NODE": "Plugin default-site-plugin",
       "pluginCreatorId": "Plugin default-site-plugin",
       "componentPath": "/Users/juanjorge/Developer/gatsby-test-with-source-data/src/layouts/data.js",
@@ -449,7 +445,97 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "9ad626c5942617235831e74df5c9221c",
+        "contentDigest": "602ac49d4370e798ab2b40c8d031ebdf",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /pesimismo-ante-los-nulos-avances-por-proteger-a-los-dreamers-en-el-congreso-antes-de-fin-de-ano": {
+      "layout": "index",
+      "jsonName": "pesimismo-ante-los-nulos-avances-por-proteger-a-los-dreamers-en-el-congreso-antes-de-fin-de-ano.json",
+      "internalComponentName": "ComponentPesimismoAnteLosNulosAvancesPorProtegerALosDreamersEnElCongresoAntesDeFinDeAno",
+      "path": "/pesimismo-ante-los-nulos-avances-por-proteger-a-los-dreamers-en-el-congreso-antes-de-fin-de-ano",
+      "component": "/Users/juanjorge/Developer/gatsby-test-with-source-data/src/layouts/data.js",
+      "componentChunkName": "component---src-layouts-data-js",
+      "context": {
+        "slug": "00000160-708f-d760-adea-7b8fb9320000",
+        "node": {
+          "id": "00000160-708f-d760-adea-7b8fb9320000",
+          "publishDate": "2017-12-19T17:03:51-05:00",
+          "title": "Pesimismo ante los nulos avances por proteger a los dreamers en el Congreso antes de fin de año",
+          "widget": "Breaking News Titulares",
+          "shortTitle": "Pesimismo ante los nulos avances por proteger a los dreamers en el Congreso antes de fin de año",
+          "description": "Tanto demócratas como republicanos reconocen que las negociaciones se encuentran en un punto muerto y comentan que existen probabilidades de retomar las conversaciones a principios del 2018.",
+          "images": {
+            "original": {
+              "href": "https://cdn2.uvnimg.com/61/f2/74397fd74fc38074b578bdd54ee1/gettyimages-887139994.jpg",
+              "width": 3000,
+              "height": 2123
+            }
+          },
+          "children": [],
+          "parent": "00000160-708f-d760-adea-7b8fb9320000",
+          "internal": {
+            "type": "Article",
+            "mediaType": "application/json",
+            "contentDigest": "ceefd887a7122efde4eb1cf20b036a09"
+          }
+        }
+      },
+      "updatedAt": 1513722302059,
+      "pluginCreator___NODE": "Plugin default-site-plugin",
+      "pluginCreatorId": "Plugin default-site-plugin",
+      "componentPath": "/Users/juanjorge/Developer/gatsby-test-with-source-data/src/layouts/data.js",
+      "id": "SitePage /pesimismo-ante-los-nulos-avances-por-proteger-a-los-dreamers-en-el-congreso-antes-de-fin-de-ano",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "fe04c7197e8691d9981d15009ddcdc6e",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /cuatro-de-los-dreamers-arrestados-en-el-congreso-deciden-seguir-en-la-carcel-para-presionar-a-los-democratas": {
+      "layout": "index",
+      "jsonName": "cuatro-de-los-dreamers-arrestados-en-el-congreso-deciden-seguir-en-la-carcel-para-presionar-a-los-democratas.json",
+      "internalComponentName": "ComponentCuatroDeLosDreamersArrestadosEnElCongresoDecidenSeguirEnLaCarcelParaPresionarALosDemocratas",
+      "path": "/cuatro-de-los-dreamers-arrestados-en-el-congreso-deciden-seguir-en-la-carcel-para-presionar-a-los-democratas",
+      "component": "/Users/juanjorge/Developer/gatsby-test-with-source-data/src/layouts/data.js",
+      "componentChunkName": "component---src-layouts-data-js",
+      "context": {
+        "slug": "00000160-6f7f-dade-a7f9-ff7f990f0000",
+        "node": {
+          "id": "00000160-6f7f-dade-a7f9-ff7f990f0000",
+          "publishDate": "2017-12-19T16:20:23-05:00",
+          "title": "Cuatro de los dreamers arrestados en el Congreso deciden seguir en la cárcel para presionar a los demócratas",
+          "widget": "Breaking News Titulares",
+          "shortTitle": "Cuatro dreamers arrestados en el Congreso deciden seguir en la cárcel como protesta",
+          "description": "Otros tres jóvenes inmigrantes fueron liberados. Las organizaciones civiles llaman a la movilización en plena cuenta regresiva para encontrar una solución legal en el Congreso para los dreamers.",
+          "images": {
+            "original": {
+              "href": "https://cdn3.uvnimg.com/f7/4d/337682cb489f9d0b62470e5e2942/gettyimages-887140004.jpg",
+              "width": 3000,
+              "height": 2028
+            }
+          },
+          "children": [],
+          "parent": "00000160-6f7f-dade-a7f9-ff7f990f0000",
+          "internal": {
+            "type": "Article",
+            "mediaType": "application/json",
+            "contentDigest": "18f7e7534d5b34d536f7fa924077505c"
+          }
+        }
+      },
+      "updatedAt": 1513722302061,
+      "pluginCreator___NODE": "Plugin default-site-plugin",
+      "pluginCreatorId": "Plugin default-site-plugin",
+      "componentPath": "/Users/juanjorge/Developer/gatsby-test-with-source-data/src/layouts/data.js",
+      "id": "SitePage /cuatro-de-los-dreamers-arrestados-en-el-congreso-deciden-seguir-en-la-carcel-para-presionar-a-los-democratas",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "007e269a32b8d0e2b60917279d479fe2",
         "owner": "internal-data-bridge"
       }
     },
@@ -485,7 +571,7 @@
           }
         }
       },
-      "updatedAt": 1513719493678,
+      "updatedAt": 1513722302062,
       "pluginCreator___NODE": "Plugin default-site-plugin",
       "pluginCreatorId": "Plugin default-site-plugin",
       "componentPath": "/Users/juanjorge/Developer/gatsby-test-with-source-data/src/layouts/data.js",
@@ -494,52 +580,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "02e88461c63866669d9bc3c11892e4ab",
-        "owner": "internal-data-bridge"
-      }
-    },
-    "SitePage /cuatro-dreamers-arrestados-en-el-congreso-siguen-en-la-carcel-para-presionar-al-senador-democrata-chuck-schumer": {
-      "layout": "index",
-      "jsonName": "cuatro-dreamers-arrestados-en-el-congreso-siguen-en-la-carcel-para-presionar-al-senador-democrata-chuck-schumer.json",
-      "internalComponentName": "ComponentCuatroDreamersArrestadosEnElCongresoSiguenEnLaCarcelParaPresionarAlSenadorDemocrataChuckSchumer",
-      "path": "/cuatro-dreamers-arrestados-en-el-congreso-siguen-en-la-carcel-para-presionar-al-senador-democrata-chuck-schumer",
-      "component": "/Users/juanjorge/Developer/gatsby-test-with-source-data/src/layouts/data.js",
-      "componentChunkName": "component---src-layouts-data-js",
-      "context": {
-        "slug": "00000160-6f7f-dade-a7f9-ff7f990f0000",
-        "node": {
-          "id": "00000160-6f7f-dade-a7f9-ff7f990f0000",
-          "publishDate": "2017-12-19T16:20:23-05:00",
-          "title": "Cuatro dreamers arrestados en el Congreso siguen en la cárcel para presionar al senador demócrata Chuck Schumer",
-          "widget": "Breaking News Titulares",
-          "shortTitle": "Cuatro dreamers arrestados en el Congreso siguen en la cárcel para presionar a demócratas",
-          "description": "Otros tres jóvenes inmigrantes fueron liberados. Las organizaciones proinmigrante llaman a la movilización en plena cuenta regresiva para encontrar una solución legal en el Congreso.",
-          "images": {
-            "original": {
-              "href": "https://cdn3.uvnimg.com/f7/4d/337682cb489f9d0b62470e5e2942/gettyimages-887140004.jpg",
-              "width": 3000,
-              "height": 2028
-            }
-          },
-          "children": [],
-          "parent": "00000160-6f7f-dade-a7f9-ff7f990f0000",
-          "internal": {
-            "type": "Article",
-            "mediaType": "application/json",
-            "contentDigest": "e2eaaf7452a9df979adbc23294104f77"
-          }
-        }
-      },
-      "updatedAt": 1513719493679,
-      "pluginCreator___NODE": "Plugin default-site-plugin",
-      "pluginCreatorId": "Plugin default-site-plugin",
-      "componentPath": "/Users/juanjorge/Developer/gatsby-test-with-source-data/src/layouts/data.js",
-      "id": "SitePage /cuatro-dreamers-arrestados-en-el-congreso-siguen-en-la-carcel-para-presionar-al-senador-democrata-chuck-schumer",
-      "parent": "SOURCE",
-      "children": [],
-      "internal": {
-        "type": "SitePage",
-        "contentDigest": "ede87ce7f2cfea542bf10e3a061de0cb",
+        "contentDigest": "366a4f6d3d98718debc120abb0ec41bf",
         "owner": "internal-data-bridge"
       }
     },
@@ -575,7 +616,7 @@
           }
         }
       },
-      "updatedAt": 1513719493687,
+      "updatedAt": 1513722302063,
       "pluginCreator___NODE": "Plugin default-site-plugin",
       "pluginCreatorId": "Plugin default-site-plugin",
       "componentPath": "/Users/juanjorge/Developer/gatsby-test-with-source-data/src/layouts/data.js",
@@ -584,7 +625,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "22876155bfe79f1667e3975c32207930",
+        "contentDigest": "97e78a59a0f9ac787921563fb79294da",
         "owner": "internal-data-bridge"
       }
     },
@@ -620,7 +661,7 @@
           }
         }
       },
-      "updatedAt": 1513719493687,
+      "updatedAt": 1513722302064,
       "pluginCreator___NODE": "Plugin default-site-plugin",
       "pluginCreatorId": "Plugin default-site-plugin",
       "componentPath": "/Users/juanjorge/Developer/gatsby-test-with-source-data/src/layouts/data.js",
@@ -629,7 +670,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "ae4a8c33120fd28d94792a39387e444e",
+        "contentDigest": "f918fc629c33d26eace21176237ac437",
         "owner": "internal-data-bridge"
       }
     },
@@ -665,7 +706,7 @@
           }
         }
       },
-      "updatedAt": 1513719493688,
+      "updatedAt": 1513722302065,
       "pluginCreator___NODE": "Plugin default-site-plugin",
       "pluginCreatorId": "Plugin default-site-plugin",
       "componentPath": "/Users/juanjorge/Developer/gatsby-test-with-source-data/src/layouts/data.js",
@@ -674,52 +715,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "0fb67ced0f05d7f504886dc71569fc48",
-        "owner": "internal-data-bridge"
-      }
-    },
-    "SitePage /cual-es-el-futuro-de-las-comunidades-amparadas-por-el-tps": {
-      "layout": "index",
-      "jsonName": "cual-es-el-futuro-de-las-comunidades-amparadas-por-el-tps.json",
-      "internalComponentName": "ComponentCualEsElFuturoDeLasComunidadesAmparadasPorElTps",
-      "path": "/cual-es-el-futuro-de-las-comunidades-amparadas-por-el-tps",
-      "component": "/Users/juanjorge/Developer/gatsby-test-with-source-data/src/layouts/data.js",
-      "componentChunkName": "component---src-layouts-data-js",
-      "context": {
-        "slug": "00000160-7034-da48-ab73-72b7a3900000",
-        "node": {
-          "id": "00000160-7034-da48-ab73-72b7a3900000",
-          "publishDate": "2017-12-19T09:04:00-05:00",
-          "title": "¿Cuál es el futuro de las comunidades amparadas por el TPS?",
-          "widget": "Breaking News Titulares",
-          "shortTitle": "¿Cuál es el futuro de las comunidades amparadas por el TPS?",
-          "description": "La abogada Raissa Morris explica los cambios anunciados por la administración de Donald Trump y las fechas límite para renovar el permiso.",
-          "images": {
-            "original": {
-              "href": "https://cdn3.uvnimg.com/b0/f5/6f3bbadb4c9289f612edc4d25e56/613c215152b54f24855c32aae5ba4306",
-              "width": 1920,
-              "height": 1080
-            }
-          },
-          "children": [],
-          "parent": "00000160-7034-da48-ab73-72b7a3900000",
-          "internal": {
-            "type": "Video",
-            "mediaType": "application/json",
-            "contentDigest": "7543a1fb6f336b53044abd416397eecb"
-          }
-        }
-      },
-      "updatedAt": 1513719493689,
-      "pluginCreator___NODE": "Plugin default-site-plugin",
-      "pluginCreatorId": "Plugin default-site-plugin",
-      "componentPath": "/Users/juanjorge/Developer/gatsby-test-with-source-data/src/layouts/data.js",
-      "id": "SitePage /cual-es-el-futuro-de-las-comunidades-amparadas-por-el-tps",
-      "parent": "SOURCE",
-      "children": [],
-      "internal": {
-        "type": "SitePage",
-        "contentDigest": "609103e27a7a7e0eef9ce68c8ce5cf78",
+        "contentDigest": "578f5d1f86a2c976214c70be578c6737",
         "owner": "internal-data-bridge"
       }
     },
@@ -731,7 +727,7 @@
       "component": "/Users/juanjorge/Developer/gatsby-test-with-source-data/src/pages/404.js",
       "componentChunkName": "component---src-pages-404-js",
       "context": {},
-      "updatedAt": 1513719493700,
+      "updatedAt": 1513722302081,
       "pluginCreator___NODE": "Plugin component-page-creator",
       "pluginCreatorId": "Plugin component-page-creator",
       "componentPath": "/Users/juanjorge/Developer/gatsby-test-with-source-data/src/pages/404.js",
@@ -740,7 +736,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "af2ba8a9c6de2ef453d764ffd2ceecc4",
+        "contentDigest": "b5322feef84e6ede2fb7022322b28a0c",
         "owner": "internal-data-bridge"
       }
     },
@@ -752,7 +748,7 @@
       "component": "/Users/juanjorge/Developer/gatsby-test-with-source-data/src/pages/index.js",
       "componentChunkName": "component---src-pages-index-js",
       "context": {},
-      "updatedAt": 1513719493701,
+      "updatedAt": 1513722302082,
       "pluginCreator___NODE": "Plugin component-page-creator",
       "pluginCreatorId": "Plugin component-page-creator",
       "componentPath": "/Users/juanjorge/Developer/gatsby-test-with-source-data/src/pages/index.js",
@@ -761,7 +757,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "827b76a11126ff97e9fd07ddaa480f0d",
+        "contentDigest": "0d9efeed59740edcb5877532ce5e3a2b",
         "owner": "internal-data-bridge"
       }
     },
@@ -773,7 +769,7 @@
       "component": "/Users/juanjorge/Developer/gatsby-test-with-source-data/src/pages/404.js",
       "componentChunkName": "component---src-pages-404-js",
       "context": {},
-      "updatedAt": 1513719493703,
+      "updatedAt": 1513722302084,
       "pluginCreator___NODE": "Plugin prod-404",
       "pluginCreatorId": "Plugin prod-404",
       "componentPath": "/Users/juanjorge/Developer/gatsby-test-with-source-data/src/pages/404.js",
@@ -782,20 +778,19 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "0993427d0084fcecb58538c07e56022f",
+        "contentDigest": "609f3c4fb517955d3ff889a7048ad760",
         "owner": "internal-data-bridge"
       }
     }
   },
   "status": {
     "plugins": {},
-    "PLUGINS_HASH": "07c93b40879f413ea54d007b70458061"
+    "PLUGINS_HASH": "8bceaaa183464c186f485b3378bdae63"
   },
   "componentDataDependencies": {
     "nodes": {},
     "connections": {
       "SitePage": [
-        "/dev-404-page/",
         "/"
       ]
     }

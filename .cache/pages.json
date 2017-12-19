@@ -1,12 +1,5 @@
 [
     {
-        "componentChunkName": "component---cache-dev-404-page-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "dev-404-page.json",
-        "path": "/dev-404-page/"
-    },
-    {
         "componentChunkName": "component---src-layouts-data-js",
         "layout": "layout---index",
         "layoutComponentChunkName": "component---src-layouts-index-js",
@@ -24,15 +17,22 @@
         "componentChunkName": "component---src-layouts-data-js",
         "layout": "layout---index",
         "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "al-punto-con-jorge-ramos-17-de-diciembre-2017.json",
-        "path": "/al-punto-con-jorge-ramos-17-de-diciembre-2017"
+        "jsonName": "pesimismo-ante-los-nulos-avances-por-proteger-a-los-dreamers-en-el-congreso-antes-de-fin-de-ano.json",
+        "path": "/pesimismo-ante-los-nulos-avances-por-proteger-a-los-dreamers-en-el-congreso-antes-de-fin-de-ano"
     },
     {
         "componentChunkName": "component---src-layouts-data-js",
         "layout": "layout---index",
         "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "cuatro-dreamers-arrestados-en-el-congreso-siguen-en-la-carcel-para-presionar-al-senador-democrata-chuck-schumer.json",
-        "path": "/cuatro-dreamers-arrestados-en-el-congreso-siguen-en-la-carcel-para-presionar-al-senador-democrata-chuck-schumer"
+        "jsonName": "cuatro-de-los-dreamers-arrestados-en-el-congreso-deciden-seguir-en-la-carcel-para-presionar-a-los-democratas.json",
+        "path": "/cuatro-de-los-dreamers-arrestados-en-el-congreso-deciden-seguir-en-la-carcel-para-presionar-a-los-democratas"
+    },
+    {
+        "componentChunkName": "component---src-layouts-data-js",
+        "layout": "layout---index",
+        "layoutComponentChunkName": "component---src-layouts-index-js",
+        "jsonName": "al-punto-con-jorge-ramos-17-de-diciembre-2017.json",
+        "path": "/al-punto-con-jorge-ramos-17-de-diciembre-2017"
     },
     {
         "componentChunkName": "component---src-layouts-data-js",
@@ -54,13 +54,6 @@
         "layoutComponentChunkName": "component---src-layouts-index-js",
         "jsonName": "joven-dreamer-de-san-antonio-narra-lo-ocurrido-durante-las-protestas-en-washington-para-exigir-una-solucion-al-fin-de-daca.json",
         "path": "/joven-dreamer-de-san-antonio-narra-lo-ocurrido-durante-las-protestas-en-washington-para-exigir-una-solucion-al-fin-de-daca"
-    },
-    {
-        "componentChunkName": "component---src-layouts-data-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "cual-es-el-futuro-de-las-comunidades-amparadas-por-el-tps.json",
-        "path": "/cual-es-el-futuro-de-las-comunidades-amparadas-por-el-tps"
     },
     {
         "componentChunkName": "component---src-pages-404-js",

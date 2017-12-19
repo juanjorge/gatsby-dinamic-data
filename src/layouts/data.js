@@ -9,9 +9,6 @@ import './index.css'
 class BlogPostRoute extends React.Component {
     render() {
       const node = this.props.pathContext.node
-      console.log({
-        node_info: node
-      });
       return (
         <div class="uvn-content">
           <header>
