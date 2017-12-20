@@ -24,6 +24,34 @@
         "componentChunkName": "component---src-layouts-data-js",
         "layout": "layout---index",
         "layoutComponentChunkName": "component---src-layouts-index-js",
+        "jsonName": "republicanos-y-democratas-no-esperan-ningun-acuerdo-para-proteger-a-los-dreamers-antes-de-que-finalice-el-ano.json",
+        "path": "/republicanos-y-democratas-no-esperan-ningun-acuerdo-para-proteger-a-los-dreamers-antes-de-que-finalice-el-ano"
+    },
+    {
+        "componentChunkName": "component---src-layouts-data-js",
+        "layout": "layout---index",
+        "layoutComponentChunkName": "component---src-layouts-index-js",
+        "jsonName": "esta-joven-le-pide-a-santa-por-el-tps-de-sus-padres.json",
+        "path": "/esta-joven-le-pide-a-santa-por-el-tps-de-sus-padres"
+    },
+    {
+        "componentChunkName": "component---src-layouts-data-js",
+        "layout": "layout---index",
+        "layoutComponentChunkName": "component---src-layouts-index-js",
+        "jsonName": "el-proceso-que-debe-seguir-un-ciudadano-o-residente-permanente-al-solicitar-el-cambio-de-estado-de-un-familiar.json",
+        "path": "/el-proceso-que-debe-seguir-un-ciudadano-o-residente-permanente-al-solicitar-el-cambio-de-estado-de-un-familiar"
+    },
+    {
+        "componentChunkName": "component---src-layouts-data-js",
+        "layout": "layout---index",
+        "layoutComponentChunkName": "component---src-layouts-index-js",
+        "jsonName": "dreamers-protestan-en-illinois-para-pedir-soluciones-antes-de-que-finalice-el-periodo-de-sesiones-del-congreso.json",
+        "path": "/dreamers-protestan-en-illinois-para-pedir-soluciones-antes-de-que-finalice-el-periodo-de-sesiones-del-congreso"
+    },
+    {
+        "componentChunkName": "component---src-layouts-data-js",
+        "layout": "layout---index",
+        "layoutComponentChunkName": "component---src-layouts-index-js",
         "jsonName": "recuperar-mi-relacion-con-mis-tres-hijos-el-deseo-del-veterano-deportado-que-regresa-esta-navidad-a-eeuu.json",
         "path": "/recuperar-mi-relacion-con-mis-tres-hijos-el-deseo-del-veterano-deportado-que-regresa-esta-navidad-a-eeuu"
     },
@@ -33,34 +61,6 @@
         "layoutComponentChunkName": "component---src-layouts-index-js",
         "jsonName": "el-conmovedor-reencuentro-de-una-madre-con-sus-hijas-que-habian-sido-raptadas-por-su-padre.json",
         "path": "/el-conmovedor-reencuentro-de-una-madre-con-sus-hijas-que-habian-sido-raptadas-por-su-padre"
-    },
-    {
-        "componentChunkName": "component---src-layouts-data-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "familias-inmigrantes-se-reunen-tras-mas-de-dos-decadas-sin-verse.json",
-        "path": "/familias-inmigrantes-se-reunen-tras-mas-de-dos-decadas-sin-verse"
-    },
-    {
-        "componentChunkName": "component---src-layouts-data-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "por-su-estatus-legal-esta-mujer-no-puede-reclamar-el-cuerpo-de-su-esposo-que-se-electrocuto-en-accidente-laboral.json",
-        "path": "/por-su-estatus-legal-esta-mujer-no-puede-reclamar-el-cuerpo-de-su-esposo-que-se-electrocuto-en-accidente-laboral"
-    },
-    {
-        "componentChunkName": "component---src-layouts-data-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "concejales-en-nueva-york-votan-a-favor-de-una-resolucion-que-proteja-a-los-dreamers.json",
-        "path": "/concejales-en-nueva-york-votan-a-favor-de-una-resolucion-que-proteja-a-los-dreamers"
-    },
-    {
-        "componentChunkName": "component---src-layouts-data-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "con-protestas-dreamers-en-chicago-exigen-la-aprobacion-del-dream-act.json",
-        "path": "/con-protestas-dreamers-en-chicago-exigen-la-aprobacion-del-dream-act"
     },
     {
         "componentChunkName": "component---src-pages-404-js",

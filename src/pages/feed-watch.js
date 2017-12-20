@@ -1,15 +1,17 @@
 import React from 'react'
 import Link from 'gatsby-link'
-import ReactJson from 'react-json-view'
 const AWS = require('aws-sdk/dist/aws-sdk-react-native')
+     
 AWS.config.apiVersions = {
     codebuild: '2016-10-06'
 };
 AWS.config.update({
-    region: 'us-east-1',
-    accessKeyId: 'AKIAIDIOLWQV3CCQDL7Q',
-    secretAccessKey: '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'
-});        
+    credentials: {
+        accessKeyId: process.env.AWS_ACCESS_KEY_ID,
+        secretAccessKey: process.env.AWS_SECRET_ACCESS_KEY
+    },
+    region: 'us-east-1'
+});   
 var codebuild = new AWS.CodeBuild();
 
 export default class FeeWatchPage extends React.Component {
@@ -19,8 +21,9 @@ export default class FeeWatchPage extends React.Component {
         this.state = {
             info: null,
             called: false,
-            STATUS: ""
+            STATUS: "INITIALIZED"
         };
+        
     }
     listProfects()
     {
@@ -33,12 +36,9 @@ export default class FeeWatchPage extends React.Component {
                 this.setState({
                     info: {
                         type: "error",
-                        data: {
-                            err: err,
-                            stack: err.stacK
-                        }
+                        data: err.stack,
                     },
-                    STATUS: "ERROR: " + err.stack
+                    STATUS: "Error, " + err.code
                 });
             }
             else{
@@ -68,12 +68,9 @@ export default class FeeWatchPage extends React.Component {
                 this.setState({
                     info: {
                         type: "error",
-                        data: {
-                            err: err,
-                            stack: err.stack
-                        },
-                        STATUS: "Error: " + err.stack
-                    }
+                        data: err.stack
+                    },
+                    STATUS: "ERROR, " + err.code
                 });
             }
             else{
@@ -101,16 +98,20 @@ export default class FeeWatchPage extends React.Component {
         this.setState({
             STATUS: msg
         });
-        this.listProfects();
     }
     render() {
 
         return (
             <div>
-                <h1>Monitoring...</h1>
-                <input type="button" value="START" onClick={ () => this.startMonitoring() } />
-                <div>{ this.state.STATUS }</div>
-                <ReactJson collapsed="true" displayDataTypes="false" src={ this.state  } />
+                <h1>MONITOR: { this.state.STATUS }</h1>
+                <input className="btn btn-primary" type="button" value="START" onClick={ () => this.startMonitoring() } />
+                <br />
+                <br />
+                <div>Results:</div>
+                <code>
+                    { JSON.stringify( this.state ) }
+                    
+                </code>
             </div>
         )
     }

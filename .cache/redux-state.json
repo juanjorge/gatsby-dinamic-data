@@ -8,7 +8,7 @@
       "component": "/Users/juanjorge/Developer/gatsby-test-with-source-data/.cache/dev-404-page.js",
       "componentChunkName": "component---cache-dev-404-page-js",
       "context": {},
-      "updatedAt": 1513747289232,
+      "updatedAt": 1513773344770,
       "pluginCreator___NODE": "Plugin dev-404-page",
       "pluginCreatorId": "Plugin dev-404-page",
       "componentPath": "/Users/juanjorge/Developer/gatsby-test-with-source-data/.cache/dev-404-page.js",
@@ -17,7 +17,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "6d62b4a80551481225875a903c14cf4a",
+        "contentDigest": "55f8cea9989da7ae5fdb895981520e44",
         "owner": "internal-data-bridge"
       }
     },
@@ -331,30 +331,22 @@
             "version": "^1.0.8"
           },
           {
-            "name": "react-json-view",
-            "version": "^1.14.0"
-          },
-          {
             "name": "slugify",
             "version": "^1.2.7"
           }
         ],
         "devDependencies": [
           {
-            "name": "prettier",
-            "version": "^1.9.2"
+            "name": "aws-sdk",
+            "version": "^2.172.0"
           },
           {
             "name": "axios",
             "version": "^0.17.1"
           },
           {
-            "name": "aws-sdk",
-            "version": "^2.172.0"
-          },
-          {
-            "name": "react-json-view",
-            "version": "^1.14.0"
+            "name": "prettier",
+            "version": "^1.9.2"
           }
         ],
         "peerDependencies": [],
@@ -377,12 +369,12 @@
       "host": "localhost",
       "pathPrefix": "",
       "polyfill": true,
-      "buildTime": "2017-12-20T05:21:25.469Z",
+      "buildTime": "2017-12-20T12:35:39.956Z",
       "id": "Site",
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "f00016479071710935ce61f128ca8baf",
+        "contentDigest": "381e39852d965c13a6df995eb5b60718",
         "type": "Site",
         "owner": "internal-data-bridge"
       }
@@ -419,7 +411,7 @@
           }
         }
       },
-      "updatedAt": 1513747290513,
+      "updatedAt": 1513773345312,
       "pluginCreator___NODE": "Plugin default-site-plugin",
       "pluginCreatorId": "Plugin default-site-plugin",
       "componentPath": "/Users/juanjorge/Developer/gatsby-test-with-source-data/src/layouts/data.js",
@@ -428,7 +420,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "e086bda20a98d81a185d69addbcf41a8",
+        "contentDigest": "2694b5692e8a984dd485d1c8dc6d90da",
         "owner": "internal-data-bridge"
       }
     },
@@ -464,7 +456,7 @@
           }
         }
       },
-      "updatedAt": 1513747290514,
+      "updatedAt": 1513773345313,
       "pluginCreator___NODE": "Plugin default-site-plugin",
       "pluginCreatorId": "Plugin default-site-plugin",
       "componentPath": "/Users/juanjorge/Developer/gatsby-test-with-source-data/src/layouts/data.js",
@@ -473,7 +465,187 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "0d08eb153b82b5a1522c476ca831969f",
+        "contentDigest": "82586817f41fc524d4fedfe24c634096",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /republicanos-y-democratas-no-esperan-ningun-acuerdo-para-proteger-a-los-dreamers-antes-de-que-finalice-el-ano": {
+      "layout": "index",
+      "jsonName": "republicanos-y-democratas-no-esperan-ningun-acuerdo-para-proteger-a-los-dreamers-antes-de-que-finalice-el-ano.json",
+      "internalComponentName": "ComponentRepublicanosYDemocratasNoEsperanNingunAcuerdoParaProtegerALosDreamersAntesDeQueFinaliceElAno",
+      "path": "/republicanos-y-democratas-no-esperan-ningun-acuerdo-para-proteger-a-los-dreamers-antes-de-que-finalice-el-ano",
+      "component": "/Users/juanjorge/Developer/gatsby-test-with-source-data/src/layouts/data.js",
+      "componentChunkName": "component---src-layouts-data-js",
+      "context": {
+        "slug": "00000160-708f-d760-adea-7b8fb9320000",
+        "node": {
+          "id": "00000160-708f-d760-adea-7b8fb9320000",
+          "publishDate": "2017-12-19T17:03:51-05:00",
+          "title": "Republicanos y demócratas no esperan ningún acuerdo para proteger a los dreamers antes de que finalice el año",
+          "widget": "Breaking News Titulares",
+          "shortTitle": "Republicanos y demócratas no esperan ningún acuerdo para proteger a los dreamers ",
+          "description": "Legisladores de ambos partidos reconocen que las negociaciones se encuentran en un punto muerto y contemplan ya retomar las conversaciones a principios del 2018. Un grupo de senadores se reunió este martes con el jefe de gabinete de la Casa Blanca, John Kelly, para trabajar sobre un acuerdo que podría legar en enero, según Politico.",
+          "images": {
+            "original": {
+              "href": "https://cdn2.uvnimg.com/61/f2/74397fd74fc38074b578bdd54ee1/gettyimages-887139994.jpg",
+              "width": 3000,
+              "height": 2123
+            }
+          },
+          "children": [],
+          "parent": "00000160-708f-d760-adea-7b8fb9320000",
+          "internal": {
+            "type": "Article",
+            "mediaType": "application/json",
+            "contentDigest": "2ef0fa5eec2178dd8811a8c5e50f633c"
+          }
+        }
+      },
+      "updatedAt": 1513773345314,
+      "pluginCreator___NODE": "Plugin default-site-plugin",
+      "pluginCreatorId": "Plugin default-site-plugin",
+      "componentPath": "/Users/juanjorge/Developer/gatsby-test-with-source-data/src/layouts/data.js",
+      "id": "SitePage /republicanos-y-democratas-no-esperan-ningun-acuerdo-para-proteger-a-los-dreamers-antes-de-que-finalice-el-ano",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "6fa529c27beee6d51bcd7f22aecec188",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /esta-joven-le-pide-a-santa-por-el-tps-de-sus-padres": {
+      "layout": "index",
+      "jsonName": "esta-joven-le-pide-a-santa-por-el-tps-de-sus-padres.json",
+      "internalComponentName": "ComponentEstaJovenLePideASantaPorElTpsDeSusPadres",
+      "path": "/esta-joven-le-pide-a-santa-por-el-tps-de-sus-padres",
+      "component": "/Users/juanjorge/Developer/gatsby-test-with-source-data/src/layouts/data.js",
+      "componentChunkName": "component---src-layouts-data-js",
+      "context": {
+        "slug": "00000160-72a5-da48-ab73-72a7f0f60000",
+        "node": {
+          "id": "00000160-72a5-da48-ab73-72a7f0f60000",
+          "publishDate": "2017-12-19T19:18:00-05:00",
+          "title": "Esta joven le pide a Santa por el TPS de sus padres",
+          "widget": "Breaking News Titulares",
+          "shortTitle": "Esta joven le pide a Santa por el TPS de sus padres",
+          "description": "Keyly Tejado de 11 años de edad busca apoyar a sus padres y busca pedir a congresistas que ayuden a los beneficiarios del TPS.",
+          "images": {
+            "original": {
+              "href": "https://cdn2.uvnimg.com/6c/36/10621cb946d88cd06b6c6a893e60/15319f77ba6946a99e30f0948f1b1e5a",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "children": [],
+          "parent": "00000160-72a5-da48-ab73-72a7f0f60000",
+          "internal": {
+            "type": "Video",
+            "mediaType": "application/json",
+            "contentDigest": "180869e6b2ee623f84891a713cf8a622"
+          }
+        }
+      },
+      "updatedAt": 1513773345315,
+      "pluginCreator___NODE": "Plugin default-site-plugin",
+      "pluginCreatorId": "Plugin default-site-plugin",
+      "componentPath": "/Users/juanjorge/Developer/gatsby-test-with-source-data/src/layouts/data.js",
+      "id": "SitePage /esta-joven-le-pide-a-santa-por-el-tps-de-sus-padres",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "d5f97b7bd36ea62d70939c087dbfe21a",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /el-proceso-que-debe-seguir-un-ciudadano-o-residente-permanente-al-solicitar-el-cambio-de-estado-de-un-familiar": {
+      "layout": "index",
+      "jsonName": "el-proceso-que-debe-seguir-un-ciudadano-o-residente-permanente-al-solicitar-el-cambio-de-estado-de-un-familiar.json",
+      "internalComponentName": "ComponentElProcesoQueDebeSeguirUnCiudadanoOResidentePermanenteAlSolicitarElCambioDeEstadoDeUnFamiliar",
+      "path": "/el-proceso-que-debe-seguir-un-ciudadano-o-residente-permanente-al-solicitar-el-cambio-de-estado-de-un-familiar",
+      "component": "/Users/juanjorge/Developer/gatsby-test-with-source-data/src/layouts/data.js",
+      "componentChunkName": "component---src-layouts-data-js",
+      "context": {
+        "slug": "00000160-7299-da48-ab73-729f6db00000",
+        "node": {
+          "id": "00000160-7299-da48-ab73-729f6db00000",
+          "publishDate": "2017-12-19T23:46:00-05:00",
+          "title": "El proceso que debe seguir un ciudadano o residente permanente al solicitar el cambio de estado de un familiar",
+          "widget": "Breaking News Titulares",
+          "shortTitle": "El proceso a seguir de un ciudadano al solicitar el cambio de estado de un familiar",
+          "description": "Invitamos a una abogada experta en inmigración para que nos contara sobre los requisitos que debe llenar una persona en esta situación. Además, nos dijo por qué es tan importante para un residente permanente solicitar la ciudadanía.",
+          "images": {
+            "original": {
+              "href": "https://cdn1.uvnimg.com/fa/33/ef7fc392484bb8d25fff135be9bf/889c24e9a2dd48c98b15bfa959b31e74",
+              "width": 1920,
+              "height": 1080
+            }
+          },
+          "children": [],
+          "parent": "00000160-7299-da48-ab73-729f6db00000",
+          "internal": {
+            "type": "Video",
+            "mediaType": "application/json",
+            "contentDigest": "92bcb4bff9cad9e17059a3241affe408"
+          }
+        }
+      },
+      "updatedAt": 1513773345315,
+      "pluginCreator___NODE": "Plugin default-site-plugin",
+      "pluginCreatorId": "Plugin default-site-plugin",
+      "componentPath": "/Users/juanjorge/Developer/gatsby-test-with-source-data/src/layouts/data.js",
+      "id": "SitePage /el-proceso-que-debe-seguir-un-ciudadano-o-residente-permanente-al-solicitar-el-cambio-de-estado-de-un-familiar",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "4f88fc25025dfd6413b66cc781ed1934",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /dreamers-protestan-en-illinois-para-pedir-soluciones-antes-de-que-finalice-el-periodo-de-sesiones-del-congreso": {
+      "layout": "index",
+      "jsonName": "dreamers-protestan-en-illinois-para-pedir-soluciones-antes-de-que-finalice-el-periodo-de-sesiones-del-congreso.json",
+      "internalComponentName": "ComponentDreamersProtestanEnIllinoisParaPedirSolucionesAntesDeQueFinaliceElPeriodoDeSesionesDelCongreso",
+      "path": "/dreamers-protestan-en-illinois-para-pedir-soluciones-antes-de-que-finalice-el-periodo-de-sesiones-del-congreso",
+      "component": "/Users/juanjorge/Developer/gatsby-test-with-source-data/src/layouts/data.js",
+      "componentChunkName": "component---src-layouts-data-js",
+      "context": {
+        "slug": "00000160-726f-da48-ab73-72efe00b0000",
+        "node": {
+          "id": "00000160-726f-da48-ab73-72efe00b0000",
+          "publishDate": "2017-12-19T23:47:00-05:00",
+          "title": "Dreamers protestan en Illinois para pedir soluciones antes de que finalice el período de sesiones del Congreso",
+          "widget": "Breaking News Titulares",
+          "shortTitle": "Dreamers protestan para pedir soluciones antes de que finalice el período de sesiones del Congreso",
+          "description": "Decenas de personas que apoyan a beneficiarios de DACA se manifestaron frente a las oficinas de los senadores demócratas por Illinois Dick Durbin y Tammy Duckworth para instarlos a que soliciten en el Congreso que se vote el Dream Act antes del receso de fin de año. Las movilizaciones en Estados Unidos se intensificarán hasta el 22 de diciembre, fecha en la que los amparados esperan que se apruebe una medida de protección permanente.",
+          "images": {
+            "original": {
+              "href": "https://cdn3.uvnimg.com/81/fe/71c2604441ad937007dff0b12f71/f9d610c4b8d243149c27892c634c233a",
+              "width": 1920,
+              "height": 1080
+            }
+          },
+          "children": [],
+          "parent": "00000160-726f-da48-ab73-72efe00b0000",
+          "internal": {
+            "type": "Video",
+            "mediaType": "application/json",
+            "contentDigest": "2aabea023b86652e8b1ca4b1440286da"
+          }
+        }
+      },
+      "updatedAt": 1513773345316,
+      "pluginCreator___NODE": "Plugin default-site-plugin",
+      "pluginCreatorId": "Plugin default-site-plugin",
+      "componentPath": "/Users/juanjorge/Developer/gatsby-test-with-source-data/src/layouts/data.js",
+      "id": "SitePage /dreamers-protestan-en-illinois-para-pedir-soluciones-antes-de-que-finalice-el-periodo-de-sesiones-del-congreso",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "56e18303aebb60ab1ead2024e2dc950b",
         "owner": "internal-data-bridge"
       }
     },
@@ -509,7 +681,7 @@
           }
         }
       },
-      "updatedAt": 1513747290515,
+      "updatedAt": 1513773345317,
       "pluginCreator___NODE": "Plugin default-site-plugin",
       "pluginCreatorId": "Plugin default-site-plugin",
       "componentPath": "/Users/juanjorge/Developer/gatsby-test-with-source-data/src/layouts/data.js",
@@ -518,7 +690,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "1375ee1cba0d8079ff6ab2007a1210b4",
+        "contentDigest": "424c4f865c14f20ffbd8ed71ff898969",
         "owner": "internal-data-bridge"
       }
     },
@@ -554,7 +726,7 @@
           }
         }
       },
-      "updatedAt": 1513747290516,
+      "updatedAt": 1513773345318,
       "pluginCreator___NODE": "Plugin default-site-plugin",
       "pluginCreatorId": "Plugin default-site-plugin",
       "componentPath": "/Users/juanjorge/Developer/gatsby-test-with-source-data/src/layouts/data.js",
@@ -563,187 +735,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "66683dcb8208cbfe41a41e52879b3236",
-        "owner": "internal-data-bridge"
-      }
-    },
-    "SitePage /familias-inmigrantes-se-reunen-tras-mas-de-dos-decadas-sin-verse": {
-      "layout": "index",
-      "jsonName": "familias-inmigrantes-se-reunen-tras-mas-de-dos-decadas-sin-verse.json",
-      "internalComponentName": "ComponentFamiliasInmigrantesSeReunenTrasMasDeDosDecadasSinVerse",
-      "path": "/familias-inmigrantes-se-reunen-tras-mas-de-dos-decadas-sin-verse",
-      "component": "/Users/juanjorge/Developer/gatsby-test-with-source-data/src/layouts/data.js",
-      "componentChunkName": "component---src-layouts-data-js",
-      "context": {
-        "slug": "00000160-71b1-da48-ab73-73b7a4370000",
-        "node": {
-          "id": "00000160-71b1-da48-ab73-73b7a4370000",
-          "publishDate": "2017-12-19T21:07:00-05:00",
-          "title": "Familias inmigrantes se reúnen tras más de dos décadas sin verse",
-          "widget": "Breaking News Titulares",
-          "shortTitle": "Familias inmigrantes se reúnen tras más de dos décadas sin verse",
-          "description": "El encuentro forma parte del programa “Palomas mensajeras” que tiene como objetivo reunir a padres y madres de la tercera edad con sus hijos que viven en los Estados Unidos y que no se han visto en años.",
-          "images": {
-            "original": {
-              "href": "https://cdn3.uvnimg.com/67/f5/7257de7740a98eda6a30fe9dd1fc/dde47650ee7a464abc983f7e36473251",
-              "width": 1280,
-              "height": 720
-            }
-          },
-          "children": [],
-          "parent": "00000160-71b1-da48-ab73-73b7a4370000",
-          "internal": {
-            "type": "Video",
-            "mediaType": "application/json",
-            "contentDigest": "451d07a2585a1b9c6fff80df608e96ae"
-          }
-        }
-      },
-      "updatedAt": 1513747290516,
-      "pluginCreator___NODE": "Plugin default-site-plugin",
-      "pluginCreatorId": "Plugin default-site-plugin",
-      "componentPath": "/Users/juanjorge/Developer/gatsby-test-with-source-data/src/layouts/data.js",
-      "id": "SitePage /familias-inmigrantes-se-reunen-tras-mas-de-dos-decadas-sin-verse",
-      "parent": "SOURCE",
-      "children": [],
-      "internal": {
-        "type": "SitePage",
-        "contentDigest": "61508931acec03b0163e0e6e4190c4e2",
-        "owner": "internal-data-bridge"
-      }
-    },
-    "SitePage /por-su-estatus-legal-esta-mujer-no-puede-reclamar-el-cuerpo-de-su-esposo-que-se-electrocuto-en-accidente-laboral": {
-      "layout": "index",
-      "jsonName": "por-su-estatus-legal-esta-mujer-no-puede-reclamar-el-cuerpo-de-su-esposo-que-se-electrocuto-en-accidente-laboral.json",
-      "internalComponentName": "ComponentPorSuEstatusLegalEstaMujerNoPuedeReclamarElCuerpoDeSuEsposoQueSeElectrocutoEnAccidenteLaboral",
-      "path": "/por-su-estatus-legal-esta-mujer-no-puede-reclamar-el-cuerpo-de-su-esposo-que-se-electrocuto-en-accidente-laboral",
-      "component": "/Users/juanjorge/Developer/gatsby-test-with-source-data/src/layouts/data.js",
-      "componentChunkName": "component---src-layouts-data-js",
-      "context": {
-        "slug": "00000160-7185-da48-ab73-73879f900000",
-        "node": {
-          "id": "00000160-7185-da48-ab73-73879f900000",
-          "publishDate": "2017-12-19T18:34:00-05:00",
-          "title": "Por su estatus legal, esta mujer no puede reclamar el cuerpo de su esposo que se electrocutó en accidente laboral",
-          "widget": "Breaking News Titulares",
-          "shortTitle": "Por su estatus legal, esta mujer no puede reclamar el cuerpo de su esposo que se electrocutó en accidente laboral",
-          "description": "Margarita Juárez reclama entre lágrimas justicia y una solución después de que el padre de sus cuatro hijos murió electrocutado cuando realizaba labores como empleado de la empresa B&G Properties Maintenance, que no le ha dado respuesta a esta familia de Guatemala. El cadáver lleva casi una semana en la morgue porque Juárez no tiene documentos ni está casada legalmente. La FPL tampoco se ha pronunciado sobre el caso.",
-          "images": {
-            "original": {
-              "href": "https://cdn3.uvnimg.com/98/67/6a17f21d44f78d2a3d6b994b6bfa/c370f90025594fb9a6407d2a7b578127",
-              "width": 1920,
-              "height": 1080
-            }
-          },
-          "children": [],
-          "parent": "00000160-7185-da48-ab73-73879f900000",
-          "internal": {
-            "type": "Video",
-            "mediaType": "application/json",
-            "contentDigest": "787e7fcf8ee36d21eef3332f2c75bc60"
-          }
-        }
-      },
-      "updatedAt": 1513747290518,
-      "pluginCreator___NODE": "Plugin default-site-plugin",
-      "pluginCreatorId": "Plugin default-site-plugin",
-      "componentPath": "/Users/juanjorge/Developer/gatsby-test-with-source-data/src/layouts/data.js",
-      "id": "SitePage /por-su-estatus-legal-esta-mujer-no-puede-reclamar-el-cuerpo-de-su-esposo-que-se-electrocuto-en-accidente-laboral",
-      "parent": "SOURCE",
-      "children": [],
-      "internal": {
-        "type": "SitePage",
-        "contentDigest": "e7d014cb3a1924249d4a2725a78b665a",
-        "owner": "internal-data-bridge"
-      }
-    },
-    "SitePage /concejales-en-nueva-york-votan-a-favor-de-una-resolucion-que-proteja-a-los-dreamers": {
-      "layout": "index",
-      "jsonName": "concejales-en-nueva-york-votan-a-favor-de-una-resolucion-que-proteja-a-los-dreamers.json",
-      "internalComponentName": "ComponentConcejalesEnNuevaYorkVotanAFavorDeUnaResolucionQueProtejaALosDreamers",
-      "path": "/concejales-en-nueva-york-votan-a-favor-de-una-resolucion-que-proteja-a-los-dreamers",
-      "component": "/Users/juanjorge/Developer/gatsby-test-with-source-data/src/layouts/data.js",
-      "componentChunkName": "component---src-layouts-data-js",
-      "context": {
-        "slug": "00000160-7163-da48-ab73-73e7a59e0000",
-        "node": {
-          "id": "00000160-7163-da48-ab73-73e7a59e0000",
-          "publishDate": "2017-12-19T19:42:00-05:00",
-          "title": "Concejales en Nueva York votan a favor de una resolución que proteja a los dreamers",
-          "widget": "Breaking News Titulares",
-          "shortTitle": "Concejales en Nueva York votan a favor de una resolución que proteja a los dreamers",
-          "description": "Pese a que es un acto simbólico, porque no cambia la situación de estos jóvenes en EEUU, sí envía un contundente mensaje de apoyo a quienes hoy en día están preocupados por su situación migratoria.",
-          "images": {
-            "original": {
-              "href": "https://cdn4.uvnimg.com/51/86/3a89c4e54aac83b56dceac511b38/a0f7aa4650184aad9720dd04de12b7a0",
-              "width": 1920,
-              "height": 1080
-            }
-          },
-          "children": [],
-          "parent": "00000160-7163-da48-ab73-73e7a59e0000",
-          "internal": {
-            "type": "Video",
-            "mediaType": "application/json",
-            "contentDigest": "7a3455b70b69d1e7b2b06e6ef84957e5"
-          }
-        }
-      },
-      "updatedAt": 1513747290519,
-      "pluginCreator___NODE": "Plugin default-site-plugin",
-      "pluginCreatorId": "Plugin default-site-plugin",
-      "componentPath": "/Users/juanjorge/Developer/gatsby-test-with-source-data/src/layouts/data.js",
-      "id": "SitePage /concejales-en-nueva-york-votan-a-favor-de-una-resolucion-que-proteja-a-los-dreamers",
-      "parent": "SOURCE",
-      "children": [],
-      "internal": {
-        "type": "SitePage",
-        "contentDigest": "bfbac47db2eb9b8a68990333ca2a444c",
-        "owner": "internal-data-bridge"
-      }
-    },
-    "SitePage /con-protestas-dreamers-en-chicago-exigen-la-aprobacion-del-dream-act": {
-      "layout": "index",
-      "jsonName": "con-protestas-dreamers-en-chicago-exigen-la-aprobacion-del-dream-act.json",
-      "internalComponentName": "ComponentConProtestasDreamersEnChicagoExigenLaAprobacionDelDreamAct",
-      "path": "/con-protestas-dreamers-en-chicago-exigen-la-aprobacion-del-dream-act",
-      "component": "/Users/juanjorge/Developer/gatsby-test-with-source-data/src/layouts/data.js",
-      "componentChunkName": "component---src-layouts-data-js",
-      "context": {
-        "slug": "00000160-716c-da48-ab73-73ef04be0000",
-        "node": {
-          "id": "00000160-716c-da48-ab73-73ef04be0000",
-          "publishDate": "2017-12-19T18:21:00-05:00",
-          "title": "Con protestas, dreamers en Chicago exigen la aprobación del Dream Act",
-          "widget": "Breaking News Titulares",
-          "shortTitle": "Con protestas, dreamers en Chicago exigen la aprobación del Dream Act",
-          "description": "A casi tres meses de cumplirse el plazo que dio el presidente Donald Trump para que el Congreso entregue una solución definitiva al estatus migratorio de más de 800 mil dreamers que quedaron desamparados por la terminación de DACA, no se ha resuelto ninguna opción.",
-          "images": {
-            "original": {
-              "href": "https://cdn3.uvnimg.com/c6/42/5d90a5344dbda79e1059c7a0fa85/36ba2dde6c614a188a99f5bf495561dd",
-              "width": 1920,
-              "height": 1080
-            }
-          },
-          "children": [],
-          "parent": "00000160-716c-da48-ab73-73ef04be0000",
-          "internal": {
-            "type": "Video",
-            "mediaType": "application/json",
-            "contentDigest": "879e64ed3d02d8bb8800d7a595a2052a"
-          }
-        }
-      },
-      "updatedAt": 1513747290519,
-      "pluginCreator___NODE": "Plugin default-site-plugin",
-      "pluginCreatorId": "Plugin default-site-plugin",
-      "componentPath": "/Users/juanjorge/Developer/gatsby-test-with-source-data/src/layouts/data.js",
-      "id": "SitePage /con-protestas-dreamers-en-chicago-exigen-la-aprobacion-del-dream-act",
-      "parent": "SOURCE",
-      "children": [],
-      "internal": {
-        "type": "SitePage",
-        "contentDigest": "6ca06291096aa78e73f3a44aece79ed6",
+        "contentDigest": "fb3f074750bb9c49bd12af47cf9e778b",
         "owner": "internal-data-bridge"
       }
     },
@@ -755,7 +747,7 @@
       "component": "/Users/juanjorge/Developer/gatsby-test-with-source-data/src/pages/404.js",
       "componentChunkName": "component---src-pages-404-js",
       "context": {},
-      "updatedAt": 1513747290530,
+      "updatedAt": 1513773345329,
       "pluginCreator___NODE": "Plugin component-page-creator",
       "pluginCreatorId": "Plugin component-page-creator",
       "componentPath": "/Users/juanjorge/Developer/gatsby-test-with-source-data/src/pages/404.js",
@@ -764,7 +756,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "595a5bc18369a53cb1a2a18af726881a",
+        "contentDigest": "a3bf29f496216e119c3dd1ed1587e1b7",
         "owner": "internal-data-bridge"
       }
     },
@@ -776,7 +768,7 @@
       "component": "/Users/juanjorge/Developer/gatsby-test-with-source-data/src/pages/feed-watch.js",
       "componentChunkName": "component---src-pages-feed-watch-js",
       "context": {},
-      "updatedAt": 1513747290531,
+      "updatedAt": 1513773345330,
       "pluginCreator___NODE": "Plugin component-page-creator",
       "pluginCreatorId": "Plugin component-page-creator",
       "componentPath": "/Users/juanjorge/Developer/gatsby-test-with-source-data/src/pages/feed-watch.js",
@@ -785,7 +777,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "6ff9316affdab732dd3141be92510a71",
+        "contentDigest": "07b7589bb7728716568070798cfef6ab",
         "owner": "internal-data-bridge"
       }
     },
@@ -797,7 +789,7 @@
       "component": "/Users/juanjorge/Developer/gatsby-test-with-source-data/src/pages/index.js",
       "componentChunkName": "component---src-pages-index-js",
       "context": {},
-      "updatedAt": 1513747290532,
+      "updatedAt": 1513773345331,
       "pluginCreator___NODE": "Plugin component-page-creator",
       "pluginCreatorId": "Plugin component-page-creator",
       "componentPath": "/Users/juanjorge/Developer/gatsby-test-with-source-data/src/pages/index.js",
@@ -806,7 +798,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "f51d2ae395e742be5240abebb018f5da",
+        "contentDigest": "9361cf38cae55563ee8e1de8f055824e",
         "owner": "internal-data-bridge"
       }
     },
@@ -818,7 +810,7 @@
       "component": "/Users/juanjorge/Developer/gatsby-test-with-source-data/src/pages/404.js",
       "componentChunkName": "component---src-pages-404-js",
       "context": {},
-      "updatedAt": 1513747290534,
+      "updatedAt": 1513773345333,
       "pluginCreator___NODE": "Plugin prod-404",
       "pluginCreatorId": "Plugin prod-404",
       "componentPath": "/Users/juanjorge/Developer/gatsby-test-with-source-data/src/pages/404.js",
@@ -827,14 +819,14 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "4eb2d88d319f7216463751ecec3a21ae",
+        "contentDigest": "d0900331e441d713c54c2c5d61faf8eb",
         "owner": "internal-data-bridge"
       }
     }
   },
   "status": {
     "plugins": {},
-    "PLUGINS_HASH": "8e4c04731f1b86aae8b8f4a1db27cdd7"
+    "PLUGINS_HASH": "582f04b0e17b08c1d2b1813fcde912de"
   },
   "componentDataDependencies": {
     "nodes": {},
