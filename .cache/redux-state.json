@@ -277,7 +277,7 @@
       "resolve": "/Users/juanjorge/Developer/gatsby-test-with-source-data",
       "id": "Plugin default-site-plugin",
       "name": "default-site-plugin",
-      "version": "15e522dd3f4364d3ab589ee410b8c4cd",
+      "version": "a759de1fb245fa96a07985aa4103abe4",
       "pluginOptions": {
         "plugins": []
       },
@@ -338,7 +338,7 @@
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "3b00c96564dcc07b931b67f6091ff873",
+        "contentDigest": "dd48ab0bf6a1e109dea3833fca602537",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
@@ -347,14 +347,14 @@
       "siteMetadata": {
         "title": "Gatsby Default Starter"
       },
-      "pathPrefix": "/gatsby-dynamic-data",
+      "pathPrefix": "/gatsby-dynamic-data/public",
       "polyfill": true,
-      "buildTime": "2017-12-19T22:24:57.454Z",
+      "buildTime": "2017-12-20T02:31:46.308Z",
       "id": "Site",
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "969fda5de0b835ad7ece4f78d3d99923",
+        "contentDigest": "31f3c8c1f9998ff43a1ca99306813df3",
         "type": "Site",
         "owner": "internal-data-bridge"
       }
@@ -391,7 +391,7 @@
           }
         }
       },
-      "updatedAt": 1513722302057,
+      "updatedAt": 1513737112416,
       "pluginCreator___NODE": "Plugin default-site-plugin",
       "pluginCreatorId": "Plugin default-site-plugin",
       "componentPath": "/Users/juanjorge/Developer/gatsby-test-with-source-data/src/layouts/data.js",
@@ -400,7 +400,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "71250e804b9f206905f878f31bb289d0",
+        "contentDigest": "2cdcea800bbc5cc278d27edfcf14b2ec",
         "owner": "internal-data-bridge"
       }
     },
@@ -436,7 +436,7 @@
           }
         }
       },
-      "updatedAt": 1513722302058,
+      "updatedAt": 1513737112417,
       "pluginCreator___NODE": "Plugin default-site-plugin",
       "pluginCreatorId": "Plugin default-site-plugin",
       "componentPath": "/Users/juanjorge/Developer/gatsby-test-with-source-data/src/layouts/data.js",
@@ -445,97 +445,232 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "602ac49d4370e798ab2b40c8d031ebdf",
+        "contentDigest": "b42986fe462e673150a7ec8b25a0628b",
         "owner": "internal-data-bridge"
       }
     },
-    "SitePage /pesimismo-ante-los-nulos-avances-por-proteger-a-los-dreamers-en-el-congreso-antes-de-fin-de-ano": {
+    "SitePage /concejales-en-nueva-york-votan-a-favor-de-una-resolucion-que-proteja-a-los-dreamers": {
       "layout": "index",
-      "jsonName": "pesimismo-ante-los-nulos-avances-por-proteger-a-los-dreamers-en-el-congreso-antes-de-fin-de-ano.json",
-      "internalComponentName": "ComponentPesimismoAnteLosNulosAvancesPorProtegerALosDreamersEnElCongresoAntesDeFinDeAno",
-      "path": "/pesimismo-ante-los-nulos-avances-por-proteger-a-los-dreamers-en-el-congreso-antes-de-fin-de-ano",
+      "jsonName": "concejales-en-nueva-york-votan-a-favor-de-una-resolucion-que-proteja-a-los-dreamers.json",
+      "internalComponentName": "ComponentConcejalesEnNuevaYorkVotanAFavorDeUnaResolucionQueProtejaALosDreamers",
+      "path": "/concejales-en-nueva-york-votan-a-favor-de-una-resolucion-que-proteja-a-los-dreamers",
       "component": "/Users/juanjorge/Developer/gatsby-test-with-source-data/src/layouts/data.js",
       "componentChunkName": "component---src-layouts-data-js",
       "context": {
-        "slug": "00000160-708f-d760-adea-7b8fb9320000",
+        "slug": "00000160-7163-da48-ab73-73e7a59e0000",
         "node": {
-          "id": "00000160-708f-d760-adea-7b8fb9320000",
-          "publishDate": "2017-12-19T17:03:51-05:00",
-          "title": "Pesimismo ante los nulos avances por proteger a los dreamers en el Congreso antes de fin de año",
+          "id": "00000160-7163-da48-ab73-73e7a59e0000",
+          "publishDate": "2017-12-19T19:42:00-05:00",
+          "title": "Concejales en Nueva York votan a favor de una resolución que proteja a los dreamers",
           "widget": "Breaking News Titulares",
-          "shortTitle": "Pesimismo ante los nulos avances por proteger a los dreamers en el Congreso antes de fin de año",
-          "description": "Tanto demócratas como republicanos reconocen que las negociaciones se encuentran en un punto muerto y comentan que existen probabilidades de retomar las conversaciones a principios del 2018.",
+          "shortTitle": "Concejales en Nueva York votan a favor de una resolución que proteja a los dreamers",
+          "description": "Pese a que es un acto simbólico, porque no cambia la situación de estos jóvenes en EEUU, sí envía un contundente mensaje de apoyo a quienes hoy en día están preocupados por su situación migratoria.",
           "images": {
             "original": {
-              "href": "https://cdn2.uvnimg.com/61/f2/74397fd74fc38074b578bdd54ee1/gettyimages-887139994.jpg",
-              "width": 3000,
-              "height": 2123
+              "href": "https://cdn4.uvnimg.com/51/86/3a89c4e54aac83b56dceac511b38/a0f7aa4650184aad9720dd04de12b7a0",
+              "width": 1920,
+              "height": 1080
             }
           },
           "children": [],
-          "parent": "00000160-708f-d760-adea-7b8fb9320000",
+          "parent": "00000160-7163-da48-ab73-73e7a59e0000",
           "internal": {
-            "type": "Article",
+            "type": "Video",
             "mediaType": "application/json",
-            "contentDigest": "ceefd887a7122efde4eb1cf20b036a09"
+            "contentDigest": "7a3455b70b69d1e7b2b06e6ef84957e5"
           }
         }
       },
-      "updatedAt": 1513722302059,
+      "updatedAt": 1513737112418,
       "pluginCreator___NODE": "Plugin default-site-plugin",
       "pluginCreatorId": "Plugin default-site-plugin",
       "componentPath": "/Users/juanjorge/Developer/gatsby-test-with-source-data/src/layouts/data.js",
-      "id": "SitePage /pesimismo-ante-los-nulos-avances-por-proteger-a-los-dreamers-en-el-congreso-antes-de-fin-de-ano",
+      "id": "SitePage /concejales-en-nueva-york-votan-a-favor-de-una-resolucion-que-proteja-a-los-dreamers",
       "parent": "SOURCE",
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "fe04c7197e8691d9981d15009ddcdc6e",
+        "contentDigest": "5447026f6011fd0c1cff7646fdc6610f",
         "owner": "internal-data-bridge"
       }
     },
-    "SitePage /cuatro-de-los-dreamers-arrestados-en-el-congreso-deciden-seguir-en-la-carcel-para-presionar-a-los-democratas": {
+    "SitePage /con-protestas-dreamers-en-chicago-exigen-la-aprobacion-del-dream-act": {
       "layout": "index",
-      "jsonName": "cuatro-de-los-dreamers-arrestados-en-el-congreso-deciden-seguir-en-la-carcel-para-presionar-a-los-democratas.json",
-      "internalComponentName": "ComponentCuatroDeLosDreamersArrestadosEnElCongresoDecidenSeguirEnLaCarcelParaPresionarALosDemocratas",
-      "path": "/cuatro-de-los-dreamers-arrestados-en-el-congreso-deciden-seguir-en-la-carcel-para-presionar-a-los-democratas",
+      "jsonName": "con-protestas-dreamers-en-chicago-exigen-la-aprobacion-del-dream-act.json",
+      "internalComponentName": "ComponentConProtestasDreamersEnChicagoExigenLaAprobacionDelDreamAct",
+      "path": "/con-protestas-dreamers-en-chicago-exigen-la-aprobacion-del-dream-act",
       "component": "/Users/juanjorge/Developer/gatsby-test-with-source-data/src/layouts/data.js",
       "componentChunkName": "component---src-layouts-data-js",
       "context": {
-        "slug": "00000160-6f7f-dade-a7f9-ff7f990f0000",
+        "slug": "00000160-716c-da48-ab73-73ef04be0000",
         "node": {
-          "id": "00000160-6f7f-dade-a7f9-ff7f990f0000",
-          "publishDate": "2017-12-19T16:20:23-05:00",
-          "title": "Cuatro de los dreamers arrestados en el Congreso deciden seguir en la cárcel para presionar a los demócratas",
+          "id": "00000160-716c-da48-ab73-73ef04be0000",
+          "publishDate": "2017-12-19T18:21:00-05:00",
+          "title": "Con protestas, dreamers en Chicago exigen la aprobación del Dream Act",
           "widget": "Breaking News Titulares",
-          "shortTitle": "Cuatro dreamers arrestados en el Congreso deciden seguir en la cárcel como protesta",
-          "description": "Otros tres jóvenes inmigrantes fueron liberados. Las organizaciones civiles llaman a la movilización en plena cuenta regresiva para encontrar una solución legal en el Congreso para los dreamers.",
+          "shortTitle": "Con protestas, dreamers en Chicago exigen la aprobación del Dream Act",
+          "description": "A casi tres meses de cumplirse el plazo que dio el presidente Donald Trump para que el Congreso entregue una solución definitiva al estatus migratorio de más de 800 mil dreamers que quedaron desamparados por la terminación de DACA, no se ha resuelto ninguna opción.",
           "images": {
             "original": {
-              "href": "https://cdn3.uvnimg.com/f7/4d/337682cb489f9d0b62470e5e2942/gettyimages-887140004.jpg",
-              "width": 3000,
-              "height": 2028
+              "href": "https://cdn3.uvnimg.com/c6/42/5d90a5344dbda79e1059c7a0fa85/36ba2dde6c614a188a99f5bf495561dd",
+              "width": 1920,
+              "height": 1080
             }
           },
           "children": [],
-          "parent": "00000160-6f7f-dade-a7f9-ff7f990f0000",
+          "parent": "00000160-716c-da48-ab73-73ef04be0000",
           "internal": {
-            "type": "Article",
+            "type": "Video",
             "mediaType": "application/json",
-            "contentDigest": "18f7e7534d5b34d536f7fa924077505c"
+            "contentDigest": "879e64ed3d02d8bb8800d7a595a2052a"
           }
         }
       },
-      "updatedAt": 1513722302061,
+      "updatedAt": 1513737112419,
       "pluginCreator___NODE": "Plugin default-site-plugin",
       "pluginCreatorId": "Plugin default-site-plugin",
       "componentPath": "/Users/juanjorge/Developer/gatsby-test-with-source-data/src/layouts/data.js",
-      "id": "SitePage /cuatro-de-los-dreamers-arrestados-en-el-congreso-deciden-seguir-en-la-carcel-para-presionar-a-los-democratas",
+      "id": "SitePage /con-protestas-dreamers-en-chicago-exigen-la-aprobacion-del-dream-act",
       "parent": "SOURCE",
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "007e269a32b8d0e2b60917279d479fe2",
+        "contentDigest": "3f384925f0fd65a453d142cec28ca55f",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /un-deportado-cuenta-las-horas-para-cruzar-la-frontera-y-volver-al-pais-que-defendio-como-infante-de-marina": {
+      "layout": "index",
+      "jsonName": "un-deportado-cuenta-las-horas-para-cruzar-la-frontera-y-volver-al-pais-que-defendio-como-infante-de-marina.json",
+      "internalComponentName": "ComponentUnDeportadoCuentaLasHorasParaCruzarLaFronteraYVolverAlPaisQueDefendioComoInfanteDeMarina",
+      "path": "/un-deportado-cuenta-las-horas-para-cruzar-la-frontera-y-volver-al-pais-que-defendio-como-infante-de-marina",
+      "component": "/Users/juanjorge/Developer/gatsby-test-with-source-data/src/layouts/data.js",
+      "componentChunkName": "component---src-layouts-data-js",
+      "context": {
+        "slug": "00000160-715e-da48-ab73-73df66130000",
+        "node": {
+          "id": "00000160-715e-da48-ab73-73df66130000",
+          "publishDate": "2017-12-19T19:07:00-05:00",
+          "title": "Un deportado cuenta las horas para cruzar la frontera y volver al país que defendió como infante de marina",
+          "widget": "Breaking News Titulares",
+          "shortTitle": "Un deportado cuenta las horas para cruzar la frontera y volver al país que defendió como infante de marina",
+          "description": "Pasaron 15 años antes de que Marcos Chávez recibiera la noticia de que aprobaron su regreso a EEUU. Abogados que llevaron el caso dicen que seguirán luchando para que regresen aquellos que pelearon por el país que terminó rechazándolos.",
+          "images": {
+            "original": {
+              "href": "https://cdn3.uvnimg.com/ff/01/0134603c4313886e4a33d6e01693/de3209e5d9564c88a2891f57419b1988",
+              "width": 1920,
+              "height": 1080
+            }
+          },
+          "children": [],
+          "parent": "00000160-715e-da48-ab73-73df66130000",
+          "internal": {
+            "type": "Video",
+            "mediaType": "application/json",
+            "contentDigest": "56fc06aea725af2e69c5a84dcc541039"
+          }
+        }
+      },
+      "updatedAt": 1513737112420,
+      "pluginCreator___NODE": "Plugin default-site-plugin",
+      "pluginCreatorId": "Plugin default-site-plugin",
+      "componentPath": "/Users/juanjorge/Developer/gatsby-test-with-source-data/src/layouts/data.js",
+      "id": "SitePage /un-deportado-cuenta-las-horas-para-cruzar-la-frontera-y-volver-al-pais-que-defendio-como-infante-de-marina",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "289281a5174012e46f091e907b3d0d95",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /el-conmovedor-reencuentro-de-una-madre-con-sus-hijas-que-habian-sido-raptadas-por-su-padre": {
+      "layout": "index",
+      "jsonName": "el-conmovedor-reencuentro-de-una-madre-con-sus-hijas-que-habian-sido-raptadas-por-su-padre.json",
+      "internalComponentName": "ComponentElConmovedorReencuentroDeUnaMadreConSusHijasQueHabianSidoRaptadasPorSuPadre",
+      "path": "/el-conmovedor-reencuentro-de-una-madre-con-sus-hijas-que-habian-sido-raptadas-por-su-padre",
+      "component": "/Users/juanjorge/Developer/gatsby-test-with-source-data/src/layouts/data.js",
+      "componentChunkName": "component---src-layouts-data-js",
+      "context": {
+        "slug": "00000160-715d-da48-ab73-73df7b850000",
+        "node": {
+          "id": "00000160-715d-da48-ab73-73df7b850000",
+          "publishDate": "2017-12-19T18:59:00-05:00",
+          "title": "El conmovedor reencuentro de una madre con sus hijas que habían sido raptadas por su padre",
+          "widget": "Breaking News Titulares",
+          "shortTitle": "El conmovedor reencuentro de una madre con sus hijas que habían sido raptadas por su padre",
+          "description": "Para Leticia Labra este es el \"mejor regalo de navidad\" después de 11 años de sufrimientos. Las jovencitas fueron sacadas del país por su padre en 2006 sin el consentimiento de la madre y pese a que ella lo reportó, no se tomó ninguna duda al respecto.",
+          "images": {
+            "original": {
+              "href": "https://cdn1.uvnimg.com/fe/14/ff0279364b9082ad9a77e3a7b661/245238499e4f428083f0d98ecaa9dc7d",
+              "width": 1920,
+              "height": 1080
+            }
+          },
+          "children": [],
+          "parent": "00000160-715d-da48-ab73-73df7b850000",
+          "internal": {
+            "type": "Video",
+            "mediaType": "application/json",
+            "contentDigest": "768a899cc28e931da92c68dc6847a923"
+          }
+        }
+      },
+      "updatedAt": 1513737112420,
+      "pluginCreator___NODE": "Plugin default-site-plugin",
+      "pluginCreatorId": "Plugin default-site-plugin",
+      "componentPath": "/Users/juanjorge/Developer/gatsby-test-with-source-data/src/layouts/data.js",
+      "id": "SitePage /el-conmovedor-reencuentro-de-una-madre-con-sus-hijas-que-habian-sido-raptadas-por-su-padre",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "16f961d3c01146c8c4ddf0457871fa8a",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /dejan-en-libertad-a-tres-dreamers-pero-otros-cuatro-permanecen-detenidos-por-rehusarse-a-darles-sus-nombres-a-las-autoridades": {
+      "layout": "index",
+      "jsonName": "dejan-en-libertad-a-tres-dreamers-pero-otros-cuatro-permanecen-detenidos-por-rehusarse-a-darles-sus-nombres-a-las-autoridades.json",
+      "internalComponentName": "ComponentDejanEnLibertadATresDreamersPeroOtrosCuatroPermanecenDetenidosPorRehusarseADarlesSusNombresALasAutoridades",
+      "path": "/dejan-en-libertad-a-tres-dreamers-pero-otros-cuatro-permanecen-detenidos-por-rehusarse-a-darles-sus-nombres-a-las-autoridades",
+      "component": "/Users/juanjorge/Developer/gatsby-test-with-source-data/src/layouts/data.js",
+      "componentChunkName": "component---src-layouts-data-js",
+      "context": {
+        "slug": "00000160-713b-da48-ab73-73bf77190000",
+        "node": {
+          "id": "00000160-713b-da48-ab73-73bf77190000",
+          "publishDate": "2017-12-19T18:41:00-05:00",
+          "title": "Dejan en libertad a tres dreamers pero otros cuatro permanecen detenidos por rehusarse a darles sus nombres a las autoridades",
+          "widget": "Breaking News Titulares",
+          "shortTitle": "Dejan en libertad a tres dreamers pero otros cuatro permanecen detenidos por rehusarse a darles sus nombres a las autoridades",
+          "description": "Los jóvenes llevan cinco días en huelga de hambre dentro de la prisión y abogados temen que sean deportados si pasan más tiempo allí. El republicano John Cornyn dijo que un proyecto de ley sobre los dreamers no está en la agenda este mes y que sería hasta enero que podría tocarse el tema.",
+          "images": {
+            "original": {
+              "href": "https://cdn1.uvnimg.com/7d/c8/18bba3d84be9b488c85376c511e3/6c9c63401ad0495f871f268799a9c99e",
+              "width": 1920,
+              "height": 1080
+            }
+          },
+          "children": [],
+          "parent": "00000160-713b-da48-ab73-73bf77190000",
+          "internal": {
+            "type": "Video",
+            "mediaType": "application/json",
+            "contentDigest": "618d89108e3fa5fb8753837ece6a7147"
+          }
+        }
+      },
+      "updatedAt": 1513737112421,
+      "pluginCreator___NODE": "Plugin default-site-plugin",
+      "pluginCreatorId": "Plugin default-site-plugin",
+      "componentPath": "/Users/juanjorge/Developer/gatsby-test-with-source-data/src/layouts/data.js",
+      "id": "SitePage /dejan-en-libertad-a-tres-dreamers-pero-otros-cuatro-permanecen-detenidos-por-rehusarse-a-darles-sus-nombres-a-las-autoridades",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "7b1aa1534bada8681852e21d608a3871",
         "owner": "internal-data-bridge"
       }
     },
@@ -557,7 +692,7 @@
           "description": "Ricardo Anaya explica por qué quiere ser presidente de México. Meryl Streep, Tom Hanks and Steven Spielberg hablan sobre su nueva película ‘The Post’, sobre el acoso sexual y Trump.",
           "images": {
             "original": {
-              "href": "https://cdn2.uvnimg.com/da/02/8f4feacb410bbea910b53aa9ca5e/b1cc297361da43039a9a66e63aeb4a16",
+              "href": "https://cdn3.uvnimg.com/15/f9/222f48ab4bbbb5011234895e78f9/751d154ddedf43b4b9c778468499f2d7",
               "width": 1920,
               "height": 1080
             }
@@ -567,11 +702,11 @@
           "internal": {
             "type": "Video",
             "mediaType": "application/json",
-            "contentDigest": "d298462a89fd74681f96689e15fe2485"
+            "contentDigest": "e27791c4fb639735d2c97a9e96bc03f1"
           }
         }
       },
-      "updatedAt": 1513722302062,
+      "updatedAt": 1513737112422,
       "pluginCreator___NODE": "Plugin default-site-plugin",
       "pluginCreatorId": "Plugin default-site-plugin",
       "componentPath": "/Users/juanjorge/Developer/gatsby-test-with-source-data/src/layouts/data.js",
@@ -580,142 +715,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "366a4f6d3d98718debc120abb0ec41bf",
-        "owner": "internal-data-bridge"
-      }
-    },
-    "SitePage /residentes-de-california-se-reunen-en-stockton-para-celebrar-el-dia-internacional-del-migrante": {
-      "layout": "index",
-      "jsonName": "residentes-de-california-se-reunen-en-stockton-para-celebrar-el-dia-internacional-del-migrante.json",
-      "internalComponentName": "ComponentResidentesDeCaliforniaSeReunenEnStocktonParaCelebrarElDiaInternacionalDelMigrante",
-      "path": "/residentes-de-california-se-reunen-en-stockton-para-celebrar-el-dia-internacional-del-migrante",
-      "component": "/Users/juanjorge/Developer/gatsby-test-with-source-data/src/layouts/data.js",
-      "componentChunkName": "component---src-layouts-data-js",
-      "context": {
-        "slug": "00000160-6fcb-da48-ab73-6fcf84090000",
-        "node": {
-          "id": "00000160-6fcb-da48-ab73-6fcf84090000",
-          "publishDate": "2017-12-19T02:13:00-05:00",
-          "title": "Residentes de California se reúnen en Stockton para celebrar el Día Internacional del Migrante",
-          "widget": "Breaking News Titulares",
-          "shortTitle": "Residentes de California se reúnen en Stockton para celebrar el Día Internacional del Migrante",
-          "description": "Gustavo Ortiz habló con un inmigrante quien narró lo difícil de ser bracero en EEUU y conversó con activistas sobre cómo ha cambiado la situación para los inmigrantes en los últimos años.",
-          "images": {
-            "original": {
-              "href": "https://cdn3.uvnimg.com/6e/59/415f0c0b430db8675264cc7e7580/0c2e473d5b4649d580c04cce69753506",
-              "width": 1920,
-              "height": 1080
-            }
-          },
-          "children": [],
-          "parent": "00000160-6fcb-da48-ab73-6fcf84090000",
-          "internal": {
-            "type": "Video",
-            "mediaType": "application/json",
-            "contentDigest": "b461077fb3b1ab97314b6256fc2bec5b"
-          }
-        }
-      },
-      "updatedAt": 1513722302063,
-      "pluginCreator___NODE": "Plugin default-site-plugin",
-      "pluginCreatorId": "Plugin default-site-plugin",
-      "componentPath": "/Users/juanjorge/Developer/gatsby-test-with-source-data/src/layouts/data.js",
-      "id": "SitePage /residentes-de-california-se-reunen-en-stockton-para-celebrar-el-dia-internacional-del-migrante",
-      "parent": "SOURCE",
-      "children": [],
-      "internal": {
-        "type": "SitePage",
-        "contentDigest": "97e78a59a0f9ac787921563fb79294da",
-        "owner": "internal-data-bridge"
-      }
-    },
-    "SitePage /consejos-para-beneficiarios-de-daca-y-tps": {
-      "layout": "index",
-      "jsonName": "consejos-para-beneficiarios-de-daca-y-tps.json",
-      "internalComponentName": "ComponentConsejosParaBeneficiariosDeDacaYTps",
-      "path": "/consejos-para-beneficiarios-de-daca-y-tps",
-      "component": "/Users/juanjorge/Developer/gatsby-test-with-source-data/src/layouts/data.js",
-      "componentChunkName": "component---src-layouts-data-js",
-      "context": {
-        "slug": "00000160-7081-da48-ab73-7287a5930000",
-        "node": {
-          "id": "00000160-7081-da48-ab73-7287a5930000",
-          "publishDate": "2017-12-19T12:56:00-05:00",
-          "title": "Consejos para beneficiarios de DACA y TPS",
-          "widget": "Breaking News Titulares",
-          "shortTitle": "Consejos para beneficiarios de DACA y TPS",
-          "description": "Douglas Interiano, director de Proyecto Inmigrante, comparte algunas recomendaciones para beneficiarios de DACA y TPS que deseen salir del país.",
-          "images": {
-            "original": {
-              "href": "https://cdn3.uvnimg.com/9b/1f/ca301a39464db7d198d649d4a0d2/930a85e731ec4e0ea1280d09b22aa09f",
-              "width": 1920,
-              "height": 1080
-            }
-          },
-          "children": [],
-          "parent": "00000160-7081-da48-ab73-7287a5930000",
-          "internal": {
-            "type": "Video",
-            "mediaType": "application/json",
-            "contentDigest": "61fc7bb9a873f39ce9bdd511850e5fba"
-          }
-        }
-      },
-      "updatedAt": 1513722302064,
-      "pluginCreator___NODE": "Plugin default-site-plugin",
-      "pluginCreatorId": "Plugin default-site-plugin",
-      "componentPath": "/Users/juanjorge/Developer/gatsby-test-with-source-data/src/layouts/data.js",
-      "id": "SitePage /consejos-para-beneficiarios-de-daca-y-tps",
-      "parent": "SOURCE",
-      "children": [],
-      "internal": {
-        "type": "SitePage",
-        "contentDigest": "f918fc629c33d26eace21176237ac437",
-        "owner": "internal-data-bridge"
-      }
-    },
-    "SitePage /joven-dreamer-de-san-antonio-narra-lo-ocurrido-durante-las-protestas-en-washington-para-exigir-una-solucion-al-fin-de-daca": {
-      "layout": "index",
-      "jsonName": "joven-dreamer-de-san-antonio-narra-lo-ocurrido-durante-las-protestas-en-washington-para-exigir-una-solucion-al-fin-de-daca.json",
-      "internalComponentName": "ComponentJovenDreamerDeSanAntonioNarraLoOcurridoDuranteLasProtestasEnWashingtonParaExigirUnaSolucionAlFinDeDaca",
-      "path": "/joven-dreamer-de-san-antonio-narra-lo-ocurrido-durante-las-protestas-en-washington-para-exigir-una-solucion-al-fin-de-daca",
-      "component": "/Users/juanjorge/Developer/gatsby-test-with-source-data/src/layouts/data.js",
-      "componentChunkName": "component---src-layouts-data-js",
-      "context": {
-        "slug": "00000160-6fbc-da48-ab73-6fbf54ce0000",
-        "node": {
-          "id": "00000160-6fbc-da48-ab73-6fbf54ce0000",
-          "publishDate": "2017-12-19T02:57:00-05:00",
-          "title": "Joven dreamer de San Antonio narra lo ocurrido durante las protestas en Washington para exigir una solución al fin de DACA",
-          "widget": "Breaking News Titulares",
-          "shortTitle": "Joven dreamer de San Antonio narra lo ocurrido durante las protestas en Washington para exigir una solución al fin de DACA",
-          "description": "Jessica Azúa, beneficiaria de DACA, nos habla sobre las manifestaciones locales y nacionales que se están organizando para exigir a los líderes del país una solución para los más de 800,000 dreamers.",
-          "images": {
-            "original": {
-              "href": "https://cdn2.uvnimg.com/18/57/3f1dd44f43c288d94a13272b43b3/0f0a3cf161a143e0a848f7a04b701500",
-              "width": 1920,
-              "height": 1080
-            }
-          },
-          "children": [],
-          "parent": "00000160-6fbc-da48-ab73-6fbf54ce0000",
-          "internal": {
-            "type": "Video",
-            "mediaType": "application/json",
-            "contentDigest": "c14058b392c73bc74c56ed858303090f"
-          }
-        }
-      },
-      "updatedAt": 1513722302065,
-      "pluginCreator___NODE": "Plugin default-site-plugin",
-      "pluginCreatorId": "Plugin default-site-plugin",
-      "componentPath": "/Users/juanjorge/Developer/gatsby-test-with-source-data/src/layouts/data.js",
-      "id": "SitePage /joven-dreamer-de-san-antonio-narra-lo-ocurrido-durante-las-protestas-en-washington-para-exigir-una-solucion-al-fin-de-daca",
-      "parent": "SOURCE",
-      "children": [],
-      "internal": {
-        "type": "SitePage",
-        "contentDigest": "578f5d1f86a2c976214c70be578c6737",
+        "contentDigest": "35610b41ec9175939b01dc7cddc858bf",
         "owner": "internal-data-bridge"
       }
     },
@@ -727,7 +727,7 @@
       "component": "/Users/juanjorge/Developer/gatsby-test-with-source-data/src/pages/404.js",
       "componentChunkName": "component---src-pages-404-js",
       "context": {},
-      "updatedAt": 1513722302081,
+      "updatedAt": 1513737112438,
       "pluginCreator___NODE": "Plugin component-page-creator",
       "pluginCreatorId": "Plugin component-page-creator",
       "componentPath": "/Users/juanjorge/Developer/gatsby-test-with-source-data/src/pages/404.js",
@@ -736,7 +736,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "b5322feef84e6ede2fb7022322b28a0c",
+        "contentDigest": "8b2154c57eed3b3610bc37d2f623aa1f",
         "owner": "internal-data-bridge"
       }
     },
@@ -748,7 +748,7 @@
       "component": "/Users/juanjorge/Developer/gatsby-test-with-source-data/src/pages/index.js",
       "componentChunkName": "component---src-pages-index-js",
       "context": {},
-      "updatedAt": 1513722302082,
+      "updatedAt": 1513737112440,
       "pluginCreator___NODE": "Plugin component-page-creator",
       "pluginCreatorId": "Plugin component-page-creator",
       "componentPath": "/Users/juanjorge/Developer/gatsby-test-with-source-data/src/pages/index.js",
@@ -757,7 +757,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "0d9efeed59740edcb5877532ce5e3a2b",
+        "contentDigest": "c880141303a11d5feb86947192b75e0c",
         "owner": "internal-data-bridge"
       }
     },
@@ -769,7 +769,7 @@
       "component": "/Users/juanjorge/Developer/gatsby-test-with-source-data/src/pages/404.js",
       "componentChunkName": "component---src-pages-404-js",
       "context": {},
-      "updatedAt": 1513722302084,
+      "updatedAt": 1513737112445,
       "pluginCreator___NODE": "Plugin prod-404",
       "pluginCreatorId": "Plugin prod-404",
       "componentPath": "/Users/juanjorge/Developer/gatsby-test-with-source-data/src/pages/404.js",
@@ -778,14 +778,14 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "609f3c4fb517955d3ff889a7048ad760",
+        "contentDigest": "d2c4fca26228ddb0456fed6a10fd3eeb",
         "owner": "internal-data-bridge"
       }
     }
   },
   "status": {
     "plugins": {},
-    "PLUGINS_HASH": "8bceaaa183464c186f485b3378bdae63"
+    "PLUGINS_HASH": "7aa3a7108923ad353d5384b290bba2e1"
   },
   "componentDataDependencies": {
     "nodes": {},

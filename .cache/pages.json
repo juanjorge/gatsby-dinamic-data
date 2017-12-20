@@ -17,15 +17,36 @@
         "componentChunkName": "component---src-layouts-data-js",
         "layout": "layout---index",
         "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "pesimismo-ante-los-nulos-avances-por-proteger-a-los-dreamers-en-el-congreso-antes-de-fin-de-ano.json",
-        "path": "/pesimismo-ante-los-nulos-avances-por-proteger-a-los-dreamers-en-el-congreso-antes-de-fin-de-ano"
+        "jsonName": "concejales-en-nueva-york-votan-a-favor-de-una-resolucion-que-proteja-a-los-dreamers.json",
+        "path": "/concejales-en-nueva-york-votan-a-favor-de-una-resolucion-que-proteja-a-los-dreamers"
     },
     {
         "componentChunkName": "component---src-layouts-data-js",
         "layout": "layout---index",
         "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "cuatro-de-los-dreamers-arrestados-en-el-congreso-deciden-seguir-en-la-carcel-para-presionar-a-los-democratas.json",
-        "path": "/cuatro-de-los-dreamers-arrestados-en-el-congreso-deciden-seguir-en-la-carcel-para-presionar-a-los-democratas"
+        "jsonName": "con-protestas-dreamers-en-chicago-exigen-la-aprobacion-del-dream-act.json",
+        "path": "/con-protestas-dreamers-en-chicago-exigen-la-aprobacion-del-dream-act"
+    },
+    {
+        "componentChunkName": "component---src-layouts-data-js",
+        "layout": "layout---index",
+        "layoutComponentChunkName": "component---src-layouts-index-js",
+        "jsonName": "un-deportado-cuenta-las-horas-para-cruzar-la-frontera-y-volver-al-pais-que-defendio-como-infante-de-marina.json",
+        "path": "/un-deportado-cuenta-las-horas-para-cruzar-la-frontera-y-volver-al-pais-que-defendio-como-infante-de-marina"
+    },
+    {
+        "componentChunkName": "component---src-layouts-data-js",
+        "layout": "layout---index",
+        "layoutComponentChunkName": "component---src-layouts-index-js",
+        "jsonName": "el-conmovedor-reencuentro-de-una-madre-con-sus-hijas-que-habian-sido-raptadas-por-su-padre.json",
+        "path": "/el-conmovedor-reencuentro-de-una-madre-con-sus-hijas-que-habian-sido-raptadas-por-su-padre"
+    },
+    {
+        "componentChunkName": "component---src-layouts-data-js",
+        "layout": "layout---index",
+        "layoutComponentChunkName": "component---src-layouts-index-js",
+        "jsonName": "dejan-en-libertad-a-tres-dreamers-pero-otros-cuatro-permanecen-detenidos-por-rehusarse-a-darles-sus-nombres-a-las-autoridades.json",
+        "path": "/dejan-en-libertad-a-tres-dreamers-pero-otros-cuatro-permanecen-detenidos-por-rehusarse-a-darles-sus-nombres-a-las-autoridades"
     },
     {
         "componentChunkName": "component---src-layouts-data-js",
@@ -33,27 +54,6 @@
         "layoutComponentChunkName": "component---src-layouts-index-js",
         "jsonName": "al-punto-con-jorge-ramos-17-de-diciembre-2017.json",
         "path": "/al-punto-con-jorge-ramos-17-de-diciembre-2017"
-    },
-    {
-        "componentChunkName": "component---src-layouts-data-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "residentes-de-california-se-reunen-en-stockton-para-celebrar-el-dia-internacional-del-migrante.json",
-        "path": "/residentes-de-california-se-reunen-en-stockton-para-celebrar-el-dia-internacional-del-migrante"
-    },
-    {
-        "componentChunkName": "component---src-layouts-data-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "consejos-para-beneficiarios-de-daca-y-tps.json",
-        "path": "/consejos-para-beneficiarios-de-daca-y-tps"
-    },
-    {
-        "componentChunkName": "component---src-layouts-data-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "joven-dreamer-de-san-antonio-narra-lo-ocurrido-durante-las-protestas-en-washington-para-exigir-una-solucion-al-fin-de-daca.json",
-        "path": "/joven-dreamer-de-san-antonio-narra-lo-ocurrido-durante-las-protestas-en-washington-para-exigir-una-solucion-al-fin-de-daca"
     },
     {
         "componentChunkName": "component---src-pages-404-js",

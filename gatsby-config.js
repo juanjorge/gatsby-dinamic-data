@@ -1,5 +1,5 @@
 module.exports = {
-  pathPrefix: `/gatsby-dynamic-data/`,
+  pathPrefix: `/gatsby-dynamic-data/public`,
   siteMetadata: {
     title: `Gatsby Default Starter`,
   },
