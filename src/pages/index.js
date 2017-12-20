@@ -15,7 +15,7 @@ export default class IndexPage extends React.Component {
                       if(node.path != 'dev-404-page/' && node.path != '/404/' && node.path != '/404.html' && node.path != '/dev-404-page/' && node.path != '/')
                       return (
                         <li>
-                            <a href={'/gatsby-test-dynamic-data/public' + node.path}>{node.path.substring(1)}</a>
+                            <a href={'/gatsby-test-dynamic-data/public' + node.path}>{node.path}</a>
                         </li>
                       )
                     })
