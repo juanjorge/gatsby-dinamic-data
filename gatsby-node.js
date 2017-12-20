@@ -13,7 +13,7 @@
 
  exports.createPages = ({ graphql, boundActionCreators }) => {
      const { createPage } = boundActionCreators
-     _siteURL = `https://syndicator.univision.com/web-api/content?url=https://www.univision.com/test/gatsby-dynamic-data-section1`
+     _siteURL = `https://syndicator.univision.com/web-api/content?url=https://www.univision.com/test/gatsby-dynamic-data-section2`
      return Promise.all([axios({
          method: `get`,
          url: `${_siteURL}`

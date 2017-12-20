@@ -8,7 +8,7 @@
       "component": "/Users/juanjorge/Developer/gatsby-test-with-source-data/.cache/dev-404-page.js",
       "componentChunkName": "component---cache-dev-404-page-js",
       "context": {},
-      "updatedAt": 1513773344770,
+      "updatedAt": 1513781836204,
       "pluginCreator___NODE": "Plugin dev-404-page",
       "pluginCreatorId": "Plugin dev-404-page",
       "componentPath": "/Users/juanjorge/Developer/gatsby-test-with-source-data/.cache/dev-404-page.js",
@@ -17,7 +17,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "55f8cea9989da7ae5fdb895981520e44",
+        "contentDigest": "80b4818fa4420facbc477e73ea6a9cd3",
         "owner": "internal-data-bridge"
       }
     },
@@ -287,7 +287,7 @@
       "resolve": "/Users/juanjorge/Developer/gatsby-test-with-source-data",
       "id": "Plugin default-site-plugin",
       "name": "default-site-plugin",
-      "version": "c629c0ea566638dcbb4522cb725f7015",
+      "version": "0d14a480a8f0bcaf68dbb80c39eb5afc",
       "pluginOptions": {
         "plugins": []
       },
@@ -356,7 +356,7 @@
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "1085d55c97aebc898a1753274f5ed720",
+        "contentDigest": "6b25cb5f149e9c6633e6a95f61051f8d",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
@@ -369,103 +369,103 @@
       "host": "localhost",
       "pathPrefix": "",
       "polyfill": true,
-      "buildTime": "2017-12-20T12:35:39.956Z",
+      "buildTime": "2017-12-20T14:57:10.101Z",
       "id": "Site",
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "381e39852d965c13a6df995eb5b60718",
+        "contentDigest": "f4af4004fd1d79d63a8a0869272bb082",
         "type": "Site",
         "owner": "internal-data-bridge"
       }
     },
-    "SitePage /calculadora-asi-afectara-a-tu-sueldo-la-reforma-de-impuestos": {
+    "SitePage /con-buenas-nuevas-llego-el-angel-de-la-justicia-para-este-padre-inmigrante-que-fue-detenido-por-ice": {
       "layout": "index",
-      "jsonName": "calculadora-asi-afectara-a-tu-sueldo-la-reforma-de-impuestos.json",
-      "internalComponentName": "ComponentCalculadoraAsiAfectaraATuSueldoLaReformaDeImpuestos",
-      "path": "/calculadora-asi-afectara-a-tu-sueldo-la-reforma-de-impuestos",
+      "jsonName": "con-buenas-nuevas-llego-el-angel-de-la-justicia-para-este-padre-inmigrante-que-fue-detenido-por-ice.json",
+      "internalComponentName": "ComponentConBuenasNuevasLlegoElAngelDeLaJusticiaParaEstePadreInmigranteQueFueDetenidoPorIce",
+      "path": "/con-buenas-nuevas-llego-el-angel-de-la-justicia-para-este-padre-inmigrante-que-fue-detenido-por-ice",
       "component": "/Users/juanjorge/Developer/gatsby-test-with-source-data/src/layouts/data.js",
       "componentChunkName": "component---src-layouts-data-js",
       "context": {
-        "slug": "00000160-5c0e-d8dc-a9f4-7d0f1bad0000",
+        "slug": "00000160-7443-dadb-a1f0-7e6fdaba0000",
         "node": {
-          "id": "00000160-5c0e-d8dc-a9f4-7d0f1bad0000",
-          "publishDate": "2017-12-15T16:40:01-05:00",
-          "title": "Calculadora: Así afectará a tu sueldo la reforma de impuestos",
-          "widget": "FLEX Apertura 4 items",
-          "shortTitle": "Calculadora: Así afectará a tu sueldo la reforma de impuestos",
-          "description": "Elige las opciones que más se ajustan a tu situación y sabrás si pagarás más o menos impuestos durante los próximos años.",
+          "id": "00000160-7443-dadb-a1f0-7e6fdaba0000",
+          "publishDate": "2017-12-20T08:42:00-05:00",
+          "title": "Con buenas nuevas llegó el Ángel de la Justicia para este padre inmigrante que fue detenido por ICE",
+          "widget": "",
+          "shortTitle": "Con buenas nuevas llegó el Ángel de la Justicia para este padre inmigrante que fue detenido por ICE",
+          "description": "El señor José fue detenido hace un tiempo por agentes de ICE, y confiesa haber tenido mucho miedo y angustia por no poder ver a su esposa e hijas. Por eso ahora la abogada Jessica Domínguez llegó con una luz de esperanza para que ya no tema más.",
           "images": {
             "original": {
-              "href": "https://cdn4.uvnimg.com/dc/70/1fd599774635882d082a29c8d220/calculadoragris7.gif",
-              "width": 600,
-              "height": 338
+              "href": "https://cdn1.uvnimg.com/12/27/6e75e08b47d39cae4a77e2ba0f3e/9d666950ec114a27a622c4af76fa5c18",
+              "width": 1920,
+              "height": 1080
             }
           },
           "children": [],
-          "parent": "00000160-5c0e-d8dc-a9f4-7d0f1bad0000",
+          "parent": "00000160-7443-dadb-a1f0-7e6fdaba0000",
           "internal": {
-            "type": "Article",
+            "type": "Video",
             "mediaType": "application/json",
-            "contentDigest": "731b7e462824e02b455de391fab9ed30"
+            "contentDigest": "d2cb8bcc9c8d50132a772a3c553a0662"
           }
         }
       },
-      "updatedAt": 1513773345312,
+      "updatedAt": 1513781836816,
       "pluginCreator___NODE": "Plugin default-site-plugin",
       "pluginCreatorId": "Plugin default-site-plugin",
       "componentPath": "/Users/juanjorge/Developer/gatsby-test-with-source-data/src/layouts/data.js",
-      "id": "SitePage /calculadora-asi-afectara-a-tu-sueldo-la-reforma-de-impuestos",
+      "id": "SitePage /con-buenas-nuevas-llego-el-angel-de-la-justicia-para-este-padre-inmigrante-que-fue-detenido-por-ice",
       "parent": "SOURCE",
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "2694b5692e8a984dd485d1c8dc6d90da",
+        "contentDigest": "6c7591a34a175cf8ea3396774692e58e",
         "owner": "internal-data-bridge"
       }
     },
-    "SitePage /el-tren-descarrilado-en-seattle-viajaba-a-casi-el-triple-de-velocidad-permitida": {
+    "SitePage /el-primer-dreamer-deportado-en-el-gobierno-trump-puede-perder-la-posibilidad-de-reingresar-a-eeuu": {
       "layout": "index",
-      "jsonName": "el-tren-descarrilado-en-seattle-viajaba-a-casi-el-triple-de-velocidad-permitida.json",
-      "internalComponentName": "ComponentElTrenDescarriladoEnSeattleViajabaACasiElTripleDeVelocidadPermitida",
-      "path": "/el-tren-descarrilado-en-seattle-viajaba-a-casi-el-triple-de-velocidad-permitida",
+      "jsonName": "el-primer-dreamer-deportado-en-el-gobierno-trump-puede-perder-la-posibilidad-de-reingresar-a-eeuu.json",
+      "internalComponentName": "ComponentElPrimerDreamerDeportadoEnElGobiernoTrumpPuedePerderLaPosibilidadDeReingresarAEeuu",
+      "path": "/el-primer-dreamer-deportado-en-el-gobierno-trump-puede-perder-la-posibilidad-de-reingresar-a-eeuu",
       "component": "/Users/juanjorge/Developer/gatsby-test-with-source-data/src/layouts/data.js",
       "componentChunkName": "component---src-layouts-data-js",
       "context": {
-        "slug": "00000160-6e76-d4d0-af63-6ff7a7c00000",
+        "slug": "00000160-7424-dadb-a1f0-7e6e4cfa0000",
         "node": {
-          "id": "00000160-6e76-d4d0-af63-6ff7a7c00000",
-          "publishDate": "2017-12-19T06:34:41-05:00",
-          "title": "El tren descarrilado en Seattle viajaba a casi el triple de velocidad permitida",
-          "widget": "FLEX Apertura 4 items",
-          "shortTitle": "El tren descarrilado en Seattle viajaba a casi el triple de velocidad permitida",
-          "description": "Según la Oficina de Seguridad Nacional de Transportes el convoy viajaba a 80 millas en un tramo cuya limitación era 30 millas por hora. Se desconoce qué provocó el descarrilamiento y por qué viajaba a tanta velocidad.",
+          "id": "00000160-7424-dadb-a1f0-7e6e4cfa0000",
+          "publishDate": "2017-12-20T08:24:00-05:00",
+          "title": "El primer dreamer deportado en el gobierno Trump puede perder la posibilidad de reingresar a EEUU",
+          "widget": "",
+          "shortTitle": "El primer dreamer deportado en el gobierno Trump puede perder la posibilidad de reingresar a EEUU",
+          "description": "Juan Manuel Montes cometió el error de cruzar la frontera de manera ilegal y fue detenido por Inmigración, que le imputó cargos de delito menor. Abogados aseguran que con dichos antecedentes es muy difícil que este hispano pueda ser admitido en el país.",
           "images": {
             "original": {
-              "href": "https://cdn1.uvnimg.com/5e/52/f4982cb3438d89b92c2113ad2401/eeuu-tren-descarrilad-palo.jpg",
-              "width": 3135,
-              "height": 1945
+              "href": "https://cdn2.uvnimg.com/68/40/9c63135a4a0384465c56881138ad/d6162abb007b44de88fca42580808984",
+              "width": 1920,
+              "height": 1080
             }
           },
           "children": [],
-          "parent": "00000160-6e76-d4d0-af63-6ff7a7c00000",
+          "parent": "00000160-7424-dadb-a1f0-7e6e4cfa0000",
           "internal": {
-            "type": "Article",
+            "type": "Video",
             "mediaType": "application/json",
-            "contentDigest": "2b713f72ce64ec0d4a670dd950a5ed91"
+            "contentDigest": "5d10fcc1abb6642b6a367ba92dcbf48e"
           }
         }
       },
-      "updatedAt": 1513773345313,
+      "updatedAt": 1513781836817,
       "pluginCreator___NODE": "Plugin default-site-plugin",
       "pluginCreatorId": "Plugin default-site-plugin",
       "componentPath": "/Users/juanjorge/Developer/gatsby-test-with-source-data/src/layouts/data.js",
-      "id": "SitePage /el-tren-descarrilado-en-seattle-viajaba-a-casi-el-triple-de-velocidad-permitida",
+      "id": "SitePage /el-primer-dreamer-deportado-en-el-gobierno-trump-puede-perder-la-posibilidad-de-reingresar-a-eeuu",
       "parent": "SOURCE",
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "82586817f41fc524d4fedfe24c634096",
+        "contentDigest": "f5e28c9b7d52fb26b2183717b5f80192",
         "owner": "internal-data-bridge"
       }
     },
@@ -482,7 +482,7 @@
           "id": "00000160-708f-d760-adea-7b8fb9320000",
           "publishDate": "2017-12-19T17:03:51-05:00",
           "title": "Republicanos y demócratas no esperan ningún acuerdo para proteger a los dreamers antes de que finalice el año",
-          "widget": "Breaking News Titulares",
+          "widget": "",
           "shortTitle": "Republicanos y demócratas no esperan ningún acuerdo para proteger a los dreamers ",
           "description": "Legisladores de ambos partidos reconocen que las negociaciones se encuentran en un punto muerto y contemplan ya retomar las conversaciones a principios del 2018. Un grupo de senadores se reunió este martes con el jefe de gabinete de la Casa Blanca, John Kelly, para trabajar sobre un acuerdo que podría legar en enero, según Politico.",
           "images": {
@@ -497,11 +497,11 @@
           "internal": {
             "type": "Article",
             "mediaType": "application/json",
-            "contentDigest": "2ef0fa5eec2178dd8811a8c5e50f633c"
+            "contentDigest": "bdbc84a60d286ba6bb5050002c5cd678"
           }
         }
       },
-      "updatedAt": 1513773345314,
+      "updatedAt": 1513781836818,
       "pluginCreator___NODE": "Plugin default-site-plugin",
       "pluginCreatorId": "Plugin default-site-plugin",
       "componentPath": "/Users/juanjorge/Developer/gatsby-test-with-source-data/src/layouts/data.js",
@@ -510,7 +510,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "6fa529c27beee6d51bcd7f22aecec188",
+        "contentDigest": "1142e4e67c40e2603461271478634f9e",
         "owner": "internal-data-bridge"
       }
     },
@@ -527,7 +527,7 @@
           "id": "00000160-72a5-da48-ab73-72a7f0f60000",
           "publishDate": "2017-12-19T19:18:00-05:00",
           "title": "Esta joven le pide a Santa por el TPS de sus padres",
-          "widget": "Breaking News Titulares",
+          "widget": "",
           "shortTitle": "Esta joven le pide a Santa por el TPS de sus padres",
           "description": "Keyly Tejado de 11 años de edad busca apoyar a sus padres y busca pedir a congresistas que ayuden a los beneficiarios del TPS.",
           "images": {
@@ -542,11 +542,11 @@
           "internal": {
             "type": "Video",
             "mediaType": "application/json",
-            "contentDigest": "180869e6b2ee623f84891a713cf8a622"
+            "contentDigest": "1f90c41bc0a635c9278322c22e0fdf19"
           }
         }
       },
-      "updatedAt": 1513773345315,
+      "updatedAt": 1513781836819,
       "pluginCreator___NODE": "Plugin default-site-plugin",
       "pluginCreatorId": "Plugin default-site-plugin",
       "componentPath": "/Users/juanjorge/Developer/gatsby-test-with-source-data/src/layouts/data.js",
@@ -555,7 +555,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "d5f97b7bd36ea62d70939c087dbfe21a",
+        "contentDigest": "f883156a554717d1f59bc67e9aa28eae",
         "owner": "internal-data-bridge"
       }
     },
@@ -572,7 +572,7 @@
           "id": "00000160-7299-da48-ab73-729f6db00000",
           "publishDate": "2017-12-19T23:46:00-05:00",
           "title": "El proceso que debe seguir un ciudadano o residente permanente al solicitar el cambio de estado de un familiar",
-          "widget": "Breaking News Titulares",
+          "widget": "",
           "shortTitle": "El proceso a seguir de un ciudadano al solicitar el cambio de estado de un familiar",
           "description": "Invitamos a una abogada experta en inmigración para que nos contara sobre los requisitos que debe llenar una persona en esta situación. Además, nos dijo por qué es tan importante para un residente permanente solicitar la ciudadanía.",
           "images": {
@@ -587,11 +587,11 @@
           "internal": {
             "type": "Video",
             "mediaType": "application/json",
-            "contentDigest": "92bcb4bff9cad9e17059a3241affe408"
+            "contentDigest": "2a53fa8cac7250d78a3507da0647497c"
           }
         }
       },
-      "updatedAt": 1513773345315,
+      "updatedAt": 1513781836819,
       "pluginCreator___NODE": "Plugin default-site-plugin",
       "pluginCreatorId": "Plugin default-site-plugin",
       "componentPath": "/Users/juanjorge/Developer/gatsby-test-with-source-data/src/layouts/data.js",
@@ -600,7 +600,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "4f88fc25025dfd6413b66cc781ed1934",
+        "contentDigest": "7e393c3b41f6dc359051b678fdb615a6",
         "owner": "internal-data-bridge"
       }
     },
@@ -617,7 +617,7 @@
           "id": "00000160-726f-da48-ab73-72efe00b0000",
           "publishDate": "2017-12-19T23:47:00-05:00",
           "title": "Dreamers protestan en Illinois para pedir soluciones antes de que finalice el período de sesiones del Congreso",
-          "widget": "Breaking News Titulares",
+          "widget": "",
           "shortTitle": "Dreamers protestan para pedir soluciones antes de que finalice el período de sesiones del Congreso",
           "description": "Decenas de personas que apoyan a beneficiarios de DACA se manifestaron frente a las oficinas de los senadores demócratas por Illinois Dick Durbin y Tammy Duckworth para instarlos a que soliciten en el Congreso que se vote el Dream Act antes del receso de fin de año. Las movilizaciones en Estados Unidos se intensificarán hasta el 22 de diciembre, fecha en la que los amparados esperan que se apruebe una medida de protección permanente.",
           "images": {
@@ -632,11 +632,11 @@
           "internal": {
             "type": "Video",
             "mediaType": "application/json",
-            "contentDigest": "2aabea023b86652e8b1ca4b1440286da"
+            "contentDigest": "2c98c841f84788d770a1e8b36f4f7c11"
           }
         }
       },
-      "updatedAt": 1513773345316,
+      "updatedAt": 1513781836820,
       "pluginCreator___NODE": "Plugin default-site-plugin",
       "pluginCreatorId": "Plugin default-site-plugin",
       "componentPath": "/Users/juanjorge/Developer/gatsby-test-with-source-data/src/layouts/data.js",
@@ -645,7 +645,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "56e18303aebb60ab1ead2024e2dc950b",
+        "contentDigest": "fd47787e362ba1aa39c7b36bbadcd9fd",
         "owner": "internal-data-bridge"
       }
     },
@@ -662,7 +662,7 @@
           "id": "00000160-7163-d446-a1e0-7ffbd6a90000",
           "publishDate": "2017-12-19T21:43:48-05:00",
           "title": "\"Recuperar mi relación con mis tres hijos\", el deseo del veterano deportado que regresa esta Navidad a EEUU",
-          "widget": "Breaking News Titulares",
+          "widget": "",
           "shortTitle": "\"Recuperar a mis hijos\", el deseo del veterano deportado que regresa esta Navidad a EEUU",
           "description": "Tras 15 años en los que se perdió de la infancia y adolescencia de sus tres hijos, Marco Chávez cuenta las horas para volver al país que siempre llamó casa. Antes de que termine el año se convertirá en el primer exmilitar deportado  que regresará legalmente a Estados Unidos gracias a un perdón que le otorgó el gobernador de California. ",
           "images": {
@@ -677,11 +677,11 @@
           "internal": {
             "type": "Article",
             "mediaType": "application/json",
-            "contentDigest": "4cc881dfbec54aa5ec2e3de954e04423"
+            "contentDigest": "86e179d03020ee7dc7e22ba18458be63"
           }
         }
       },
-      "updatedAt": 1513773345317,
+      "updatedAt": 1513781836821,
       "pluginCreator___NODE": "Plugin default-site-plugin",
       "pluginCreatorId": "Plugin default-site-plugin",
       "componentPath": "/Users/juanjorge/Developer/gatsby-test-with-source-data/src/layouts/data.js",
@@ -690,7 +690,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "424c4f865c14f20ffbd8ed71ff898969",
+        "contentDigest": "ad01671e9ad820c0acfd697d4cacd5af",
         "owner": "internal-data-bridge"
       }
     },
@@ -707,7 +707,7 @@
           "id": "00000160-715d-da48-ab73-73df7b850000",
           "publishDate": "2017-12-19T18:59:00-05:00",
           "title": "El conmovedor reencuentro de una madre con sus hijas que habían sido raptadas por su padre",
-          "widget": "Breaking News Titulares",
+          "widget": "",
           "shortTitle": "El conmovedor reencuentro de una madre con sus hijas que habían sido raptadas por su padre",
           "description": "Para Leticia Labra este es el \"mejor regalo de navidad\" después de 11 años de sufrimientos. Las jovencitas fueron sacadas del país por su padre en 2006 sin el consentimiento de la madre y pese a que ella lo reportó, no se tomó ninguna duda al respecto.",
           "images": {
@@ -722,11 +722,11 @@
           "internal": {
             "type": "Video",
             "mediaType": "application/json",
-            "contentDigest": "b548d86b3e40e98bfb75036ceac7e334"
+            "contentDigest": "aa092c55d0bbfc52c3172b026f99f1b6"
           }
         }
       },
-      "updatedAt": 1513773345318,
+      "updatedAt": 1513781836821,
       "pluginCreator___NODE": "Plugin default-site-plugin",
       "pluginCreatorId": "Plugin default-site-plugin",
       "componentPath": "/Users/juanjorge/Developer/gatsby-test-with-source-data/src/layouts/data.js",
@@ -735,7 +735,187 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "fb3f074750bb9c49bd12af47cf9e778b",
+        "contentDigest": "f3daa320e3040cc0c8a44844635f506f",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /familias-inmigrantes-se-reunen-tras-mas-de-dos-decadas-sin-verse": {
+      "layout": "index",
+      "jsonName": "familias-inmigrantes-se-reunen-tras-mas-de-dos-decadas-sin-verse.json",
+      "internalComponentName": "ComponentFamiliasInmigrantesSeReunenTrasMasDeDosDecadasSinVerse",
+      "path": "/familias-inmigrantes-se-reunen-tras-mas-de-dos-decadas-sin-verse",
+      "component": "/Users/juanjorge/Developer/gatsby-test-with-source-data/src/layouts/data.js",
+      "componentChunkName": "component---src-layouts-data-js",
+      "context": {
+        "slug": "00000160-71b1-da48-ab73-73b7a4370000",
+        "node": {
+          "id": "00000160-71b1-da48-ab73-73b7a4370000",
+          "publishDate": "2017-12-19T21:07:00-05:00",
+          "title": "Familias inmigrantes se reúnen tras más de dos décadas sin verse",
+          "widget": "",
+          "shortTitle": "Familias inmigrantes se reúnen tras más de dos décadas sin verse",
+          "description": "El encuentro forma parte del programa “Palomas mensajeras” que tiene como objetivo reunir a padres y madres de la tercera edad con sus hijos que viven en los Estados Unidos y que no se han visto en años.",
+          "images": {
+            "original": {
+              "href": "https://cdn3.uvnimg.com/67/f5/7257de7740a98eda6a30fe9dd1fc/dde47650ee7a464abc983f7e36473251",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "children": [],
+          "parent": "00000160-71b1-da48-ab73-73b7a4370000",
+          "internal": {
+            "type": "Video",
+            "mediaType": "application/json",
+            "contentDigest": "08f82f33aaeb88a082119837ebaf3156"
+          }
+        }
+      },
+      "updatedAt": 1513781836822,
+      "pluginCreator___NODE": "Plugin default-site-plugin",
+      "pluginCreatorId": "Plugin default-site-plugin",
+      "componentPath": "/Users/juanjorge/Developer/gatsby-test-with-source-data/src/layouts/data.js",
+      "id": "SitePage /familias-inmigrantes-se-reunen-tras-mas-de-dos-decadas-sin-verse",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "d5860fbd0527467a7f54e277000f8fc7",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /por-su-estatus-legal-esta-mujer-no-puede-reclamar-el-cuerpo-de-su-esposo-que-se-electrocuto-en-accidente-laboral": {
+      "layout": "index",
+      "jsonName": "por-su-estatus-legal-esta-mujer-no-puede-reclamar-el-cuerpo-de-su-esposo-que-se-electrocuto-en-accidente-laboral.json",
+      "internalComponentName": "ComponentPorSuEstatusLegalEstaMujerNoPuedeReclamarElCuerpoDeSuEsposoQueSeElectrocutoEnAccidenteLaboral",
+      "path": "/por-su-estatus-legal-esta-mujer-no-puede-reclamar-el-cuerpo-de-su-esposo-que-se-electrocuto-en-accidente-laboral",
+      "component": "/Users/juanjorge/Developer/gatsby-test-with-source-data/src/layouts/data.js",
+      "componentChunkName": "component---src-layouts-data-js",
+      "context": {
+        "slug": "00000160-7185-da48-ab73-73879f900000",
+        "node": {
+          "id": "00000160-7185-da48-ab73-73879f900000",
+          "publishDate": "2017-12-19T18:34:00-05:00",
+          "title": "Por su estatus legal, esta mujer no puede reclamar el cuerpo de su esposo que se electrocutó en accidente laboral",
+          "widget": "",
+          "shortTitle": "Por su estatus legal, esta mujer no puede reclamar el cuerpo de su esposo que se electrocutó en accidente laboral",
+          "description": "Margarita Juárez reclama entre lágrimas justicia y una solución después de que el padre de sus cuatro hijos murió electrocutado cuando realizaba labores como empleado de la empresa B&G Properties Maintenance, que no le ha dado respuesta a esta familia de Guatemala. El cadáver lleva casi una semana en la morgue porque Juárez no tiene documentos ni está casada legalmente. La FPL tampoco se ha pronunciado sobre el caso.",
+          "images": {
+            "original": {
+              "href": "https://cdn3.uvnimg.com/98/67/6a17f21d44f78d2a3d6b994b6bfa/c370f90025594fb9a6407d2a7b578127",
+              "width": 1920,
+              "height": 1080
+            }
+          },
+          "children": [],
+          "parent": "00000160-7185-da48-ab73-73879f900000",
+          "internal": {
+            "type": "Video",
+            "mediaType": "application/json",
+            "contentDigest": "a755a3bc551d22db86d39bb96d5cdc5f"
+          }
+        }
+      },
+      "updatedAt": 1513781836823,
+      "pluginCreator___NODE": "Plugin default-site-plugin",
+      "pluginCreatorId": "Plugin default-site-plugin",
+      "componentPath": "/Users/juanjorge/Developer/gatsby-test-with-source-data/src/layouts/data.js",
+      "id": "SitePage /por-su-estatus-legal-esta-mujer-no-puede-reclamar-el-cuerpo-de-su-esposo-que-se-electrocuto-en-accidente-laboral",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "ddcde7d022208cce7252112a1ba16aba",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /justin-gatlin-envuelto-en-un-nuevo-escandalo-de-dopaje": {
+      "layout": "index",
+      "jsonName": "justin-gatlin-envuelto-en-un-nuevo-escandalo-de-dopaje.json",
+      "internalComponentName": "ComponentJustinGatlinEnvueltoEnUnNuevoEscandaloDeDopaje",
+      "path": "/justin-gatlin-envuelto-en-un-nuevo-escandalo-de-dopaje",
+      "component": "/Users/juanjorge/Developer/gatsby-test-with-source-data/src/layouts/data.js",
+      "componentChunkName": "component---src-layouts-data-js",
+      "context": {
+        "slug": "00000160-6f7d-dade-a7f9-ff7fabd70000",
+        "node": {
+          "id": "00000160-6f7d-dade-a7f9-ff7fabd70000",
+          "publishDate": "2017-12-19T11:07:22-05:00",
+          "title": "Justin Gatlin, envuelto en un nuevo escándalo de dopaje",
+          "widget": "",
+          "shortTitle": "Justin Gatlin, envuelto en un nuevo escándalo de dopaje",
+          "description": "El atleta norteamericano estaría ligado al consumo de  testosterona y hormonas del crecimiento en sus entrenamientos.",
+          "images": {
+            "original": {
+              "href": "https://cdn3.uvnimg.com/be/55/fd1778004d7c8586c232584fda25/gettyimages-855645552.jpg",
+              "width": 4424,
+              "height": 2949
+            }
+          },
+          "children": [],
+          "parent": "00000160-6f7d-dade-a7f9-ff7fabd70000",
+          "internal": {
+            "type": "Article",
+            "mediaType": "application/json",
+            "contentDigest": "23fec540a9b85530b3543fcc76f01a81"
+          }
+        }
+      },
+      "updatedAt": 1513781836826,
+      "pluginCreator___NODE": "Plugin default-site-plugin",
+      "pluginCreatorId": "Plugin default-site-plugin",
+      "componentPath": "/Users/juanjorge/Developer/gatsby-test-with-source-data/src/layouts/data.js",
+      "id": "SitePage /justin-gatlin-envuelto-en-un-nuevo-escandalo-de-dopaje",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "5bf3269ccb149354cb00c5e8d74b66d8",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /latinos-que-triunfan-rolando-cantu-y-la-historia-de-un-accidente-que-casi-lo-aleja-de-la-nfl": {
+      "layout": "index",
+      "jsonName": "latinos-que-triunfan-rolando-cantu-y-la-historia-de-un-accidente-que-casi-lo-aleja-de-la-nfl.json",
+      "internalComponentName": "ComponentLatinosQueTriunfanRolandoCantuYLaHistoriaDeUnAccidenteQueCasiLoAlejaDeLaNfl",
+      "path": "/latinos-que-triunfan-rolando-cantu-y-la-historia-de-un-accidente-que-casi-lo-aleja-de-la-nfl",
+      "component": "/Users/juanjorge/Developer/gatsby-test-with-source-data/src/layouts/data.js",
+      "componentChunkName": "component---src-layouts-data-js",
+      "context": {
+        "slug": "00000160-72cb-da48-ab73-72cf9da60000",
+        "node": {
+          "id": "00000160-72cb-da48-ab73-72cf9da60000",
+          "publishDate": "2017-12-20T02:14:00-05:00",
+          "title": "¡Latinos que triunfan! Rolando Cantú y la historia de un accidente que casi lo aleja de la NFL",
+          "widget": "",
+          "shortTitle": "¡Latinos que triunfan! Rolando Cantú y la historia de un accidente que casi lo aleja de la NFL",
+          "description": "Un choque automovilístico por poco acaba con las ilusiones de Cantú de llegar a la máxima categoría del fútbol americano. El mexicano jugó con Berlin Thunder, de la NFL Europa, y Arizona Cardinals.",
+          "images": {
+            "original": {
+              "href": "https://cdn4.uvnimg.com/c6/a6/076945fd49fb96076356d98289ed/c791a18669a54cb19e2b9c892b70f878",
+              "width": 1920,
+              "height": 1080
+            }
+          },
+          "children": [],
+          "parent": "00000160-72cb-da48-ab73-72cf9da60000",
+          "internal": {
+            "type": "Video",
+            "mediaType": "application/json",
+            "contentDigest": "b7b6e0d093b5ff87ebac7bc241dccd8c"
+          }
+        }
+      },
+      "updatedAt": 1513781836835,
+      "pluginCreator___NODE": "Plugin default-site-plugin",
+      "pluginCreatorId": "Plugin default-site-plugin",
+      "componentPath": "/Users/juanjorge/Developer/gatsby-test-with-source-data/src/layouts/data.js",
+      "id": "SitePage /latinos-que-triunfan-rolando-cantu-y-la-historia-de-un-accidente-que-casi-lo-aleja-de-la-nfl",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "bb3f5772e61a43f81e737ef0bdad7d6a",
         "owner": "internal-data-bridge"
       }
     },
@@ -747,7 +927,7 @@
       "component": "/Users/juanjorge/Developer/gatsby-test-with-source-data/src/pages/404.js",
       "componentChunkName": "component---src-pages-404-js",
       "context": {},
-      "updatedAt": 1513773345329,
+      "updatedAt": 1513781836882,
       "pluginCreator___NODE": "Plugin component-page-creator",
       "pluginCreatorId": "Plugin component-page-creator",
       "componentPath": "/Users/juanjorge/Developer/gatsby-test-with-source-data/src/pages/404.js",
@@ -756,7 +936,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "a3bf29f496216e119c3dd1ed1587e1b7",
+        "contentDigest": "b7deafabf8e763efbd3ac6cf1e090d64",
         "owner": "internal-data-bridge"
       }
     },
@@ -768,7 +948,7 @@
       "component": "/Users/juanjorge/Developer/gatsby-test-with-source-data/src/pages/feed-watch.js",
       "componentChunkName": "component---src-pages-feed-watch-js",
       "context": {},
-      "updatedAt": 1513773345330,
+      "updatedAt": 1513781836883,
       "pluginCreator___NODE": "Plugin component-page-creator",
       "pluginCreatorId": "Plugin component-page-creator",
       "componentPath": "/Users/juanjorge/Developer/gatsby-test-with-source-data/src/pages/feed-watch.js",
@@ -777,7 +957,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "07b7589bb7728716568070798cfef6ab",
+        "contentDigest": "b4e1ddc3926c59c536decc1f27c5ccf0",
         "owner": "internal-data-bridge"
       }
     },
@@ -789,7 +969,7 @@
       "component": "/Users/juanjorge/Developer/gatsby-test-with-source-data/src/pages/index.js",
       "componentChunkName": "component---src-pages-index-js",
       "context": {},
-      "updatedAt": 1513773345331,
+      "updatedAt": 1513781836884,
       "pluginCreator___NODE": "Plugin component-page-creator",
       "pluginCreatorId": "Plugin component-page-creator",
       "componentPath": "/Users/juanjorge/Developer/gatsby-test-with-source-data/src/pages/index.js",
@@ -798,7 +978,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "9361cf38cae55563ee8e1de8f055824e",
+        "contentDigest": "4823ca67cd8969d4e87a246162712e6e",
         "owner": "internal-data-bridge"
       }
     },
@@ -810,7 +990,7 @@
       "component": "/Users/juanjorge/Developer/gatsby-test-with-source-data/src/pages/404.js",
       "componentChunkName": "component---src-pages-404-js",
       "context": {},
-      "updatedAt": 1513773345333,
+      "updatedAt": 1513781836887,
       "pluginCreator___NODE": "Plugin prod-404",
       "pluginCreatorId": "Plugin prod-404",
       "componentPath": "/Users/juanjorge/Developer/gatsby-test-with-source-data/src/pages/404.js",
@@ -819,14 +999,14 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "d0900331e441d713c54c2c5d61faf8eb",
+        "contentDigest": "b92e684ecd99cec27c9cde8ccd8ebc2f",
         "owner": "internal-data-bridge"
       }
     }
   },
   "status": {
     "plugins": {},
-    "PLUGINS_HASH": "582f04b0e17b08c1d2b1813fcde912de"
+    "PLUGINS_HASH": "33cdd82a1bae6f6d0539124c9565ff58"
   },
   "componentDataDependencies": {
     "nodes": {},

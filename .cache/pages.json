@@ -10,15 +10,15 @@
         "componentChunkName": "component---src-layouts-data-js",
         "layout": "layout---index",
         "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "calculadora-asi-afectara-a-tu-sueldo-la-reforma-de-impuestos.json",
-        "path": "/calculadora-asi-afectara-a-tu-sueldo-la-reforma-de-impuestos"
+        "jsonName": "con-buenas-nuevas-llego-el-angel-de-la-justicia-para-este-padre-inmigrante-que-fue-detenido-por-ice.json",
+        "path": "/con-buenas-nuevas-llego-el-angel-de-la-justicia-para-este-padre-inmigrante-que-fue-detenido-por-ice"
     },
     {
         "componentChunkName": "component---src-layouts-data-js",
         "layout": "layout---index",
         "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "el-tren-descarrilado-en-seattle-viajaba-a-casi-el-triple-de-velocidad-permitida.json",
-        "path": "/el-tren-descarrilado-en-seattle-viajaba-a-casi-el-triple-de-velocidad-permitida"
+        "jsonName": "el-primer-dreamer-deportado-en-el-gobierno-trump-puede-perder-la-posibilidad-de-reingresar-a-eeuu.json",
+        "path": "/el-primer-dreamer-deportado-en-el-gobierno-trump-puede-perder-la-posibilidad-de-reingresar-a-eeuu"
     },
     {
         "componentChunkName": "component---src-layouts-data-js",
@@ -61,6 +61,34 @@
         "layoutComponentChunkName": "component---src-layouts-index-js",
         "jsonName": "el-conmovedor-reencuentro-de-una-madre-con-sus-hijas-que-habian-sido-raptadas-por-su-padre.json",
         "path": "/el-conmovedor-reencuentro-de-una-madre-con-sus-hijas-que-habian-sido-raptadas-por-su-padre"
+    },
+    {
+        "componentChunkName": "component---src-layouts-data-js",
+        "layout": "layout---index",
+        "layoutComponentChunkName": "component---src-layouts-index-js",
+        "jsonName": "familias-inmigrantes-se-reunen-tras-mas-de-dos-decadas-sin-verse.json",
+        "path": "/familias-inmigrantes-se-reunen-tras-mas-de-dos-decadas-sin-verse"
+    },
+    {
+        "componentChunkName": "component---src-layouts-data-js",
+        "layout": "layout---index",
+        "layoutComponentChunkName": "component---src-layouts-index-js",
+        "jsonName": "por-su-estatus-legal-esta-mujer-no-puede-reclamar-el-cuerpo-de-su-esposo-que-se-electrocuto-en-accidente-laboral.json",
+        "path": "/por-su-estatus-legal-esta-mujer-no-puede-reclamar-el-cuerpo-de-su-esposo-que-se-electrocuto-en-accidente-laboral"
+    },
+    {
+        "componentChunkName": "component---src-layouts-data-js",
+        "layout": "layout---index",
+        "layoutComponentChunkName": "component---src-layouts-index-js",
+        "jsonName": "justin-gatlin-envuelto-en-un-nuevo-escandalo-de-dopaje.json",
+        "path": "/justin-gatlin-envuelto-en-un-nuevo-escandalo-de-dopaje"
+    },
+    {
+        "componentChunkName": "component---src-layouts-data-js",
+        "layout": "layout---index",
+        "layoutComponentChunkName": "component---src-layouts-index-js",
+        "jsonName": "latinos-que-triunfan-rolando-cantu-y-la-historia-de-un-accidente-que-casi-lo-aleja-de-la-nfl.json",
+        "path": "/latinos-que-triunfan-rolando-cantu-y-la-historia-de-un-accidente-que-casi-lo-aleja-de-la-nfl"
     },
     {
         "componentChunkName": "component---src-pages-404-js",
