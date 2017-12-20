@@ -1,5 +1,12 @@
 [
     {
+        "componentChunkName": "component---cache-dev-404-page-js",
+        "layout": "layout---index",
+        "layoutComponentChunkName": "component---src-layouts-index-js",
+        "jsonName": "dev-404-page.json",
+        "path": "/dev-404-page/"
+    },
+    {
         "componentChunkName": "component---src-layouts-data-js",
         "layout": "layout---index",
         "layoutComponentChunkName": "component---src-layouts-index-js",
@@ -17,22 +24,8 @@
         "componentChunkName": "component---src-layouts-data-js",
         "layout": "layout---index",
         "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "concejales-en-nueva-york-votan-a-favor-de-una-resolucion-que-proteja-a-los-dreamers.json",
-        "path": "/concejales-en-nueva-york-votan-a-favor-de-una-resolucion-que-proteja-a-los-dreamers"
-    },
-    {
-        "componentChunkName": "component---src-layouts-data-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "con-protestas-dreamers-en-chicago-exigen-la-aprobacion-del-dream-act.json",
-        "path": "/con-protestas-dreamers-en-chicago-exigen-la-aprobacion-del-dream-act"
-    },
-    {
-        "componentChunkName": "component---src-layouts-data-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "un-deportado-cuenta-las-horas-para-cruzar-la-frontera-y-volver-al-pais-que-defendio-como-infante-de-marina.json",
-        "path": "/un-deportado-cuenta-las-horas-para-cruzar-la-frontera-y-volver-al-pais-que-defendio-como-infante-de-marina"
+        "jsonName": "recuperar-mi-relacion-con-mis-tres-hijos-el-deseo-del-veterano-deportado-que-regresa-esta-navidad-a-eeuu.json",
+        "path": "/recuperar-mi-relacion-con-mis-tres-hijos-el-deseo-del-veterano-deportado-que-regresa-esta-navidad-a-eeuu"
     },
     {
         "componentChunkName": "component---src-layouts-data-js",
@@ -45,15 +38,29 @@
         "componentChunkName": "component---src-layouts-data-js",
         "layout": "layout---index",
         "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "dejan-en-libertad-a-tres-dreamers-pero-otros-cuatro-permanecen-detenidos-por-rehusarse-a-darles-sus-nombres-a-las-autoridades.json",
-        "path": "/dejan-en-libertad-a-tres-dreamers-pero-otros-cuatro-permanecen-detenidos-por-rehusarse-a-darles-sus-nombres-a-las-autoridades"
+        "jsonName": "familias-inmigrantes-se-reunen-tras-mas-de-dos-decadas-sin-verse.json",
+        "path": "/familias-inmigrantes-se-reunen-tras-mas-de-dos-decadas-sin-verse"
     },
     {
         "componentChunkName": "component---src-layouts-data-js",
         "layout": "layout---index",
         "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "al-punto-con-jorge-ramos-17-de-diciembre-2017.json",
-        "path": "/al-punto-con-jorge-ramos-17-de-diciembre-2017"
+        "jsonName": "por-su-estatus-legal-esta-mujer-no-puede-reclamar-el-cuerpo-de-su-esposo-que-se-electrocuto-en-accidente-laboral.json",
+        "path": "/por-su-estatus-legal-esta-mujer-no-puede-reclamar-el-cuerpo-de-su-esposo-que-se-electrocuto-en-accidente-laboral"
+    },
+    {
+        "componentChunkName": "component---src-layouts-data-js",
+        "layout": "layout---index",
+        "layoutComponentChunkName": "component---src-layouts-index-js",
+        "jsonName": "concejales-en-nueva-york-votan-a-favor-de-una-resolucion-que-proteja-a-los-dreamers.json",
+        "path": "/concejales-en-nueva-york-votan-a-favor-de-una-resolucion-que-proteja-a-los-dreamers"
+    },
+    {
+        "componentChunkName": "component---src-layouts-data-js",
+        "layout": "layout---index",
+        "layoutComponentChunkName": "component---src-layouts-index-js",
+        "jsonName": "con-protestas-dreamers-en-chicago-exigen-la-aprobacion-del-dream-act.json",
+        "path": "/con-protestas-dreamers-en-chicago-exigen-la-aprobacion-del-dream-act"
     },
     {
         "componentChunkName": "component---src-pages-404-js",
@@ -61,6 +68,13 @@
         "layoutComponentChunkName": "component---src-layouts-index-js",
         "jsonName": "404.json",
         "path": "/404/"
+    },
+    {
+        "componentChunkName": "component---src-pages-feed-watch-js",
+        "layout": "layout---index",
+        "layoutComponentChunkName": "component---src-layouts-index-js",
+        "jsonName": "feed-watch.json",
+        "path": "/feed-watch/"
     },
     {
         "componentChunkName": "component---src-pages-index-js",

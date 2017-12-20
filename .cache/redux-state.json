@@ -1,13 +1,23 @@
 {
   "nodes": {
     "SitePage /dev-404-page/": {
+      "layout": "index",
+      "jsonName": "dev-404-page.json",
+      "internalComponentName": "ComponentDev404Page",
       "path": "/dev-404-page/",
+      "component": "/Users/juanjorge/Developer/gatsby-test-with-source-data/.cache/dev-404-page.js",
+      "componentChunkName": "component---cache-dev-404-page-js",
+      "context": {},
+      "updatedAt": 1513747289232,
+      "pluginCreator___NODE": "Plugin dev-404-page",
+      "pluginCreatorId": "Plugin dev-404-page",
+      "componentPath": "/Users/juanjorge/Developer/gatsby-test-with-source-data/.cache/dev-404-page.js",
       "id": "SitePage /dev-404-page/",
       "parent": "SOURCE",
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "f91d29e10ba680b413138cf9ed86e655",
+        "contentDigest": "6d62b4a80551481225875a903c14cf4a",
         "owner": "internal-data-bridge"
       }
     },
@@ -277,7 +287,7 @@
       "resolve": "/Users/juanjorge/Developer/gatsby-test-with-source-data",
       "id": "Plugin default-site-plugin",
       "name": "default-site-plugin",
-      "version": "a759de1fb245fa96a07985aa4103abe4",
+      "version": "c629c0ea566638dcbb4522cb725f7015",
       "pluginOptions": {
         "plugins": []
       },
@@ -296,6 +306,10 @@
         "author": "Kyle Mathews <mathews.kyle@gmail.com>",
         "license": "MIT",
         "dependencies": [
+          {
+            "name": "aws-sdk",
+            "version": "^2.172.0"
+          },
           {
             "name": "axios",
             "version": "^0.17.1"
@@ -317,6 +331,10 @@
             "version": "^1.0.8"
           },
           {
+            "name": "react-json-view",
+            "version": "^1.14.0"
+          },
+          {
             "name": "slugify",
             "version": "^1.2.7"
           }
@@ -329,6 +347,14 @@
           {
             "name": "axios",
             "version": "^0.17.1"
+          },
+          {
+            "name": "aws-sdk",
+            "version": "^2.172.0"
+          },
+          {
+            "name": "react-json-view",
+            "version": "^1.14.0"
           }
         ],
         "peerDependencies": [],
@@ -338,7 +364,7 @@
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "dd48ab0bf6a1e109dea3833fca602537",
+        "contentDigest": "1085d55c97aebc898a1753274f5ed720",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
@@ -347,14 +373,16 @@
       "siteMetadata": {
         "title": "Gatsby Default Starter"
       },
-      "pathPrefix": "/gatsby-dynamic-data/public",
+      "port": "8000",
+      "host": "localhost",
+      "pathPrefix": "",
       "polyfill": true,
-      "buildTime": "2017-12-20T02:31:46.308Z",
+      "buildTime": "2017-12-20T05:21:25.469Z",
       "id": "Site",
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "31f3c8c1f9998ff43a1ca99306813df3",
+        "contentDigest": "f00016479071710935ce61f128ca8baf",
         "type": "Site",
         "owner": "internal-data-bridge"
       }
@@ -391,7 +419,7 @@
           }
         }
       },
-      "updatedAt": 1513737112416,
+      "updatedAt": 1513747290513,
       "pluginCreator___NODE": "Plugin default-site-plugin",
       "pluginCreatorId": "Plugin default-site-plugin",
       "componentPath": "/Users/juanjorge/Developer/gatsby-test-with-source-data/src/layouts/data.js",
@@ -400,7 +428,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "2cdcea800bbc5cc278d27edfcf14b2ec",
+        "contentDigest": "e086bda20a98d81a185d69addbcf41a8",
         "owner": "internal-data-bridge"
       }
     },
@@ -436,7 +464,7 @@
           }
         }
       },
-      "updatedAt": 1513737112417,
+      "updatedAt": 1513747290514,
       "pluginCreator___NODE": "Plugin default-site-plugin",
       "pluginCreatorId": "Plugin default-site-plugin",
       "componentPath": "/Users/juanjorge/Developer/gatsby-test-with-source-data/src/layouts/data.js",
@@ -445,7 +473,187 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "b42986fe462e673150a7ec8b25a0628b",
+        "contentDigest": "0d08eb153b82b5a1522c476ca831969f",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /recuperar-mi-relacion-con-mis-tres-hijos-el-deseo-del-veterano-deportado-que-regresa-esta-navidad-a-eeuu": {
+      "layout": "index",
+      "jsonName": "recuperar-mi-relacion-con-mis-tres-hijos-el-deseo-del-veterano-deportado-que-regresa-esta-navidad-a-eeuu.json",
+      "internalComponentName": "ComponentRecuperarMiRelacionConMisTresHijosElDeseoDelVeteranoDeportadoQueRegresaEstaNavidadAEeuu",
+      "path": "/recuperar-mi-relacion-con-mis-tres-hijos-el-deseo-del-veterano-deportado-que-regresa-esta-navidad-a-eeuu",
+      "component": "/Users/juanjorge/Developer/gatsby-test-with-source-data/src/layouts/data.js",
+      "componentChunkName": "component---src-layouts-data-js",
+      "context": {
+        "slug": "00000160-7163-d446-a1e0-7ffbd6a90000",
+        "node": {
+          "id": "00000160-7163-d446-a1e0-7ffbd6a90000",
+          "publishDate": "2017-12-19T21:43:48-05:00",
+          "title": "\"Recuperar mi relación con mis tres hijos\", el deseo del veterano deportado que regresa esta Navidad a EEUU",
+          "widget": "Breaking News Titulares",
+          "shortTitle": "\"Recuperar a mis hijos\", el deseo del veterano deportado que regresa esta Navidad a EEUU",
+          "description": "Tras 15 años en los que se perdió de la infancia y adolescencia de sus tres hijos, Marco Chávez cuenta las horas para volver al país que siempre llamó casa. Antes de que termine el año se convertirá en el primer exmilitar deportado  que regresará legalmente a Estados Unidos gracias a un perdón que le otorgó el gobernador de California. ",
+          "images": {
+            "original": {
+              "href": "https://cdn2.uvnimg.com/0c/5a/794408974e01a32a26a7acba4c6c/dsc01939.JPG",
+              "width": 5456,
+              "height": 3064
+            }
+          },
+          "children": [],
+          "parent": "00000160-7163-d446-a1e0-7ffbd6a90000",
+          "internal": {
+            "type": "Article",
+            "mediaType": "application/json",
+            "contentDigest": "4cc881dfbec54aa5ec2e3de954e04423"
+          }
+        }
+      },
+      "updatedAt": 1513747290515,
+      "pluginCreator___NODE": "Plugin default-site-plugin",
+      "pluginCreatorId": "Plugin default-site-plugin",
+      "componentPath": "/Users/juanjorge/Developer/gatsby-test-with-source-data/src/layouts/data.js",
+      "id": "SitePage /recuperar-mi-relacion-con-mis-tres-hijos-el-deseo-del-veterano-deportado-que-regresa-esta-navidad-a-eeuu",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "1375ee1cba0d8079ff6ab2007a1210b4",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /el-conmovedor-reencuentro-de-una-madre-con-sus-hijas-que-habian-sido-raptadas-por-su-padre": {
+      "layout": "index",
+      "jsonName": "el-conmovedor-reencuentro-de-una-madre-con-sus-hijas-que-habian-sido-raptadas-por-su-padre.json",
+      "internalComponentName": "ComponentElConmovedorReencuentroDeUnaMadreConSusHijasQueHabianSidoRaptadasPorSuPadre",
+      "path": "/el-conmovedor-reencuentro-de-una-madre-con-sus-hijas-que-habian-sido-raptadas-por-su-padre",
+      "component": "/Users/juanjorge/Developer/gatsby-test-with-source-data/src/layouts/data.js",
+      "componentChunkName": "component---src-layouts-data-js",
+      "context": {
+        "slug": "00000160-715d-da48-ab73-73df7b850000",
+        "node": {
+          "id": "00000160-715d-da48-ab73-73df7b850000",
+          "publishDate": "2017-12-19T18:59:00-05:00",
+          "title": "El conmovedor reencuentro de una madre con sus hijas que habían sido raptadas por su padre",
+          "widget": "Breaking News Titulares",
+          "shortTitle": "El conmovedor reencuentro de una madre con sus hijas que habían sido raptadas por su padre",
+          "description": "Para Leticia Labra este es el \"mejor regalo de navidad\" después de 11 años de sufrimientos. Las jovencitas fueron sacadas del país por su padre en 2006 sin el consentimiento de la madre y pese a que ella lo reportó, no se tomó ninguna duda al respecto.",
+          "images": {
+            "original": {
+              "href": "https://cdn1.uvnimg.com/fe/14/ff0279364b9082ad9a77e3a7b661/245238499e4f428083f0d98ecaa9dc7d",
+              "width": 1920,
+              "height": 1080
+            }
+          },
+          "children": [],
+          "parent": "00000160-715d-da48-ab73-73df7b850000",
+          "internal": {
+            "type": "Video",
+            "mediaType": "application/json",
+            "contentDigest": "b548d86b3e40e98bfb75036ceac7e334"
+          }
+        }
+      },
+      "updatedAt": 1513747290516,
+      "pluginCreator___NODE": "Plugin default-site-plugin",
+      "pluginCreatorId": "Plugin default-site-plugin",
+      "componentPath": "/Users/juanjorge/Developer/gatsby-test-with-source-data/src/layouts/data.js",
+      "id": "SitePage /el-conmovedor-reencuentro-de-una-madre-con-sus-hijas-que-habian-sido-raptadas-por-su-padre",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "66683dcb8208cbfe41a41e52879b3236",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /familias-inmigrantes-se-reunen-tras-mas-de-dos-decadas-sin-verse": {
+      "layout": "index",
+      "jsonName": "familias-inmigrantes-se-reunen-tras-mas-de-dos-decadas-sin-verse.json",
+      "internalComponentName": "ComponentFamiliasInmigrantesSeReunenTrasMasDeDosDecadasSinVerse",
+      "path": "/familias-inmigrantes-se-reunen-tras-mas-de-dos-decadas-sin-verse",
+      "component": "/Users/juanjorge/Developer/gatsby-test-with-source-data/src/layouts/data.js",
+      "componentChunkName": "component---src-layouts-data-js",
+      "context": {
+        "slug": "00000160-71b1-da48-ab73-73b7a4370000",
+        "node": {
+          "id": "00000160-71b1-da48-ab73-73b7a4370000",
+          "publishDate": "2017-12-19T21:07:00-05:00",
+          "title": "Familias inmigrantes se reúnen tras más de dos décadas sin verse",
+          "widget": "Breaking News Titulares",
+          "shortTitle": "Familias inmigrantes se reúnen tras más de dos décadas sin verse",
+          "description": "El encuentro forma parte del programa “Palomas mensajeras” que tiene como objetivo reunir a padres y madres de la tercera edad con sus hijos que viven en los Estados Unidos y que no se han visto en años.",
+          "images": {
+            "original": {
+              "href": "https://cdn3.uvnimg.com/67/f5/7257de7740a98eda6a30fe9dd1fc/dde47650ee7a464abc983f7e36473251",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "children": [],
+          "parent": "00000160-71b1-da48-ab73-73b7a4370000",
+          "internal": {
+            "type": "Video",
+            "mediaType": "application/json",
+            "contentDigest": "451d07a2585a1b9c6fff80df608e96ae"
+          }
+        }
+      },
+      "updatedAt": 1513747290516,
+      "pluginCreator___NODE": "Plugin default-site-plugin",
+      "pluginCreatorId": "Plugin default-site-plugin",
+      "componentPath": "/Users/juanjorge/Developer/gatsby-test-with-source-data/src/layouts/data.js",
+      "id": "SitePage /familias-inmigrantes-se-reunen-tras-mas-de-dos-decadas-sin-verse",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "61508931acec03b0163e0e6e4190c4e2",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /por-su-estatus-legal-esta-mujer-no-puede-reclamar-el-cuerpo-de-su-esposo-que-se-electrocuto-en-accidente-laboral": {
+      "layout": "index",
+      "jsonName": "por-su-estatus-legal-esta-mujer-no-puede-reclamar-el-cuerpo-de-su-esposo-que-se-electrocuto-en-accidente-laboral.json",
+      "internalComponentName": "ComponentPorSuEstatusLegalEstaMujerNoPuedeReclamarElCuerpoDeSuEsposoQueSeElectrocutoEnAccidenteLaboral",
+      "path": "/por-su-estatus-legal-esta-mujer-no-puede-reclamar-el-cuerpo-de-su-esposo-que-se-electrocuto-en-accidente-laboral",
+      "component": "/Users/juanjorge/Developer/gatsby-test-with-source-data/src/layouts/data.js",
+      "componentChunkName": "component---src-layouts-data-js",
+      "context": {
+        "slug": "00000160-7185-da48-ab73-73879f900000",
+        "node": {
+          "id": "00000160-7185-da48-ab73-73879f900000",
+          "publishDate": "2017-12-19T18:34:00-05:00",
+          "title": "Por su estatus legal, esta mujer no puede reclamar el cuerpo de su esposo que se electrocutó en accidente laboral",
+          "widget": "Breaking News Titulares",
+          "shortTitle": "Por su estatus legal, esta mujer no puede reclamar el cuerpo de su esposo que se electrocutó en accidente laboral",
+          "description": "Margarita Juárez reclama entre lágrimas justicia y una solución después de que el padre de sus cuatro hijos murió electrocutado cuando realizaba labores como empleado de la empresa B&G Properties Maintenance, que no le ha dado respuesta a esta familia de Guatemala. El cadáver lleva casi una semana en la morgue porque Juárez no tiene documentos ni está casada legalmente. La FPL tampoco se ha pronunciado sobre el caso.",
+          "images": {
+            "original": {
+              "href": "https://cdn3.uvnimg.com/98/67/6a17f21d44f78d2a3d6b994b6bfa/c370f90025594fb9a6407d2a7b578127",
+              "width": 1920,
+              "height": 1080
+            }
+          },
+          "children": [],
+          "parent": "00000160-7185-da48-ab73-73879f900000",
+          "internal": {
+            "type": "Video",
+            "mediaType": "application/json",
+            "contentDigest": "787e7fcf8ee36d21eef3332f2c75bc60"
+          }
+        }
+      },
+      "updatedAt": 1513747290518,
+      "pluginCreator___NODE": "Plugin default-site-plugin",
+      "pluginCreatorId": "Plugin default-site-plugin",
+      "componentPath": "/Users/juanjorge/Developer/gatsby-test-with-source-data/src/layouts/data.js",
+      "id": "SitePage /por-su-estatus-legal-esta-mujer-no-puede-reclamar-el-cuerpo-de-su-esposo-que-se-electrocuto-en-accidente-laboral",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "e7d014cb3a1924249d4a2725a78b665a",
         "owner": "internal-data-bridge"
       }
     },
@@ -481,7 +689,7 @@
           }
         }
       },
-      "updatedAt": 1513737112418,
+      "updatedAt": 1513747290519,
       "pluginCreator___NODE": "Plugin default-site-plugin",
       "pluginCreatorId": "Plugin default-site-plugin",
       "componentPath": "/Users/juanjorge/Developer/gatsby-test-with-source-data/src/layouts/data.js",
@@ -490,7 +698,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "5447026f6011fd0c1cff7646fdc6610f",
+        "contentDigest": "bfbac47db2eb9b8a68990333ca2a444c",
         "owner": "internal-data-bridge"
       }
     },
@@ -526,7 +734,7 @@
           }
         }
       },
-      "updatedAt": 1513737112419,
+      "updatedAt": 1513747290519,
       "pluginCreator___NODE": "Plugin default-site-plugin",
       "pluginCreatorId": "Plugin default-site-plugin",
       "componentPath": "/Users/juanjorge/Developer/gatsby-test-with-source-data/src/layouts/data.js",
@@ -535,187 +743,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "3f384925f0fd65a453d142cec28ca55f",
-        "owner": "internal-data-bridge"
-      }
-    },
-    "SitePage /un-deportado-cuenta-las-horas-para-cruzar-la-frontera-y-volver-al-pais-que-defendio-como-infante-de-marina": {
-      "layout": "index",
-      "jsonName": "un-deportado-cuenta-las-horas-para-cruzar-la-frontera-y-volver-al-pais-que-defendio-como-infante-de-marina.json",
-      "internalComponentName": "ComponentUnDeportadoCuentaLasHorasParaCruzarLaFronteraYVolverAlPaisQueDefendioComoInfanteDeMarina",
-      "path": "/un-deportado-cuenta-las-horas-para-cruzar-la-frontera-y-volver-al-pais-que-defendio-como-infante-de-marina",
-      "component": "/Users/juanjorge/Developer/gatsby-test-with-source-data/src/layouts/data.js",
-      "componentChunkName": "component---src-layouts-data-js",
-      "context": {
-        "slug": "00000160-715e-da48-ab73-73df66130000",
-        "node": {
-          "id": "00000160-715e-da48-ab73-73df66130000",
-          "publishDate": "2017-12-19T19:07:00-05:00",
-          "title": "Un deportado cuenta las horas para cruzar la frontera y volver al país que defendió como infante de marina",
-          "widget": "Breaking News Titulares",
-          "shortTitle": "Un deportado cuenta las horas para cruzar la frontera y volver al país que defendió como infante de marina",
-          "description": "Pasaron 15 años antes de que Marcos Chávez recibiera la noticia de que aprobaron su regreso a EEUU. Abogados que llevaron el caso dicen que seguirán luchando para que regresen aquellos que pelearon por el país que terminó rechazándolos.",
-          "images": {
-            "original": {
-              "href": "https://cdn3.uvnimg.com/ff/01/0134603c4313886e4a33d6e01693/de3209e5d9564c88a2891f57419b1988",
-              "width": 1920,
-              "height": 1080
-            }
-          },
-          "children": [],
-          "parent": "00000160-715e-da48-ab73-73df66130000",
-          "internal": {
-            "type": "Video",
-            "mediaType": "application/json",
-            "contentDigest": "56fc06aea725af2e69c5a84dcc541039"
-          }
-        }
-      },
-      "updatedAt": 1513737112420,
-      "pluginCreator___NODE": "Plugin default-site-plugin",
-      "pluginCreatorId": "Plugin default-site-plugin",
-      "componentPath": "/Users/juanjorge/Developer/gatsby-test-with-source-data/src/layouts/data.js",
-      "id": "SitePage /un-deportado-cuenta-las-horas-para-cruzar-la-frontera-y-volver-al-pais-que-defendio-como-infante-de-marina",
-      "parent": "SOURCE",
-      "children": [],
-      "internal": {
-        "type": "SitePage",
-        "contentDigest": "289281a5174012e46f091e907b3d0d95",
-        "owner": "internal-data-bridge"
-      }
-    },
-    "SitePage /el-conmovedor-reencuentro-de-una-madre-con-sus-hijas-que-habian-sido-raptadas-por-su-padre": {
-      "layout": "index",
-      "jsonName": "el-conmovedor-reencuentro-de-una-madre-con-sus-hijas-que-habian-sido-raptadas-por-su-padre.json",
-      "internalComponentName": "ComponentElConmovedorReencuentroDeUnaMadreConSusHijasQueHabianSidoRaptadasPorSuPadre",
-      "path": "/el-conmovedor-reencuentro-de-una-madre-con-sus-hijas-que-habian-sido-raptadas-por-su-padre",
-      "component": "/Users/juanjorge/Developer/gatsby-test-with-source-data/src/layouts/data.js",
-      "componentChunkName": "component---src-layouts-data-js",
-      "context": {
-        "slug": "00000160-715d-da48-ab73-73df7b850000",
-        "node": {
-          "id": "00000160-715d-da48-ab73-73df7b850000",
-          "publishDate": "2017-12-19T18:59:00-05:00",
-          "title": "El conmovedor reencuentro de una madre con sus hijas que habían sido raptadas por su padre",
-          "widget": "Breaking News Titulares",
-          "shortTitle": "El conmovedor reencuentro de una madre con sus hijas que habían sido raptadas por su padre",
-          "description": "Para Leticia Labra este es el \"mejor regalo de navidad\" después de 11 años de sufrimientos. Las jovencitas fueron sacadas del país por su padre en 2006 sin el consentimiento de la madre y pese a que ella lo reportó, no se tomó ninguna duda al respecto.",
-          "images": {
-            "original": {
-              "href": "https://cdn1.uvnimg.com/fe/14/ff0279364b9082ad9a77e3a7b661/245238499e4f428083f0d98ecaa9dc7d",
-              "width": 1920,
-              "height": 1080
-            }
-          },
-          "children": [],
-          "parent": "00000160-715d-da48-ab73-73df7b850000",
-          "internal": {
-            "type": "Video",
-            "mediaType": "application/json",
-            "contentDigest": "768a899cc28e931da92c68dc6847a923"
-          }
-        }
-      },
-      "updatedAt": 1513737112420,
-      "pluginCreator___NODE": "Plugin default-site-plugin",
-      "pluginCreatorId": "Plugin default-site-plugin",
-      "componentPath": "/Users/juanjorge/Developer/gatsby-test-with-source-data/src/layouts/data.js",
-      "id": "SitePage /el-conmovedor-reencuentro-de-una-madre-con-sus-hijas-que-habian-sido-raptadas-por-su-padre",
-      "parent": "SOURCE",
-      "children": [],
-      "internal": {
-        "type": "SitePage",
-        "contentDigest": "16f961d3c01146c8c4ddf0457871fa8a",
-        "owner": "internal-data-bridge"
-      }
-    },
-    "SitePage /dejan-en-libertad-a-tres-dreamers-pero-otros-cuatro-permanecen-detenidos-por-rehusarse-a-darles-sus-nombres-a-las-autoridades": {
-      "layout": "index",
-      "jsonName": "dejan-en-libertad-a-tres-dreamers-pero-otros-cuatro-permanecen-detenidos-por-rehusarse-a-darles-sus-nombres-a-las-autoridades.json",
-      "internalComponentName": "ComponentDejanEnLibertadATresDreamersPeroOtrosCuatroPermanecenDetenidosPorRehusarseADarlesSusNombresALasAutoridades",
-      "path": "/dejan-en-libertad-a-tres-dreamers-pero-otros-cuatro-permanecen-detenidos-por-rehusarse-a-darles-sus-nombres-a-las-autoridades",
-      "component": "/Users/juanjorge/Developer/gatsby-test-with-source-data/src/layouts/data.js",
-      "componentChunkName": "component---src-layouts-data-js",
-      "context": {
-        "slug": "00000160-713b-da48-ab73-73bf77190000",
-        "node": {
-          "id": "00000160-713b-da48-ab73-73bf77190000",
-          "publishDate": "2017-12-19T18:41:00-05:00",
-          "title": "Dejan en libertad a tres dreamers pero otros cuatro permanecen detenidos por rehusarse a darles sus nombres a las autoridades",
-          "widget": "Breaking News Titulares",
-          "shortTitle": "Dejan en libertad a tres dreamers pero otros cuatro permanecen detenidos por rehusarse a darles sus nombres a las autoridades",
-          "description": "Los jóvenes llevan cinco días en huelga de hambre dentro de la prisión y abogados temen que sean deportados si pasan más tiempo allí. El republicano John Cornyn dijo que un proyecto de ley sobre los dreamers no está en la agenda este mes y que sería hasta enero que podría tocarse el tema.",
-          "images": {
-            "original": {
-              "href": "https://cdn1.uvnimg.com/7d/c8/18bba3d84be9b488c85376c511e3/6c9c63401ad0495f871f268799a9c99e",
-              "width": 1920,
-              "height": 1080
-            }
-          },
-          "children": [],
-          "parent": "00000160-713b-da48-ab73-73bf77190000",
-          "internal": {
-            "type": "Video",
-            "mediaType": "application/json",
-            "contentDigest": "618d89108e3fa5fb8753837ece6a7147"
-          }
-        }
-      },
-      "updatedAt": 1513737112421,
-      "pluginCreator___NODE": "Plugin default-site-plugin",
-      "pluginCreatorId": "Plugin default-site-plugin",
-      "componentPath": "/Users/juanjorge/Developer/gatsby-test-with-source-data/src/layouts/data.js",
-      "id": "SitePage /dejan-en-libertad-a-tres-dreamers-pero-otros-cuatro-permanecen-detenidos-por-rehusarse-a-darles-sus-nombres-a-las-autoridades",
-      "parent": "SOURCE",
-      "children": [],
-      "internal": {
-        "type": "SitePage",
-        "contentDigest": "7b1aa1534bada8681852e21d608a3871",
-        "owner": "internal-data-bridge"
-      }
-    },
-    "SitePage /al-punto-con-jorge-ramos-17-de-diciembre-2017": {
-      "layout": "index",
-      "jsonName": "al-punto-con-jorge-ramos-17-de-diciembre-2017.json",
-      "internalComponentName": "ComponentAlPuntoConJorgeRamos17DeDiciembre2017",
-      "path": "/al-punto-con-jorge-ramos-17-de-diciembre-2017",
-      "component": "/Users/juanjorge/Developer/gatsby-test-with-source-data/src/layouts/data.js",
-      "componentChunkName": "component---src-layouts-data-js",
-      "context": {
-        "slug": "00000160-70b0-da48-ab73-72b7447d0000",
-        "node": {
-          "id": "00000160-70b0-da48-ab73-72b7447d0000",
-          "publishDate": "2017-12-18T00:00:00-05:00",
-          "title": "Al Punto con Jorge Ramos - 17 de diciembre, 2017",
-          "widget": "Breaking News Titulares",
-          "shortTitle": "Al Punto con Jorge Ramos - 17 de diciembre",
-          "description": "Ricardo Anaya explica por qué quiere ser presidente de México. Meryl Streep, Tom Hanks and Steven Spielberg hablan sobre su nueva película ‘The Post’, sobre el acoso sexual y Trump.",
-          "images": {
-            "original": {
-              "href": "https://cdn3.uvnimg.com/15/f9/222f48ab4bbbb5011234895e78f9/751d154ddedf43b4b9c778468499f2d7",
-              "width": 1920,
-              "height": 1080
-            }
-          },
-          "children": [],
-          "parent": "00000160-70b0-da48-ab73-72b7447d0000",
-          "internal": {
-            "type": "Video",
-            "mediaType": "application/json",
-            "contentDigest": "e27791c4fb639735d2c97a9e96bc03f1"
-          }
-        }
-      },
-      "updatedAt": 1513737112422,
-      "pluginCreator___NODE": "Plugin default-site-plugin",
-      "pluginCreatorId": "Plugin default-site-plugin",
-      "componentPath": "/Users/juanjorge/Developer/gatsby-test-with-source-data/src/layouts/data.js",
-      "id": "SitePage /al-punto-con-jorge-ramos-17-de-diciembre-2017",
-      "parent": "SOURCE",
-      "children": [],
-      "internal": {
-        "type": "SitePage",
-        "contentDigest": "35610b41ec9175939b01dc7cddc858bf",
+        "contentDigest": "6ca06291096aa78e73f3a44aece79ed6",
         "owner": "internal-data-bridge"
       }
     },
@@ -727,7 +755,7 @@
       "component": "/Users/juanjorge/Developer/gatsby-test-with-source-data/src/pages/404.js",
       "componentChunkName": "component---src-pages-404-js",
       "context": {},
-      "updatedAt": 1513737112438,
+      "updatedAt": 1513747290530,
       "pluginCreator___NODE": "Plugin component-page-creator",
       "pluginCreatorId": "Plugin component-page-creator",
       "componentPath": "/Users/juanjorge/Developer/gatsby-test-with-source-data/src/pages/404.js",
@@ -736,7 +764,28 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "8b2154c57eed3b3610bc37d2f623aa1f",
+        "contentDigest": "595a5bc18369a53cb1a2a18af726881a",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /feed-watch/": {
+      "layout": "index",
+      "jsonName": "feed-watch.json",
+      "internalComponentName": "ComponentFeedWatch",
+      "path": "/feed-watch/",
+      "component": "/Users/juanjorge/Developer/gatsby-test-with-source-data/src/pages/feed-watch.js",
+      "componentChunkName": "component---src-pages-feed-watch-js",
+      "context": {},
+      "updatedAt": 1513747290531,
+      "pluginCreator___NODE": "Plugin component-page-creator",
+      "pluginCreatorId": "Plugin component-page-creator",
+      "componentPath": "/Users/juanjorge/Developer/gatsby-test-with-source-data/src/pages/feed-watch.js",
+      "id": "SitePage /feed-watch/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "6ff9316affdab732dd3141be92510a71",
         "owner": "internal-data-bridge"
       }
     },
@@ -748,7 +797,7 @@
       "component": "/Users/juanjorge/Developer/gatsby-test-with-source-data/src/pages/index.js",
       "componentChunkName": "component---src-pages-index-js",
       "context": {},
-      "updatedAt": 1513737112440,
+      "updatedAt": 1513747290532,
       "pluginCreator___NODE": "Plugin component-page-creator",
       "pluginCreatorId": "Plugin component-page-creator",
       "componentPath": "/Users/juanjorge/Developer/gatsby-test-with-source-data/src/pages/index.js",
@@ -757,7 +806,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "c880141303a11d5feb86947192b75e0c",
+        "contentDigest": "f51d2ae395e742be5240abebb018f5da",
         "owner": "internal-data-bridge"
       }
     },
@@ -769,7 +818,7 @@
       "component": "/Users/juanjorge/Developer/gatsby-test-with-source-data/src/pages/404.js",
       "componentChunkName": "component---src-pages-404-js",
       "context": {},
-      "updatedAt": 1513737112445,
+      "updatedAt": 1513747290534,
       "pluginCreator___NODE": "Plugin prod-404",
       "pluginCreatorId": "Plugin prod-404",
       "componentPath": "/Users/juanjorge/Developer/gatsby-test-with-source-data/src/pages/404.js",
@@ -778,19 +827,20 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "d2c4fca26228ddb0456fed6a10fd3eeb",
+        "contentDigest": "4eb2d88d319f7216463751ecec3a21ae",
         "owner": "internal-data-bridge"
       }
     }
   },
   "status": {
     "plugins": {},
-    "PLUGINS_HASH": "7aa3a7108923ad353d5384b290bba2e1"
+    "PLUGINS_HASH": "8e4c04731f1b86aae8b8f4a1db27cdd7"
   },
   "componentDataDependencies": {
     "nodes": {},
     "connections": {
       "SitePage": [
+        "/dev-404-page/",
         "/"
       ]
     }

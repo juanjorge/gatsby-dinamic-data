@@ -21,7 +21,7 @@ const Header = () => (
     >
       <h1 style={{ margin: 0 }}>
         <Link
-          to="/"
+          to="/gatsby-test-dynamic-data/public/"
           style={{
             color: 'white',
             textDecoration: 'none',

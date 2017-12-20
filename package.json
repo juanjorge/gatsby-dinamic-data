@@ -4,11 +4,13 @@
   "version": "1.0.0",
   "author": "Kyle Mathews <mathews.kyle@gmail.com>",
   "dependencies": {
+    "aws-sdk": "^2.172.0",
     "axios": "^0.17.1",
     "gatsby": "^1.9.141",
     "gatsby-image": "^1.0.30",
     "gatsby-link": "^1.6.32",
     "gatsby-plugin-react-helmet": "^1.0.8",
+    "react-json-view": "^1.14.0",
     "slugify": "^1.2.7"
   },
   "keywords": [
@@ -24,6 +26,8 @@
   },
   "devDependencies": {
     "prettier": "^1.9.2",
-    "axios": "^0.17.1"
+    "axios": "^0.17.1",
+    "aws-sdk": "^2.172.0",
+    "react-json-view": "^1.14.0"
   }
 }
