@@ -8,7 +8,7 @@
       "component": "/Users/juanjorge/Developer/gatsby-test-with-source-data/.cache/dev-404-page.js",
       "componentChunkName": "component---cache-dev-404-page-js",
       "context": {},
-      "updatedAt": 1513826126523,
+      "updatedAt": 1513826352700,
       "pluginCreator___NODE": "Plugin dev-404-page",
       "pluginCreatorId": "Plugin dev-404-page",
       "componentPath": "/Users/juanjorge/Developer/gatsby-test-with-source-data/.cache/dev-404-page.js",
@@ -17,7 +17,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "52b079266d8a15488d21324eb702e3fd",
+        "contentDigest": "b58f6d7d29944dbef9d5f95538d990da",
         "owner": "internal-data-bridge"
       }
     },
@@ -369,12 +369,12 @@
       "host": "localhost",
       "pathPrefix": "",
       "polyfill": true,
-      "buildTime": "2017-12-21T03:15:22.858Z",
+      "buildTime": "2017-12-21T03:19:08.758Z",
       "id": "Site",
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "b16cae4de8ebd5e56a8a3b9b510d4523",
+        "contentDigest": "8ea6f0c153b15ba2db6d5ca97e490056",
         "type": "Site",
         "owner": "internal-data-bridge"
       }
@@ -411,7 +411,7 @@
           }
         }
       },
-      "updatedAt": 1513826127847,
+      "updatedAt": 1513826354169,
       "pluginCreator___NODE": "Plugin default-site-plugin",
       "pluginCreatorId": "Plugin default-site-plugin",
       "componentPath": "/Users/juanjorge/Developer/gatsby-test-with-source-data/src/layouts/data.js",
@@ -420,7 +420,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "8846a3b73ba0b2e2cbb7e04fdad326c3",
+        "contentDigest": "55d3729989325a17ca3e8baaeb6a662a",
         "owner": "internal-data-bridge"
       }
     },
@@ -456,7 +456,7 @@
           }
         }
       },
-      "updatedAt": 1513826127848,
+      "updatedAt": 1513826354170,
       "pluginCreator___NODE": "Plugin default-site-plugin",
       "pluginCreatorId": "Plugin default-site-plugin",
       "componentPath": "/Users/juanjorge/Developer/gatsby-test-with-source-data/src/layouts/data.js",
@@ -465,7 +465,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "1d4fc3ca0021c4919c344de51db93cb9",
+        "contentDigest": "53bc899818983363798cd563bef6eccb",
         "owner": "internal-data-bridge"
       }
     },
@@ -501,7 +501,7 @@
           }
         }
       },
-      "updatedAt": 1513826127849,
+      "updatedAt": 1513826354172,
       "pluginCreator___NODE": "Plugin default-site-plugin",
       "pluginCreatorId": "Plugin default-site-plugin",
       "componentPath": "/Users/juanjorge/Developer/gatsby-test-with-source-data/src/layouts/data.js",
@@ -510,7 +510,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "003b9e78fd7863561ab136f0ab50eb92",
+        "contentDigest": "4547d83312ce0d61592b9c4aaead620f",
         "owner": "internal-data-bridge"
       }
     },
@@ -546,7 +546,7 @@
           }
         }
       },
-      "updatedAt": 1513826127850,
+      "updatedAt": 1513826354173,
       "pluginCreator___NODE": "Plugin default-site-plugin",
       "pluginCreatorId": "Plugin default-site-plugin",
       "componentPath": "/Users/juanjorge/Developer/gatsby-test-with-source-data/src/layouts/data.js",
@@ -555,7 +555,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "14fe0bf6f7dc289a067bf84fe6864108",
+        "contentDigest": "e9b3bf4d615b5257c366dfe85847d92c",
         "owner": "internal-data-bridge"
       }
     },
@@ -591,7 +591,7 @@
           }
         }
       },
-      "updatedAt": 1513826127854,
+      "updatedAt": 1513826354174,
       "pluginCreator___NODE": "Plugin default-site-plugin",
       "pluginCreatorId": "Plugin default-site-plugin",
       "componentPath": "/Users/juanjorge/Developer/gatsby-test-with-source-data/src/layouts/data.js",
@@ -600,7 +600,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "f9a68c713d875b3068b9e947282812e8",
+        "contentDigest": "563e296faca60920c71a084647deee08",
         "owner": "internal-data-bridge"
       }
     },
@@ -636,7 +636,7 @@
           }
         }
       },
-      "updatedAt": 1513826127855,
+      "updatedAt": 1513826354175,
       "pluginCreator___NODE": "Plugin default-site-plugin",
       "pluginCreatorId": "Plugin default-site-plugin",
       "componentPath": "/Users/juanjorge/Developer/gatsby-test-with-source-data/src/layouts/data.js",
@@ -645,7 +645,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "c49fcb85ae52d78868fc10b6d0506649",
+        "contentDigest": "59fc1740ac281dc6b7458b1fa8a7b219",
         "owner": "internal-data-bridge"
       }
     },
@@ -681,7 +681,7 @@
           }
         }
       },
-      "updatedAt": 1513826127855,
+      "updatedAt": 1513826354177,
       "pluginCreator___NODE": "Plugin default-site-plugin",
       "pluginCreatorId": "Plugin default-site-plugin",
       "componentPath": "/Users/juanjorge/Developer/gatsby-test-with-source-data/src/layouts/data.js",
@@ -690,7 +690,97 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "2faf86210d8a1d0ab2d4e6f13e09ac47",
+        "contentDigest": "ee8cf4aa576a06f653414d4d5b13c2cb",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /quienes-son-elegibles-para-iniciar-el-tramite-de-ciudadania": {
+      "layout": "index",
+      "jsonName": "quienes-son-elegibles-para-iniciar-el-tramite-de-ciudadania.json",
+      "internalComponentName": "ComponentQuienesSonElegiblesParaIniciarElTramiteDeCiudadania",
+      "path": "/quienes-son-elegibles-para-iniciar-el-tramite-de-ciudadania",
+      "component": "/Users/juanjorge/Developer/gatsby-test-with-source-data/src/layouts/data.js",
+      "componentChunkName": "component---src-layouts-data-js",
+      "context": {
+        "slug": "00000160-76fc-dadb-a1f0-7efeb7910000",
+        "node": {
+          "id": "00000160-76fc-dadb-a1f0-7efeb7910000",
+          "publishDate": "2017-12-20T21:50:00-05:00",
+          "title": "¿Quiénes son elegibles para iniciar el trámite de ciudadanía?",
+          "widget": "",
+          "shortTitle": "¿Quiénes son elegibles para iniciar el trámite de ciudadanía?",
+          "description": "Una experta en inmigración explicó quiénes son elegibles para la ciudadanía, así como los pasos de los trámites.",
+          "images": {
+            "original": {
+              "href": "https://cdn2.uvnimg.com/2c/bd/14929e9241e9925e34900ec140d4/122017-sfpm1-5.jpg",
+              "width": 1769,
+              "height": 843
+            }
+          },
+          "children": [],
+          "parent": "00000160-76fc-dadb-a1f0-7efeb7910000",
+          "internal": {
+            "type": "Video",
+            "mediaType": "application/json",
+            "contentDigest": "174cb2fff7a2e7d9a628f319045db582"
+          }
+        }
+      },
+      "updatedAt": 1513826354178,
+      "pluginCreator___NODE": "Plugin default-site-plugin",
+      "pluginCreatorId": "Plugin default-site-plugin",
+      "componentPath": "/Users/juanjorge/Developer/gatsby-test-with-source-data/src/layouts/data.js",
+      "id": "SitePage /quienes-son-elegibles-para-iniciar-el-tramite-de-ciudadania",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "b4f6c0325d446c34828615d4f304810a",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /jovenes-inmigrantes-exigen-en-san-francisco-que-se-apruebe-un-dream-act": {
+      "layout": "index",
+      "jsonName": "jovenes-inmigrantes-exigen-en-san-francisco-que-se-apruebe-un-dream-act.json",
+      "internalComponentName": "ComponentJovenesInmigrantesExigenEnSanFranciscoQueSeApruebeUnDreamAct",
+      "path": "/jovenes-inmigrantes-exigen-en-san-francisco-que-se-apruebe-un-dream-act",
+      "component": "/Users/juanjorge/Developer/gatsby-test-with-source-data/src/layouts/data.js",
+      "componentChunkName": "component---src-layouts-data-js",
+      "context": {
+        "slug": "00000160-76f6-dadb-a1f0-7efed79e0000",
+        "node": {
+          "id": "00000160-76f6-dadb-a1f0-7efed79e0000",
+          "publishDate": "2017-12-20T21:41:00-05:00",
+          "title": "Jóvenes inmigrantes exigen en San Francisco que se apruebe un ‘Dream Act’",
+          "widget": "",
+          "shortTitle": "Jóvenes inmigrantes exigen en San Francisco que se apruebe un ‘Dream Act’",
+          "description": "Un grupo de jóvenes protestó en la ciudad pidiendo un ‘Dream Act’, mientras que un juez revisó cinco demandas contra la cancelación de DACA.",
+          "images": {
+            "original": {
+              "href": "https://cdn4.uvnimg.com/7e/25/8c6559a3415f855767de56fb5ef9/122017-sfpm1-3.jpg",
+              "width": 1455,
+              "height": 911
+            }
+          },
+          "children": [],
+          "parent": "00000160-76f6-dadb-a1f0-7efed79e0000",
+          "internal": {
+            "type": "Video",
+            "mediaType": "application/json",
+            "contentDigest": "b206d2b6639b3f57faf2e9386be98a04"
+          }
+        }
+      },
+      "updatedAt": 1513826354179,
+      "pluginCreator___NODE": "Plugin default-site-plugin",
+      "pluginCreatorId": "Plugin default-site-plugin",
+      "componentPath": "/Users/juanjorge/Developer/gatsby-test-with-source-data/src/layouts/data.js",
+      "id": "SitePage /jovenes-inmigrantes-exigen-en-san-francisco-que-se-apruebe-un-dream-act",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "0e30fbb0e915074a6437e5b096a77c5d",
         "owner": "internal-data-bridge"
       }
     },
@@ -726,7 +816,7 @@
           }
         }
       },
-      "updatedAt": 1513826127856,
+      "updatedAt": 1513826354181,
       "pluginCreator___NODE": "Plugin default-site-plugin",
       "pluginCreatorId": "Plugin default-site-plugin",
       "componentPath": "/Users/juanjorge/Developer/gatsby-test-with-source-data/src/layouts/data.js",
@@ -735,7 +825,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "63c405f0c70c7af46c1bb4f866e1bd7a",
+        "contentDigest": "f7d9d5d17e8a243f327cf3c8f7c7f626",
         "owner": "internal-data-bridge"
       }
     },
@@ -771,7 +861,7 @@
           }
         }
       },
-      "updatedAt": 1513826127856,
+      "updatedAt": 1513826354182,
       "pluginCreator___NODE": "Plugin default-site-plugin",
       "pluginCreatorId": "Plugin default-site-plugin",
       "componentPath": "/Users/juanjorge/Developer/gatsby-test-with-source-data/src/layouts/data.js",
@@ -780,7 +870,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "6e18eed6718a14d92d21ba3dcaab2d6d",
+        "contentDigest": "3527295b89c622e085e87208a2053f87",
         "owner": "internal-data-bridge"
       }
     },
@@ -816,7 +906,7 @@
           }
         }
       },
-      "updatedAt": 1513826127857,
+      "updatedAt": 1513826354183,
       "pluginCreator___NODE": "Plugin default-site-plugin",
       "pluginCreatorId": "Plugin default-site-plugin",
       "componentPath": "/Users/juanjorge/Developer/gatsby-test-with-source-data/src/layouts/data.js",
@@ -825,7 +915,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "0b449157bb71b770c20d699a8a683755",
+        "contentDigest": "bd26003415b04ea5593f67a17bfd6b60",
         "owner": "internal-data-bridge"
       }
     },
@@ -861,7 +951,7 @@
           }
         }
       },
-      "updatedAt": 1513826127857,
+      "updatedAt": 1513826354184,
       "pluginCreator___NODE": "Plugin default-site-plugin",
       "pluginCreatorId": "Plugin default-site-plugin",
       "componentPath": "/Users/juanjorge/Developer/gatsby-test-with-source-data/src/layouts/data.js",
@@ -870,7 +960,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "fb80375cb45d912fe998130b0968c66c",
+        "contentDigest": "b319ebe72372959c6ea79b1926be72a2",
         "owner": "internal-data-bridge"
       }
     },
@@ -906,7 +996,7 @@
           }
         }
       },
-      "updatedAt": 1513826127858,
+      "updatedAt": 1513826354185,
       "pluginCreator___NODE": "Plugin default-site-plugin",
       "pluginCreatorId": "Plugin default-site-plugin",
       "componentPath": "/Users/juanjorge/Developer/gatsby-test-with-source-data/src/layouts/data.js",
@@ -915,7 +1005,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "2b6e5de1cea922b26414dd21660c3129",
+        "contentDigest": "5fc329c3973ab82385d4e12d1360d05a",
         "owner": "internal-data-bridge"
       }
     },
@@ -951,7 +1041,7 @@
           }
         }
       },
-      "updatedAt": 1513826127859,
+      "updatedAt": 1513826354186,
       "pluginCreator___NODE": "Plugin default-site-plugin",
       "pluginCreatorId": "Plugin default-site-plugin",
       "componentPath": "/Users/juanjorge/Developer/gatsby-test-with-source-data/src/layouts/data.js",
@@ -960,7 +1050,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "7fc81064ff18df95302777bf1c85d0b2",
+        "contentDigest": "b5539503ab41d62df6848006d6b10a55",
         "owner": "internal-data-bridge"
       }
     },
@@ -996,7 +1086,7 @@
           }
         }
       },
-      "updatedAt": 1513826127859,
+      "updatedAt": 1513826354189,
       "pluginCreator___NODE": "Plugin default-site-plugin",
       "pluginCreatorId": "Plugin default-site-plugin",
       "componentPath": "/Users/juanjorge/Developer/gatsby-test-with-source-data/src/layouts/data.js",
@@ -1005,7 +1095,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "7c31c04c56fdfd76b1906632f6e4c79c",
+        "contentDigest": "7b7dcb6f7ffb5b71afd43cd4c80ba7cc",
         "owner": "internal-data-bridge"
       }
     },
@@ -1041,7 +1131,7 @@
           }
         }
       },
-      "updatedAt": 1513826127860,
+      "updatedAt": 1513826354192,
       "pluginCreator___NODE": "Plugin default-site-plugin",
       "pluginCreatorId": "Plugin default-site-plugin",
       "componentPath": "/Users/juanjorge/Developer/gatsby-test-with-source-data/src/layouts/data.js",
@@ -1050,97 +1140,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "9e21ded3444a6d2b04284f3f3e726d91",
-        "owner": "internal-data-bridge"
-      }
-    },
-    "SitePage /expertos-en-inmigracion-aconsejan-a-algunos-residentes-permanentes-consultar-con-abogados-antes-de-viajar-fuera-de-eeuu": {
-      "layout": "index",
-      "jsonName": "expertos-en-inmigracion-aconsejan-a-algunos-residentes-permanentes-consultar-con-abogados-antes-de-viajar-fuera-de-eeuu.json",
-      "internalComponentName": "ComponentExpertosEnInmigracionAconsejanAAlgunosResidentesPermanentesConsultarConAbogadosAntesDeViajarFueraDeEeuu",
-      "path": "/expertos-en-inmigracion-aconsejan-a-algunos-residentes-permanentes-consultar-con-abogados-antes-de-viajar-fuera-de-eeuu",
-      "component": "/Users/juanjorge/Developer/gatsby-test-with-source-data/src/layouts/data.js",
-      "componentChunkName": "component---src-layouts-data-js",
-      "context": {
-        "slug": "00000160-7616-dadb-a1f0-7e7e58190000",
-        "node": {
-          "id": "00000160-7616-dadb-a1f0-7e7e58190000",
-          "publishDate": "2017-12-20T17:25:00-05:00",
-          "title": "Expertos en inmigración aconsejan a algunos residentes permanentes consultar con abogados antes de viajar fuera de EEUU",
-          "widget": "",
-          "shortTitle": "Expertos en inmigración aconsejan a algunos residentes permanentes consultar con abogados antes de viajar fuera de EEUU",
-          "description": "Especialistas explican por qué el hablar con un abogado antes de salir del país puede ser de gran ayuda para algunos residentes permanentes.",
-          "images": {
-            "original": {
-              "href": "https://cdn3.uvnimg.com/a6/4f/9351fd2449069531b48b1789ba60/384801d5f25c41ac99e37685a5671e6e",
-              "width": 1920,
-              "height": 1080
-            }
-          },
-          "children": [],
-          "parent": "00000160-7616-dadb-a1f0-7e7e58190000",
-          "internal": {
-            "type": "Video",
-            "mediaType": "application/json",
-            "contentDigest": "6b4c79425f4c07f3c7a9bc9558a9080f"
-          }
-        }
-      },
-      "updatedAt": 1513826127860,
-      "pluginCreator___NODE": "Plugin default-site-plugin",
-      "pluginCreatorId": "Plugin default-site-plugin",
-      "componentPath": "/Users/juanjorge/Developer/gatsby-test-with-source-data/src/layouts/data.js",
-      "id": "SitePage /expertos-en-inmigracion-aconsejan-a-algunos-residentes-permanentes-consultar-con-abogados-antes-de-viajar-fuera-de-eeuu",
-      "parent": "SOURCE",
-      "children": [],
-      "internal": {
-        "type": "SitePage",
-        "contentDigest": "060e60de1737acc081cd19448652f9cb",
-        "owner": "internal-data-bridge"
-      }
-    },
-    "SitePage /al-punto-con-jorge-ramos-17-de-diciembre-2017": {
-      "layout": "index",
-      "jsonName": "al-punto-con-jorge-ramos-17-de-diciembre-2017.json",
-      "internalComponentName": "ComponentAlPuntoConJorgeRamos17DeDiciembre2017",
-      "path": "/al-punto-con-jorge-ramos-17-de-diciembre-2017",
-      "component": "/Users/juanjorge/Developer/gatsby-test-with-source-data/src/layouts/data.js",
-      "componentChunkName": "component---src-layouts-data-js",
-      "context": {
-        "slug": "00000160-70b0-da48-ab73-72b7447d0000",
-        "node": {
-          "id": "00000160-70b0-da48-ab73-72b7447d0000",
-          "publishDate": "2017-12-18T00:00:00-05:00",
-          "title": "Al Punto con Jorge Ramos - 17 de diciembre, 2017",
-          "widget": "",
-          "shortTitle": "Al Punto con Jorge Ramos - 17 de diciembre",
-          "description": "Ricardo Anaya explica por qué quiere ser presidente de México. Meryl Streep, Tom Hanks and Steven Spielberg hablan sobre su nueva película ‘The Post’, sobre el acoso sexual y Trump.",
-          "images": {
-            "original": {
-              "href": "https://cdn3.uvnimg.com/15/f9/222f48ab4bbbb5011234895e78f9/751d154ddedf43b4b9c778468499f2d7",
-              "width": 1920,
-              "height": 1080
-            }
-          },
-          "children": [],
-          "parent": "00000160-70b0-da48-ab73-72b7447d0000",
-          "internal": {
-            "type": "Video",
-            "mediaType": "application/json",
-            "contentDigest": "3494ddadfc7b3c06a719b5b24e3a9f5f"
-          }
-        }
-      },
-      "updatedAt": 1513826127861,
-      "pluginCreator___NODE": "Plugin default-site-plugin",
-      "pluginCreatorId": "Plugin default-site-plugin",
-      "componentPath": "/Users/juanjorge/Developer/gatsby-test-with-source-data/src/layouts/data.js",
-      "id": "SitePage /al-punto-con-jorge-ramos-17-de-diciembre-2017",
-      "parent": "SOURCE",
-      "children": [],
-      "internal": {
-        "type": "SitePage",
-        "contentDigest": "76932519c6aa9338e30a1502414e1f88",
+        "contentDigest": "4ad003fecf74fe6d104be5b797122c83",
         "owner": "internal-data-bridge"
       }
     },
@@ -1176,7 +1176,7 @@
           }
         }
       },
-      "updatedAt": 1513826127862,
+      "updatedAt": 1513826354193,
       "pluginCreator___NODE": "Plugin default-site-plugin",
       "pluginCreatorId": "Plugin default-site-plugin",
       "componentPath": "/Users/juanjorge/Developer/gatsby-test-with-source-data/src/layouts/data.js",
@@ -1185,7 +1185,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "18862a889c8d39df61b65641a3d739f7",
+        "contentDigest": "d78bbbd45987a6e4db05c15654b3d044",
         "owner": "internal-data-bridge"
       }
     },
@@ -1221,7 +1221,7 @@
           }
         }
       },
-      "updatedAt": 1513826127862,
+      "updatedAt": 1513826354194,
       "pluginCreator___NODE": "Plugin default-site-plugin",
       "pluginCreatorId": "Plugin default-site-plugin",
       "componentPath": "/Users/juanjorge/Developer/gatsby-test-with-source-data/src/layouts/data.js",
@@ -1230,7 +1230,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "c372608f3489d8375b58881ea8d9411e",
+        "contentDigest": "ca5adf24b93d9505003e647e7c50d4ce",
         "owner": "internal-data-bridge"
       }
     },
@@ -1266,7 +1266,7 @@
           }
         }
       },
-      "updatedAt": 1513826127863,
+      "updatedAt": 1513826354195,
       "pluginCreator___NODE": "Plugin default-site-plugin",
       "pluginCreatorId": "Plugin default-site-plugin",
       "componentPath": "/Users/juanjorge/Developer/gatsby-test-with-source-data/src/layouts/data.js",
@@ -1275,7 +1275,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "c000e0b399ef4ba76f6ae687542783dd",
+        "contentDigest": "ac0cddfc5ac5e4ea928a1e18ce87212e",
         "owner": "internal-data-bridge"
       }
     },
@@ -1311,7 +1311,7 @@
           }
         }
       },
-      "updatedAt": 1513826127864,
+      "updatedAt": 1513826354196,
       "pluginCreator___NODE": "Plugin default-site-plugin",
       "pluginCreatorId": "Plugin default-site-plugin",
       "componentPath": "/Users/juanjorge/Developer/gatsby-test-with-source-data/src/layouts/data.js",
@@ -1320,7 +1320,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "2ebb814d23f054ae3a1ab66c74eb1817",
+        "contentDigest": "ce38586f08032716e90f1c15a028b7da",
         "owner": "internal-data-bridge"
       }
     },
@@ -1356,7 +1356,7 @@
           }
         }
       },
-      "updatedAt": 1513826127864,
+      "updatedAt": 1513826354198,
       "pluginCreator___NODE": "Plugin default-site-plugin",
       "pluginCreatorId": "Plugin default-site-plugin",
       "componentPath": "/Users/juanjorge/Developer/gatsby-test-with-source-data/src/layouts/data.js",
@@ -1365,7 +1365,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "40ffbf8832700c5cb6012dbf0b97c367",
+        "contentDigest": "4e986183d8cdd39092d48ec527546d6c",
         "owner": "internal-data-bridge"
       }
     },
@@ -1377,7 +1377,7 @@
       "component": "/Users/juanjorge/Developer/gatsby-test-with-source-data/src/pages/404.js",
       "componentChunkName": "component---src-pages-404-js",
       "context": {},
-      "updatedAt": 1513826127892,
+      "updatedAt": 1513826354240,
       "pluginCreator___NODE": "Plugin component-page-creator",
       "pluginCreatorId": "Plugin component-page-creator",
       "componentPath": "/Users/juanjorge/Developer/gatsby-test-with-source-data/src/pages/404.js",
@@ -1386,7 +1386,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "5b0237594199c6a12426a08739a15a12",
+        "contentDigest": "a2ee952d4cbd8febe2aa1dab73558f3d",
         "owner": "internal-data-bridge"
       }
     },
@@ -1398,7 +1398,7 @@
       "component": "/Users/juanjorge/Developer/gatsby-test-with-source-data/src/pages/feed-watch.js",
       "componentChunkName": "component---src-pages-feed-watch-js",
       "context": {},
-      "updatedAt": 1513826127895,
+      "updatedAt": 1513826354241,
       "pluginCreator___NODE": "Plugin component-page-creator",
       "pluginCreatorId": "Plugin component-page-creator",
       "componentPath": "/Users/juanjorge/Developer/gatsby-test-with-source-data/src/pages/feed-watch.js",
@@ -1407,7 +1407,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "f7f4ad8a8743c6ff1d0811a96f4b3c3d",
+        "contentDigest": "600187b6f5d2338ce45f7ef9fd39b76f",
         "owner": "internal-data-bridge"
       }
     },
@@ -1419,7 +1419,7 @@
       "component": "/Users/juanjorge/Developer/gatsby-test-with-source-data/src/pages/index.js",
       "componentChunkName": "component---src-pages-index-js",
       "context": {},
-      "updatedAt": 1513826127897,
+      "updatedAt": 1513826354242,
       "pluginCreator___NODE": "Plugin component-page-creator",
       "pluginCreatorId": "Plugin component-page-creator",
       "componentPath": "/Users/juanjorge/Developer/gatsby-test-with-source-data/src/pages/index.js",
@@ -1428,7 +1428,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "dec65b8f4fee53a6e6adf8667faef8ff",
+        "contentDigest": "69de463ef4eabb1007f02fdb50457a43",
         "owner": "internal-data-bridge"
       }
     },
@@ -1440,7 +1440,7 @@
       "component": "/Users/juanjorge/Developer/gatsby-test-with-source-data/src/pages/404.js",
       "componentChunkName": "component---src-pages-404-js",
       "context": {},
-      "updatedAt": 1513826127901,
+      "updatedAt": 1513826354247,
       "pluginCreator___NODE": "Plugin prod-404",
       "pluginCreatorId": "Plugin prod-404",
       "componentPath": "/Users/juanjorge/Developer/gatsby-test-with-source-data/src/pages/404.js",
@@ -1449,7 +1449,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "c374b5cfbbb80fc194aa31a92bfbc6d9",
+        "contentDigest": "2d7ab2ffd9e8f5bcd4a61694e6e97628",
         "owner": "internal-data-bridge"
       }
     }

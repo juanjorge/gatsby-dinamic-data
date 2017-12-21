@@ -318,7 +318,7 @@ export default class FeedWatchPage extends React.Component {
     {
         from_button = from_button == undefined ? false : from_button;
         if(this.state.stoped && !from_button){ return }
-        let _siteURL = `https://origin.syndicator.univision.com/web-api/content?url=https://origin.www.univision.com/test/gatsby-dynamic-data-section2`
+        let _siteURL = `https://syndicator.univision.com/web-api/content?url=https://www.univision.com/test/gatsby-dynamic-data-section2`
         this.setState({
             STATUS: "MONITORING...",
             button: {

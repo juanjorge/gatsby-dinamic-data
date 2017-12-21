@@ -59,6 +59,20 @@
         "componentChunkName": "component---src-layouts-data-js",
         "layout": "layout---index",
         "layoutComponentChunkName": "component---src-layouts-index-js",
+        "jsonName": "quienes-son-elegibles-para-iniciar-el-tramite-de-ciudadania.json",
+        "path": "/quienes-son-elegibles-para-iniciar-el-tramite-de-ciudadania"
+    },
+    {
+        "componentChunkName": "component---src-layouts-data-js",
+        "layout": "layout---index",
+        "layoutComponentChunkName": "component---src-layouts-index-js",
+        "jsonName": "jovenes-inmigrantes-exigen-en-san-francisco-que-se-apruebe-un-dream-act.json",
+        "path": "/jovenes-inmigrantes-exigen-en-san-francisco-que-se-apruebe-un-dream-act"
+    },
+    {
+        "componentChunkName": "component---src-layouts-data-js",
+        "layout": "layout---index",
+        "layoutComponentChunkName": "component---src-layouts-index-js",
         "jsonName": "miembros-de-varias-religiones-se-unen-para-pedir-que-los-angeles-se-convierta-en-ciudad-santuario.json",
         "path": "/miembros-de-varias-religiones-se-unen-para-pedir-que-los-angeles-se-convierta-en-ciudad-santuario"
     },
@@ -110,20 +124,6 @@
         "layoutComponentChunkName": "component---src-layouts-index-js",
         "jsonName": "perdida-de-identidad-latina-11-de-los-estadounidenses-con-ese-origen-no-se-identifica-como-hispano.json",
         "path": "/perdida-de-identidad-latina-11-de-los-estadounidenses-con-ese-origen-no-se-identifica-como-hispano"
-    },
-    {
-        "componentChunkName": "component---src-layouts-data-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "expertos-en-inmigracion-aconsejan-a-algunos-residentes-permanentes-consultar-con-abogados-antes-de-viajar-fuera-de-eeuu.json",
-        "path": "/expertos-en-inmigracion-aconsejan-a-algunos-residentes-permanentes-consultar-con-abogados-antes-de-viajar-fuera-de-eeuu"
-    },
-    {
-        "componentChunkName": "component---src-layouts-data-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "al-punto-con-jorge-ramos-17-de-diciembre-2017.json",
-        "path": "/al-punto-con-jorge-ramos-17-de-diciembre-2017"
     },
     {
         "componentChunkName": "component---src-layouts-data-js",
