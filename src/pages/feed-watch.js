@@ -112,7 +112,7 @@ export default class FeedWatchPage extends React.Component {
         else {
             let perce = ((index + 1) / contents.length) * 100;
             this.setState({
-                STATUS: "COPYING " + parseInt( perce ) + "%"
+                STATUS: "MOVING NEW STATIC FILES " + parseInt( perce ) + "%"
             })
             const _key = contents[index].Key;
             var params = {
@@ -311,6 +311,7 @@ export default class FeedWatchPage extends React.Component {
                 text: "START AGAIN",
                 disabled: ""
             },
+            STATUS: "STOPED",
             stoped: true
         });
     }
@@ -447,16 +448,14 @@ export default class FeedWatchPage extends React.Component {
 
         return (
             <div>
-                <h1>MONITOR: { this.state.STATUS }</h1>
-                <input type="button" value={ this.state.button.text } disabled={ this.state.button.disabled } onClick={ () => this.startMonitoring(true) } />
+                <h1><span style={{ 'fontWeight': 'normal' }}>STATUS:</span> { this.state.STATUS }</h1>
+                <input type="button" value={ this.state.button.text } disabled={ this.state.button.disabled } onClick={ () => this.startMonitoring(true) } /> &nbsp;
                 <input type="button" value="STOP" disabled={ this.state.button.disabled == '' ? "disabled" : "" } onClick={ () => this.stopMonitoring() } />
-                <input type="button" value="REMOVE ENCRYPT AND PUBLIC" onClick={ () => this.deleteEncryptionAndPutPublic() } />
+                
                 <br />
                 <br />
-                <div>Results:</div>
-                <code>
+                <code style={{ visibility: "hidden" }}>
                     { JSON.stringify( this.state ) }
-                    
                 </code>
             </div>
         )

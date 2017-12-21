@@ -8,7 +8,7 @@
       "component": "/Users/juanjorge/Developer/gatsby-test-with-source-data/.cache/dev-404-page.js",
       "componentChunkName": "component---cache-dev-404-page-js",
       "context": {},
-      "updatedAt": 1513826352700,
+      "updatedAt": 1513856440377,
       "pluginCreator___NODE": "Plugin dev-404-page",
       "pluginCreatorId": "Plugin dev-404-page",
       "componentPath": "/Users/juanjorge/Developer/gatsby-test-with-source-data/.cache/dev-404-page.js",
@@ -17,7 +17,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "b58f6d7d29944dbef9d5f95538d990da",
+        "contentDigest": "d629c1c9a171902608adb846d5cd86ee",
         "owner": "internal-data-bridge"
       }
     },
@@ -287,7 +287,7 @@
       "resolve": "/Users/juanjorge/Developer/gatsby-test-with-source-data",
       "id": "Plugin default-site-plugin",
       "name": "default-site-plugin",
-      "version": "1c9269d9936760288cb919cbc1a904a5",
+      "version": "0d14a480a8f0bcaf68dbb80c39eb5afc",
       "pluginOptions": {
         "plugins": []
       },
@@ -356,7 +356,7 @@
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "ad3664bdbeb713538a73407792fcb116",
+        "contentDigest": "6b25cb5f149e9c6633e6a95f61051f8d",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
@@ -369,12 +369,12 @@
       "host": "localhost",
       "pathPrefix": "",
       "polyfill": true,
-      "buildTime": "2017-12-21T03:19:08.758Z",
+      "buildTime": "2017-12-21T11:40:35.982Z",
       "id": "Site",
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "8ea6f0c153b15ba2db6d5ca97e490056",
+        "contentDigest": "8867df58a7a6c4bf41af54724b702707",
         "type": "Site",
         "owner": "internal-data-bridge"
       }
@@ -411,7 +411,7 @@
           }
         }
       },
-      "updatedAt": 1513826354169,
+      "updatedAt": 1513856441158,
       "pluginCreator___NODE": "Plugin default-site-plugin",
       "pluginCreatorId": "Plugin default-site-plugin",
       "componentPath": "/Users/juanjorge/Developer/gatsby-test-with-source-data/src/layouts/data.js",
@@ -420,7 +420,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "55d3729989325a17ca3e8baaeb6a662a",
+        "contentDigest": "9d6cd2f5a903694f2fe38f81b71e835d",
         "owner": "internal-data-bridge"
       }
     },
@@ -456,7 +456,7 @@
           }
         }
       },
-      "updatedAt": 1513826354170,
+      "updatedAt": 1513856441159,
       "pluginCreator___NODE": "Plugin default-site-plugin",
       "pluginCreatorId": "Plugin default-site-plugin",
       "componentPath": "/Users/juanjorge/Developer/gatsby-test-with-source-data/src/layouts/data.js",
@@ -465,7 +465,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "53bc899818983363798cd563bef6eccb",
+        "contentDigest": "dc7fda0d01a667b0f20df22d420a6c5d",
         "owner": "internal-data-bridge"
       }
     },
@@ -501,7 +501,7 @@
           }
         }
       },
-      "updatedAt": 1513826354172,
+      "updatedAt": 1513856441160,
       "pluginCreator___NODE": "Plugin default-site-plugin",
       "pluginCreatorId": "Plugin default-site-plugin",
       "componentPath": "/Users/juanjorge/Developer/gatsby-test-with-source-data/src/layouts/data.js",
@@ -510,7 +510,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "4547d83312ce0d61592b9c4aaead620f",
+        "contentDigest": "01cd67d8a7489de46b064e446b240d54",
         "owner": "internal-data-bridge"
       }
     },
@@ -546,7 +546,7 @@
           }
         }
       },
-      "updatedAt": 1513826354173,
+      "updatedAt": 1513856441160,
       "pluginCreator___NODE": "Plugin default-site-plugin",
       "pluginCreatorId": "Plugin default-site-plugin",
       "componentPath": "/Users/juanjorge/Developer/gatsby-test-with-source-data/src/layouts/data.js",
@@ -555,7 +555,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "e9b3bf4d615b5257c366dfe85847d92c",
+        "contentDigest": "325b4db5e88275aec050704a9a3ba6fa",
         "owner": "internal-data-bridge"
       }
     },
@@ -591,7 +591,7 @@
           }
         }
       },
-      "updatedAt": 1513826354174,
+      "updatedAt": 1513856441161,
       "pluginCreator___NODE": "Plugin default-site-plugin",
       "pluginCreatorId": "Plugin default-site-plugin",
       "componentPath": "/Users/juanjorge/Developer/gatsby-test-with-source-data/src/layouts/data.js",
@@ -600,7 +600,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "563e296faca60920c71a084647deee08",
+        "contentDigest": "1322603be3cb204748f1090dc5ff0875",
         "owner": "internal-data-bridge"
       }
     },
@@ -622,9 +622,9 @@
           "description": "Mediante estas llamadas, los estafadores fingen ser miembros del IRS para obtener datos y robar la identidad de sus víctimas.",
           "images": {
             "original": {
-              "href": "https://cdn4.uvnimg.com/81/e3/8b814748477593bd92d9e2f383d2/fd7c48e7f2b24698901231bdebc3788e",
-              "width": 1920,
-              "height": 1080
+              "href": "https://cdn2.uvnimg.com/d5/a0/2b6a9a244983a10c505eaff66fbd/122017-sacpm1-2.jpg",
+              "width": 1533,
+              "height": 1009
             }
           },
           "children": [],
@@ -632,11 +632,11 @@
           "internal": {
             "type": "Video",
             "mediaType": "application/json",
-            "contentDigest": "daa83f00b2f3b6b61d49f9c01916a595"
+            "contentDigest": "36e9bbda42834b84a2818782161d8ed2"
           }
         }
       },
-      "updatedAt": 1513826354175,
+      "updatedAt": 1513856441162,
       "pluginCreator___NODE": "Plugin default-site-plugin",
       "pluginCreatorId": "Plugin default-site-plugin",
       "componentPath": "/Users/juanjorge/Developer/gatsby-test-with-source-data/src/layouts/data.js",
@@ -645,7 +645,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "59fc1740ac281dc6b7458b1fa8a7b219",
+        "contentDigest": "d65505b039238441b577278a5068b9cc",
         "owner": "internal-data-bridge"
       }
     },
@@ -681,7 +681,7 @@
           }
         }
       },
-      "updatedAt": 1513826354177,
+      "updatedAt": 1513856441163,
       "pluginCreator___NODE": "Plugin default-site-plugin",
       "pluginCreatorId": "Plugin default-site-plugin",
       "componentPath": "/Users/juanjorge/Developer/gatsby-test-with-source-data/src/layouts/data.js",
@@ -690,7 +690,322 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "ee8cf4aa576a06f653414d4d5b13c2cb",
+        "contentDigest": "dbe5ef868a3152f0e48ff8085c0ae917",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /se-realizo-el-sorteo-de-la-copa-libertadores-2018-y-tiene-su-grupo-de-la-muerte": {
+      "layout": "index",
+      "jsonName": "se-realizo-el-sorteo-de-la-copa-libertadores-2018-y-tiene-su-grupo-de-la-muerte.json",
+      "internalComponentName": "ComponentSeRealizoElSorteoDeLaCopaLibertadores2018YTieneSuGrupoDeLaMuerte",
+      "path": "/se-realizo-el-sorteo-de-la-copa-libertadores-2018-y-tiene-su-grupo-de-la-muerte",
+      "component": "/Users/juanjorge/Developer/gatsby-test-with-source-data/src/layouts/data.js",
+      "componentChunkName": "component---src-layouts-data-js",
+      "context": {
+        "slug": "00000160-76c3-d31d-aff3-76df2a3f0000",
+        "node": {
+          "id": "00000160-76c3-d31d-aff3-76df2a3f0000",
+          "publishDate": "2017-12-20T21:05:19-05:00",
+          "title": "Se realizó el sorteo de la Copa Libertadores 2018 y tiene su ‘grupo de la muerte’",
+          "widget": "",
+          "shortTitle": "Se realizó el sorteo de la Copa Libertadores 2018 y tiene su ‘grupo de la muerte’",
+          "description": "En el grupo 7 quedaron Corinthians, Independiente, Millonarios y Lara.",
+          "images": {
+            "original": {
+              "href": "https://cdn3.uvnimg.com/b0/6d/31b8023046b1a23ffd9d0b04ab3f/cbd3adc4c7274780a0d2c261ed3167fe",
+              "width": 1920,
+              "height": 1080
+            }
+          },
+          "children": [],
+          "parent": "00000160-76c3-d31d-aff3-76df2a3f0000",
+          "internal": {
+            "type": "Article",
+            "mediaType": "application/json",
+            "contentDigest": "ff4a079106f06892f51951c9e6fd9ff1"
+          }
+        }
+      },
+      "updatedAt": 1513856441164,
+      "pluginCreator___NODE": "Plugin default-site-plugin",
+      "pluginCreatorId": "Plugin default-site-plugin",
+      "componentPath": "/Users/juanjorge/Developer/gatsby-test-with-source-data/src/layouts/data.js",
+      "id": "SitePage /se-realizo-el-sorteo-de-la-copa-libertadores-2018-y-tiene-su-grupo-de-la-muerte",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "06001b18bd92c0e4abcd308b91421f39",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /recomendaciones-para-el-cruce-de-la-frontera-de-tijuana-en-esta-temporada-navidena": {
+      "layout": "index",
+      "jsonName": "recomendaciones-para-el-cruce-de-la-frontera-de-tijuana-en-esta-temporada-navidena.json",
+      "internalComponentName": "ComponentRecomendacionesParaElCruceDeLaFronteraDeTijuanaEnEstaTemporadaNavidena",
+      "path": "/recomendaciones-para-el-cruce-de-la-frontera-de-tijuana-en-esta-temporada-navidena",
+      "component": "/Users/juanjorge/Developer/gatsby-test-with-source-data/src/layouts/data.js",
+      "componentChunkName": "component---src-layouts-data-js",
+      "context": {
+        "slug": "00000160-7831-dadb-a1f0-7a7f1b030000",
+        "node": {
+          "id": "00000160-7831-dadb-a1f0-7a7f1b030000",
+          "publishDate": "2017-12-21T03:00:00-05:00",
+          "title": "Recomendaciones para el cruce de la frontera de Tijuana en esta temporada navideña",
+          "widget": "",
+          "shortTitle": "Recomendaciones para el cruce de la frontera de Tijuana en esta temporada navideña",
+          "description": "La Oficina de Aduanas y Protección Fronteriza de Estados Unidos aconseja a los viajeros tener a la mano sus documentos, la lista de mandado y la mercancía que van a transportar para que la declaración fluya más rápido y se evite congestión.",
+          "images": {
+            "original": {
+              "href": "https://cdn2.uvnimg.com/b0/32/23e4167e4734b672cce0ccf81beb/6a568461ebcc4644b9215a78aaeb0296",
+              "width": 1920,
+              "height": 1080
+            }
+          },
+          "children": [],
+          "parent": "00000160-7831-dadb-a1f0-7a7f1b030000",
+          "internal": {
+            "type": "Video",
+            "mediaType": "application/json",
+            "contentDigest": "7bc35f0d0f6740006b580fa5a8ca3c4d"
+          }
+        }
+      },
+      "updatedAt": 1513856441164,
+      "pluginCreator___NODE": "Plugin default-site-plugin",
+      "pluginCreatorId": "Plugin default-site-plugin",
+      "componentPath": "/Users/juanjorge/Developer/gatsby-test-with-source-data/src/layouts/data.js",
+      "id": "SitePage /recomendaciones-para-el-cruce-de-la-frontera-de-tijuana-en-esta-temporada-navidena",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "57dc7080b50e80e5220af5e8a60d6b45",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /residentes-permanentes-en-eeuu-viajan-con-el-temor-de-no-poder-ingresar-de-nuevo": {
+      "layout": "index",
+      "jsonName": "residentes-permanentes-en-eeuu-viajan-con-el-temor-de-no-poder-ingresar-de-nuevo.json",
+      "internalComponentName": "ComponentResidentesPermanentesEnEeuuViajanConElTemorDeNoPoderIngresarDeNuevo",
+      "path": "/residentes-permanentes-en-eeuu-viajan-con-el-temor-de-no-poder-ingresar-de-nuevo",
+      "component": "/Users/juanjorge/Developer/gatsby-test-with-source-data/src/layouts/data.js",
+      "componentChunkName": "component---src-layouts-data-js",
+      "context": {
+        "slug": "00000160-782f-dadb-a1f0-7a6f16d60000",
+        "node": {
+          "id": "00000160-782f-dadb-a1f0-7a6f16d60000",
+          "publishDate": "2017-12-21T02:56:00-05:00",
+          "title": "Residentes permanentes en EEUU viajan con el temor de no poder ingresar de nuevo",
+          "widget": "",
+          "shortTitle": "Residentes permanentes en EEUU viajan con el temor de no poder ingresar de nuevo",
+          "description": "El temor, según abogados de inmigración, se debe a las políticas migratorias del presidente Donald Trump. Varios residentes legales han manifestado que cuando vuelven a ingresar a EEUU encuentran con diversos obstáculos por parte de los agentes de inmigración, aun sin tener antecedentes penales. Muchos prefieren y recomiendan no viajar por miedo, pero otros se arriesgan para pasar las fiestas decembrinas junto a sus seres queridos.",
+          "images": {
+            "original": {
+              "href": "https://cdn4.uvnimg.com/a0/0e/5b87d77345559c1c5b772bc651f8/81c949585ebe4e16a8fbbe5d255ffccb",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "children": [],
+          "parent": "00000160-782f-dadb-a1f0-7a6f16d60000",
+          "internal": {
+            "type": "Video",
+            "mediaType": "application/json",
+            "contentDigest": "b5cd60b21f7d64cd6e6fc0f7cc31bea3"
+          }
+        }
+      },
+      "updatedAt": 1513856441165,
+      "pluginCreator___NODE": "Plugin default-site-plugin",
+      "pluginCreatorId": "Plugin default-site-plugin",
+      "componentPath": "/Users/juanjorge/Developer/gatsby-test-with-source-data/src/layouts/data.js",
+      "id": "SitePage /residentes-permanentes-en-eeuu-viajan-con-el-temor-de-no-poder-ingresar-de-nuevo",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "9879f286983ec3042cf7e588d0bfa52e",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /ciudadana-estadounidense-demanda-a-ice-por-presunta-detencion-injustificada-en-california": {
+      "layout": "index",
+      "jsonName": "ciudadana-estadounidense-demanda-a-ice-por-presunta-detencion-injustificada-en-california.json",
+      "internalComponentName": "ComponentCiudadanaEstadounidenseDemandaAIcePorPresuntaDetencionInjustificadaEnCalifornia",
+      "path": "/ciudadana-estadounidense-demanda-a-ice-por-presunta-detencion-injustificada-en-california",
+      "component": "/Users/juanjorge/Developer/gatsby-test-with-source-data/src/layouts/data.js",
+      "componentChunkName": "component---src-layouts-data-js",
+      "context": {
+        "slug": "00000160-77d9-dadb-a1f0-7fff70960000",
+        "node": {
+          "id": "00000160-77d9-dadb-a1f0-7fff70960000",
+          "publishDate": "2017-12-21T00:00:00-05:00",
+          "title": "Ciudadana estadounidense demanda a ICE por presunta detención injustificada en California",
+          "widget": "",
+          "shortTitle": "Ciudadana estadounidense demanda a ICE por presunta detención injustificada en California",
+          "description": "La Unión Americana de Libertades Civiles (ACLU) interpuso la demanda en nombre de Guadalupe Plascencia contra el Servicio de Inmigración y Control de Aduanas y el Sheriff del condado de San Bernardino alegando una privación de la libertad sin causa y su prolongación. ICE no respondió a una solicitud de Univision para hablar sobre el caso.",
+          "images": {
+            "original": {
+              "href": "https://cdn3.uvnimg.com/71/7b/3319bc4547d8ae90e1357130410a/cda879378094400bb2c0f4d6e5ffdaae",
+              "width": 1920,
+              "height": 1080
+            }
+          },
+          "children": [],
+          "parent": "00000160-77d9-dadb-a1f0-7fff70960000",
+          "internal": {
+            "type": "Video",
+            "mediaType": "application/json",
+            "contentDigest": "8ceecbc4645090ce6fa96122241ede5e"
+          }
+        }
+      },
+      "updatedAt": 1513856441167,
+      "pluginCreator___NODE": "Plugin default-site-plugin",
+      "pluginCreatorId": "Plugin default-site-plugin",
+      "componentPath": "/Users/juanjorge/Developer/gatsby-test-with-source-data/src/layouts/data.js",
+      "id": "SitePage /ciudadana-estadounidense-demanda-a-ice-por-presunta-detencion-injustificada-en-california",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "c19af6efba7a4fb8a566ee0d57a11489",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /lo-que-implicaria-la-revision-de-la-visa-h-1-b-por-parte-del-departamento-de-seguridad-nacional": {
+      "layout": "index",
+      "jsonName": "lo-que-implicaria-la-revision-de-la-visa-h-1-b-por-parte-del-departamento-de-seguridad-nacional.json",
+      "internalComponentName": "ComponentLoQueImplicariaLaRevisionDeLaVisaH1BPorParteDelDepartamentoDeSeguridadNacional",
+      "path": "/lo-que-implicaria-la-revision-de-la-visa-h-1-b-por-parte-del-departamento-de-seguridad-nacional",
+      "component": "/Users/juanjorge/Developer/gatsby-test-with-source-data/src/layouts/data.js",
+      "componentChunkName": "component---src-layouts-data-js",
+      "context": {
+        "slug": "00000160-77c9-dadb-a1f0-7fef09a60000",
+        "node": {
+          "id": "00000160-77c9-dadb-a1f0-7fef09a60000",
+          "publishDate": "2017-12-20T23:57:00-05:00",
+          "title": "Lo que implicaría la revisión de la visa H-1B por parte del Departamento de Seguridad Nacional",
+          "widget": "",
+          "shortTitle": "Lo que implicaría la revisión de la visa H-1B por parte del Departamento de Seguridad Nacional",
+          "description": "Durante la campaña presidencial, Donald Trump calificó como muy malo este programa de permisos para trabajadores calificados. Ahora, el Departamento de Seguridad Nacional contempla que los cónyuges de los beneficiarios no puedan trabajar en el país.",
+          "images": {
+            "original": {
+              "href": "https://cdn3.uvnimg.com/49/90/0670e9e4486486892bdd6fa3a1f1/9b78b69077fc415cbe0ad2ef21b03472",
+              "width": 1920,
+              "height": 1080
+            }
+          },
+          "children": [],
+          "parent": "00000160-77c9-dadb-a1f0-7fef09a60000",
+          "internal": {
+            "type": "Video",
+            "mediaType": "application/json",
+            "contentDigest": "7692b1b2207c66bf6ecf7c1c27baaf71"
+          }
+        }
+      },
+      "updatedAt": 1513856441168,
+      "pluginCreator___NODE": "Plugin default-site-plugin",
+      "pluginCreatorId": "Plugin default-site-plugin",
+      "componentPath": "/Users/juanjorge/Developer/gatsby-test-with-source-data/src/layouts/data.js",
+      "id": "SitePage /lo-que-implicaria-la-revision-de-la-visa-h-1-b-por-parte-del-departamento-de-seguridad-nacional",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "d89df64ce094b12e94f7cddabb2226bf",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /liberan-a-los-siete-dreamers-arrestados-que-hicieron-huelga-de-hambre-para-presionar-por-un-dream-act-limpio": {
+      "layout": "index",
+      "jsonName": "liberan-a-los-siete-dreamers-arrestados-que-hicieron-huelga-de-hambre-para-presionar-por-un-dream-act-limpio.json",
+      "internalComponentName": "ComponentLiberanALosSieteDreamersArrestadosQueHicieronHuelgaDeHambreParaPresionarPorUnDreamActLimpio",
+      "path": "/liberan-a-los-siete-dreamers-arrestados-que-hicieron-huelga-de-hambre-para-presionar-por-un-dream-act-limpio",
+      "component": "/Users/juanjorge/Developer/gatsby-test-with-source-data/src/layouts/data.js",
+      "componentChunkName": "component---src-layouts-data-js",
+      "context": {
+        "slug": "00000160-7785-dadb-a1f0-7feffa720000",
+        "node": {
+          "id": "00000160-7785-dadb-a1f0-7feffa720000",
+          "publishDate": "2017-12-20T23:48:00-05:00",
+          "title": "Liberan a los siete dreamers arrestados que hicieron huelga de hambre para presionar por un 'Dream Act limpio'",
+          "widget": "",
+          "shortTitle": "Liberan a dreamers arrestados que hicieron huelga de hambre para presionar por un 'Dream Act limpio'",
+          "description": "Después de seis días, siete dreamers y un defensor de la medida salieron de la cárcel en Washington tras ser detenidos cuando realizaban manifestaciones pacíficas en las oficinas del líder de la minoría del Senado, el demócrata Chuck Schumer, y del congresista republicano por Florida, Carlos Curbelo, con el fin de instarlos a apoyar en el Congreso una medida que ampare permanentemente a beneficiarios de DACA y sin repercusiones para otros inmigrantes.",
+          "images": {
+            "original": {
+              "href": "https://cdn4.uvnimg.com/64/48/41c9cf9c40bf91936d242af47e6b/ef728c1f0b8e4c69ac9f3aab3bf9585b",
+              "width": 1920,
+              "height": 1080
+            }
+          },
+          "children": [],
+          "parent": "00000160-7785-dadb-a1f0-7feffa720000",
+          "internal": {
+            "type": "Video",
+            "mediaType": "application/json",
+            "contentDigest": "8fccf0002192441e912710759ff5c063"
+          }
+        }
+      },
+      "updatedAt": 1513856441170,
+      "pluginCreator___NODE": "Plugin default-site-plugin",
+      "pluginCreatorId": "Plugin default-site-plugin",
+      "componentPath": "/Users/juanjorge/Developer/gatsby-test-with-source-data/src/layouts/data.js",
+      "id": "SitePage /liberan-a-los-siete-dreamers-arrestados-que-hicieron-huelga-de-hambre-para-presionar-por-un-dream-act-limpio",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "e5f8a24c82544f0c41ba3a3e1bae34cd",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /liberan-a-los-7-dreamers-arrestados-que-estaban-haciendo-huelga-de-hambre-para-presionar-a-los-democratas": {
+      "layout": "index",
+      "jsonName": "liberan-a-los-7-dreamers-arrestados-que-estaban-haciendo-huelga-de-hambre-para-presionar-a-los-democratas.json",
+      "internalComponentName": "ComponentLiberanALos7DreamersArrestadosQueEstabanHaciendoHuelgaDeHambreParaPresionarALosDemocratas",
+      "path": "/liberan-a-los-7-dreamers-arrestados-que-estaban-haciendo-huelga-de-hambre-para-presionar-a-los-democratas",
+      "component": "/Users/juanjorge/Developer/gatsby-test-with-source-data/src/layouts/data.js",
+      "componentChunkName": "component---src-layouts-data-js",
+      "context": {
+        "slug": "00000160-76cc-dd32-ad6c-7efdea070000",
+        "node": {
+          "id": "00000160-76cc-dd32-ad6c-7efdea070000",
+          "publishDate": "2017-12-20T23:17:39-05:00",
+          "title": "Liberan a los 7 dreamers arrestados que estaban haciendo huelga de hambre para presionar a los demócratas",
+          "widget": "",
+          "shortTitle": "Liberan a los 7 dreamers arrestados que hacían huelga de hambre para presionar a los demócratas",
+          "description": "En total eran ocho los detenidos en Washington DC, siete dreamers y un ciudadano que colabora con la causa. Desde hace seis días y a riesgo de ser deportados los jóvenes quieren que los demócratas impulsen una ley que los proteja antes del viernes 22 de diciembre. ",
+          "images": {
+            "original": {
+              "href": "https://cdn2.uvnimg.com/72/e5/fe98cbaf428e8185e0128e520429/gettyimages-453491813.jpg",
+              "width": 0,
+              "height": 0
+            }
+          },
+          "children": [],
+          "parent": "00000160-76cc-dd32-ad6c-7efdea070000",
+          "internal": {
+            "type": "Article",
+            "mediaType": "application/json",
+            "contentDigest": "5f0aa94a5e09a6dd6e57dbd6283f6826"
+          }
+        }
+      },
+      "updatedAt": 1513856441171,
+      "pluginCreator___NODE": "Plugin default-site-plugin",
+      "pluginCreatorId": "Plugin default-site-plugin",
+      "componentPath": "/Users/juanjorge/Developer/gatsby-test-with-source-data/src/layouts/data.js",
+      "id": "SitePage /liberan-a-los-7-dreamers-arrestados-que-estaban-haciendo-huelga-de-hambre-para-presionar-a-los-democratas",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "036e085a8bcbe111df9f887cd64936b3",
         "owner": "internal-data-bridge"
       }
     },
@@ -726,7 +1041,7 @@
           }
         }
       },
-      "updatedAt": 1513826354178,
+      "updatedAt": 1513856441172,
       "pluginCreator___NODE": "Plugin default-site-plugin",
       "pluginCreatorId": "Plugin default-site-plugin",
       "componentPath": "/Users/juanjorge/Developer/gatsby-test-with-source-data/src/layouts/data.js",
@@ -735,7 +1050,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "b4f6c0325d446c34828615d4f304810a",
+        "contentDigest": "d37b609771dd85e8dc70c8788ee5c383",
         "owner": "internal-data-bridge"
       }
     },
@@ -771,7 +1086,7 @@
           }
         }
       },
-      "updatedAt": 1513826354179,
+      "updatedAt": 1513856441173,
       "pluginCreator___NODE": "Plugin default-site-plugin",
       "pluginCreatorId": "Plugin default-site-plugin",
       "componentPath": "/Users/juanjorge/Developer/gatsby-test-with-source-data/src/layouts/data.js",
@@ -780,7 +1095,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "0e30fbb0e915074a6437e5b096a77c5d",
+        "contentDigest": "60303f1939c43bd5391df178e90cec72",
         "owner": "internal-data-bridge"
       }
     },
@@ -816,7 +1131,7 @@
           }
         }
       },
-      "updatedAt": 1513826354181,
+      "updatedAt": 1513856441174,
       "pluginCreator___NODE": "Plugin default-site-plugin",
       "pluginCreatorId": "Plugin default-site-plugin",
       "componentPath": "/Users/juanjorge/Developer/gatsby-test-with-source-data/src/layouts/data.js",
@@ -825,7 +1140,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "f7d9d5d17e8a243f327cf3c8f7c7f626",
+        "contentDigest": "47407901a9a4771bc9c10d94ab2470df",
         "owner": "internal-data-bridge"
       }
     },
@@ -861,7 +1176,7 @@
           }
         }
       },
-      "updatedAt": 1513826354182,
+      "updatedAt": 1513856441176,
       "pluginCreator___NODE": "Plugin default-site-plugin",
       "pluginCreatorId": "Plugin default-site-plugin",
       "componentPath": "/Users/juanjorge/Developer/gatsby-test-with-source-data/src/layouts/data.js",
@@ -870,277 +1185,52 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "3527295b89c622e085e87208a2053f87",
+        "contentDigest": "0827ad0304d01ff3945e0cf8bf022ad6",
         "owner": "internal-data-bridge"
       }
     },
-    "SitePage /lider-republicano-promete-votacion-en-el-senado-por-el-dream-act-si-logran-acuerdo-bipartidista-en-enero": {
+    "SitePage /con-tristeza-y-dolor-montserrat-oliver-suplica-impedir-que-se-viralicen-fotos-que-le-robaron": {
       "layout": "index",
-      "jsonName": "lider-republicano-promete-votacion-en-el-senado-por-el-dream-act-si-logran-acuerdo-bipartidista-en-enero.json",
-      "internalComponentName": "ComponentLiderRepublicanoPrometeVotacionEnElSenadoPorElDreamActSiLogranAcuerdoBipartidistaEnEnero",
-      "path": "/lider-republicano-promete-votacion-en-el-senado-por-el-dream-act-si-logran-acuerdo-bipartidista-en-enero",
+      "jsonName": "con-tristeza-y-dolor-montserrat-oliver-suplica-impedir-que-se-viralicen-fotos-que-le-robaron.json",
+      "internalComponentName": "ComponentConTristezaYDolorMontserratOliverSuplicaImpedirQueSeViralicenFotosQueLeRobaron",
+      "path": "/con-tristeza-y-dolor-montserrat-oliver-suplica-impedir-que-se-viralicen-fotos-que-le-robaron",
       "component": "/Users/juanjorge/Developer/gatsby-test-with-source-data/src/layouts/data.js",
       "componentChunkName": "component---src-layouts-data-js",
       "context": {
-        "slug": "00000160-7653-dd32-ad6c-7e77e5a40000",
+        "slug": "00000160-7666-dd32-ad6c-7e773dbd0000",
         "node": {
-          "id": "00000160-7653-dd32-ad6c-7e77e5a40000",
-          "publishDate": "2017-12-20T19:50:07-05:00",
-          "title": "Líder republicano promete votación en el Senado por el Dream Act si logran acuerdo bipartidista en enero",
+          "id": "00000160-7666-dd32-ad6c-7e773dbd0000",
+          "publishDate": "2017-12-21T00:12:43-05:00",
+          "title": "Con tristeza y dolor, Montserrat Oliver suplica impedir que se viralicen fotos que le robaron",
           "widget": "",
-          "shortTitle": "Líder republicano promete votación en el Senado por el Dream Act si hay acuerdo bipartidista",
-          "description": "Las negociaciones en el Congreso para legalizar a los dreamers se estancaron en las últimas semanas, pero este miércoles Mitch McConnell aseguró que \"si los negociadores llegan a un acuerdo antes del fin de enero, lo traeré a un voto individual en el pleno del Senado\".",
+          "shortTitle": "Con tristeza y dolor, Montserrat Oliver suplica impedir que se viralicen fotos que le robaron",
+          "description": "La conductora hizo un llamado al respeto y solicitó que se detenga la difusión de las imágenes donde se expone su vida íntima al lado de su novia, la modelo Yaya Kosikova y alegó que algunas fotografías fueron además modificadas.",
           "images": {
             "original": {
-              "href": "https://cdn2.uvnimg.com/ad/1b/0e1fd7f949c590e0b3d14eb94874/mitch-mcconnell.jpg",
-              "width": 1024,
-              "height": 692
+              "href": "https://cdn2.uvnimg.com/b7/81/6815a20549179f959b883ce762fc/montse2.JPG",
+              "width": 602,
+              "height": 394
             }
           },
           "children": [],
-          "parent": "00000160-7653-dd32-ad6c-7e77e5a40000",
+          "parent": "00000160-7666-dd32-ad6c-7e773dbd0000",
           "internal": {
             "type": "Article",
             "mediaType": "application/json",
-            "contentDigest": "51a46135b06118ea6ab23025cf03a053"
+            "contentDigest": "c59299ec6fcd45dbd7691fe4af5bc757"
           }
         }
       },
-      "updatedAt": 1513826354183,
+      "updatedAt": 1513856441177,
       "pluginCreator___NODE": "Plugin default-site-plugin",
       "pluginCreatorId": "Plugin default-site-plugin",
       "componentPath": "/Users/juanjorge/Developer/gatsby-test-with-source-data/src/layouts/data.js",
-      "id": "SitePage /lider-republicano-promete-votacion-en-el-senado-por-el-dream-act-si-logran-acuerdo-bipartidista-en-enero",
+      "id": "SitePage /con-tristeza-y-dolor-montserrat-oliver-suplica-impedir-que-se-viralicen-fotos-que-le-robaron",
       "parent": "SOURCE",
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "bd26003415b04ea5593f67a17bfd6b60",
-        "owner": "internal-data-bridge"
-      }
-    },
-    "SitePage /patrulla-fronteriza-se-declara-en-alerta-para-rescatar-a-migrantes-victimas-de-las-bajas-temperaturas": {
-      "layout": "index",
-      "jsonName": "patrulla-fronteriza-se-declara-en-alerta-para-rescatar-a-migrantes-victimas-de-las-bajas-temperaturas.json",
-      "internalComponentName": "ComponentPatrullaFronterizaSeDeclaraEnAlertaParaRescatarAMigrantesVictimasDeLasBajasTemperaturas",
-      "path": "/patrulla-fronteriza-se-declara-en-alerta-para-rescatar-a-migrantes-victimas-de-las-bajas-temperaturas",
-      "component": "/Users/juanjorge/Developer/gatsby-test-with-source-data/src/layouts/data.js",
-      "componentChunkName": "component---src-layouts-data-js",
-      "context": {
-        "slug": "00000160-766e-dadb-a1f0-7e6e49ba0000",
-        "node": {
-          "id": "00000160-766e-dadb-a1f0-7e6e49ba0000",
-          "publishDate": "2017-12-20T19:10:00-05:00",
-          "title": "Patrulla Fronteriza se declara en alerta para rescatar a migrantes víctimas de las bajas temperaturas",
-          "widget": "",
-          "shortTitle": "Patrulla Fronteriza se declara en alerta para rescatar a migrantes víctimas de las bajas temperaturas",
-          "description": "De acuerdo con agentes, las temperaturas en el desierto pueden llegar a niveles muy bajos y los inmigrantes no utilizan la ropa adecuada.",
-          "images": {
-            "original": {
-              "href": "https://cdn4.uvnimg.com/1f/ab/adb378c84d32b2286903b660b6e2/122017-azpm1-2.jpg",
-              "width": 1559,
-              "height": 799
-            }
-          },
-          "children": [],
-          "parent": "00000160-766e-dadb-a1f0-7e6e49ba0000",
-          "internal": {
-            "type": "Video",
-            "mediaType": "application/json",
-            "contentDigest": "380f02118612f1fda03281e431dcbb8c"
-          }
-        }
-      },
-      "updatedAt": 1513826354184,
-      "pluginCreator___NODE": "Plugin default-site-plugin",
-      "pluginCreatorId": "Plugin default-site-plugin",
-      "componentPath": "/Users/juanjorge/Developer/gatsby-test-with-source-data/src/layouts/data.js",
-      "id": "SitePage /patrulla-fronteriza-se-declara-en-alerta-para-rescatar-a-migrantes-victimas-de-las-bajas-temperaturas",
-      "parent": "SOURCE",
-      "children": [],
-      "internal": {
-        "type": "SitePage",
-        "contentDigest": "b319ebe72372959c6ea79b1926be72a2",
-        "owner": "internal-data-bridge"
-      }
-    },
-    "SitePage /aunque-california-se-estrenara-en-enero-como-estado-santuario-uno-de-sus-condados-ya-se-adelanto-para-proteger-a-indocumentados": {
-      "layout": "index",
-      "jsonName": "aunque-california-se-estrenara-en-enero-como-estado-santuario-uno-de-sus-condados-ya-se-adelanto-para-proteger-a-indocumentados.json",
-      "internalComponentName": "ComponentAunqueCaliforniaSeEstrenaraEnEneroComoEstadoSantuarioUnoDeSusCondadosYaSeAdelantoParaProtegerAIndocumentados",
-      "path": "/aunque-california-se-estrenara-en-enero-como-estado-santuario-uno-de-sus-condados-ya-se-adelanto-para-proteger-a-indocumentados",
-      "component": "/Users/juanjorge/Developer/gatsby-test-with-source-data/src/layouts/data.js",
-      "componentChunkName": "component---src-layouts-data-js",
-      "context": {
-        "slug": "00000160-7677-dadb-a1f0-7e7f9f160000",
-        "node": {
-          "id": "00000160-7677-dadb-a1f0-7e7f9f160000",
-          "publishDate": "2017-12-20T18:52:00-05:00",
-          "title": "Aunque California se estrenará en enero como estado santuario, uno de sus condados ya se adelantó para proteger a indocumentados",
-          "widget": "",
-          "shortTitle": "Aunque California se estrenará en enero como estado santuario, uno de sus condados ya se adelantó para proteger a indocumentados",
-          "description": "A partir de la próxima semana en el condado de Monterrey ya no serán bienvenidos los agentes de inmigración en la cárcel. Con esta medida buscan restablecer la confianza de quienes no reportan delitos por miedo a la policía.",
-          "images": {
-            "original": {
-              "href": "https://cdn4.uvnimg.com/4c/b9/2da166cb41788465d42aa8d8727d/9ff18c9f85e14a979414458900c2c0a3",
-              "width": 1920,
-              "height": 1080
-            }
-          },
-          "children": [],
-          "parent": "00000160-7677-dadb-a1f0-7e7f9f160000",
-          "internal": {
-            "type": "Video",
-            "mediaType": "application/json",
-            "contentDigest": "4092065fa8b24fa44770e7b075a0ab75"
-          }
-        }
-      },
-      "updatedAt": 1513826354185,
-      "pluginCreator___NODE": "Plugin default-site-plugin",
-      "pluginCreatorId": "Plugin default-site-plugin",
-      "componentPath": "/Users/juanjorge/Developer/gatsby-test-with-source-data/src/layouts/data.js",
-      "id": "SitePage /aunque-california-se-estrenara-en-enero-como-estado-santuario-uno-de-sus-condados-ya-se-adelanto-para-proteger-a-indocumentados",
-      "parent": "SOURCE",
-      "children": [],
-      "internal": {
-        "type": "SitePage",
-        "contentDigest": "5fc329c3973ab82385d4e12d1360d05a",
-        "owner": "internal-data-bridge"
-      }
-    },
-    "SitePage /40-artistas-piden-a-los-democratas-proteger-a-los-dreamers": {
-      "layout": "index",
-      "jsonName": "40-artistas-piden-a-los-democratas-proteger-a-los-dreamers.json",
-      "internalComponentName": "Component40ArtistasPidenALosDemocratasProtegerALosDreamers",
-      "path": "/40-artistas-piden-a-los-democratas-proteger-a-los-dreamers",
-      "component": "/Users/juanjorge/Developer/gatsby-test-with-source-data/src/layouts/data.js",
-      "componentChunkName": "component---src-layouts-data-js",
-      "context": {
-        "slug": "00000160-764b-dd32-ad6c-7e7f09f50000",
-        "node": {
-          "id": "00000160-764b-dd32-ad6c-7e7f09f50000",
-          "publishDate": "2017-12-20T19:11:29-05:00",
-          "title": "40 artistas piden a los demócratas proteger a los dreamers",
-          "widget": "",
-          "shortTitle": "40 artistas piden a los demócratas proteger a los dreamers",
-          "description": "\"Este es un problema moral que exige acción, sin más demora. Los dreamers y los destinatarios de DACA son una parte integral de nuestro país, por lo que le instamos que se aseguren de utilizar su poder para hacer esto antes de irse de vacaciones con su familia\", dice la carta dirigida a Charles Schumer y Nancy Pelosi.",
-          "images": {
-            "original": {
-              "href": "https://cdn3.uvnimg.com/42/bc/254bcfc74adc94e50bbd8db57a4b/america-getty.jpg",
-              "width": 3101,
-              "height": 4557
-            }
-          },
-          "children": [],
-          "parent": "00000160-764b-dd32-ad6c-7e7f09f50000",
-          "internal": {
-            "type": "Article",
-            "mediaType": "application/json",
-            "contentDigest": "ec82bc94c408478cfd8f36983c850bbe"
-          }
-        }
-      },
-      "updatedAt": 1513826354186,
-      "pluginCreator___NODE": "Plugin default-site-plugin",
-      "pluginCreatorId": "Plugin default-site-plugin",
-      "componentPath": "/Users/juanjorge/Developer/gatsby-test-with-source-data/src/layouts/data.js",
-      "id": "SitePage /40-artistas-piden-a-los-democratas-proteger-a-los-dreamers",
-      "parent": "SOURCE",
-      "children": [],
-      "internal": {
-        "type": "SitePage",
-        "contentDigest": "b5539503ab41d62df6848006d6b10a55",
-        "owner": "internal-data-bridge"
-      }
-    },
-    "SitePage /la-angustia-sobre-el-futuro-de-800-000-dreamers-se-prolongara-hasta-enero": {
-      "layout": "index",
-      "jsonName": "la-angustia-sobre-el-futuro-de-800-000-dreamers-se-prolongara-hasta-enero.json",
-      "internalComponentName": "ComponentLaAngustiaSobreElFuturoDe800000DreamersSeProlongaraHastaEnero",
-      "path": "/la-angustia-sobre-el-futuro-de-800-000-dreamers-se-prolongara-hasta-enero",
-      "component": "/Users/juanjorge/Developer/gatsby-test-with-source-data/src/layouts/data.js",
-      "componentChunkName": "component---src-layouts-data-js",
-      "context": {
-        "slug": "00000160-7660-dadb-a1f0-7e6e8ba80000",
-        "node": {
-          "id": "00000160-7660-dadb-a1f0-7e6e8ba80000",
-          "publishDate": "2017-12-20T18:42:00-05:00",
-          "title": "La angustia sobre el futuro de 800,000 dreamers se prolongará hasta enero",
-          "widget": "",
-          "shortTitle": "La angustia sobre el futuro de 800,000 dreamers se prolongará hasta enero",
-          "description": "El senador republicano Jeff Flake dijo que en enero votarán sobre un proyecto de ley que protegería a quienes tienen DACA. El senador demócrata Dick Durbin mostró su preocupación tras reunirse con John Kelly y senadores de ambos partidos.",
-          "images": {
-            "original": {
-              "href": "https://cdn4.uvnimg.com/17/e6/c5e5c94948f396bb2cb89dfd2fb4/79dd29d2b1d24e6b959694c269e17c84",
-              "width": 1920,
-              "height": 1080
-            }
-          },
-          "children": [],
-          "parent": "00000160-7660-dadb-a1f0-7e6e8ba80000",
-          "internal": {
-            "type": "Video",
-            "mediaType": "application/json",
-            "contentDigest": "0cfbbb51a0193357cb0d2e4a516a8696"
-          }
-        }
-      },
-      "updatedAt": 1513826354189,
-      "pluginCreator___NODE": "Plugin default-site-plugin",
-      "pluginCreatorId": "Plugin default-site-plugin",
-      "componentPath": "/Users/juanjorge/Developer/gatsby-test-with-source-data/src/layouts/data.js",
-      "id": "SitePage /la-angustia-sobre-el-futuro-de-800-000-dreamers-se-prolongara-hasta-enero",
-      "parent": "SOURCE",
-      "children": [],
-      "internal": {
-        "type": "SitePage",
-        "contentDigest": "7b7dcb6f7ffb5b71afd43cd4c80ba7cc",
-        "owner": "internal-data-bridge"
-      }
-    },
-    "SitePage /perdida-de-identidad-latina-11-de-los-estadounidenses-con-ese-origen-no-se-identifica-como-hispano": {
-      "layout": "index",
-      "jsonName": "perdida-de-identidad-latina-11-de-los-estadounidenses-con-ese-origen-no-se-identifica-como-hispano.json",
-      "internalComponentName": "ComponentPerdidaDeIdentidadLatina11DeLosEstadounidensesConEseOrigenNoSeIdentificaComoHispano",
-      "path": "/perdida-de-identidad-latina-11-de-los-estadounidenses-con-ese-origen-no-se-identifica-como-hispano",
-      "component": "/Users/juanjorge/Developer/gatsby-test-with-source-data/src/layouts/data.js",
-      "componentChunkName": "component---src-layouts-data-js",
-      "context": {
-        "slug": "00000160-74d0-d98e-a5f7-f7f8b9950000",
-        "node": {
-          "id": "00000160-74d0-d98e-a5f7-f7f8b9950000",
-          "publishDate": "2017-12-20T12:05:34-05:00",
-          "title": "Pérdida de identidad latina: 11% de los estadounidenses con ese origen no se identifica como hispano",
-          "widget": "",
-          "shortTitle": "Pérdida de identidad latina: 11% de los estadounidenses con ese origen no se identifica como hispano",
-          "description": "Una investigación del Centro Pew revela que unos 5 millones de estadounidenses de origen hispano no se identifica con esa cultura, pese a tener al menos un ancestro en su familia.",
-          "images": {
-            "original": {
-              "href": "https://cdn3.uvnimg.com/59/21/5d9542104846857b2d71cfb3a25b/hispanos-getty.jpg",
-              "width": 594,
-              "height": 396
-            }
-          },
-          "children": [],
-          "parent": "00000160-74d0-d98e-a5f7-f7f8b9950000",
-          "internal": {
-            "type": "Article",
-            "mediaType": "application/json",
-            "contentDigest": "0977b67b057a494d9b3692b45cd04bca"
-          }
-        }
-      },
-      "updatedAt": 1513826354192,
-      "pluginCreator___NODE": "Plugin default-site-plugin",
-      "pluginCreatorId": "Plugin default-site-plugin",
-      "componentPath": "/Users/juanjorge/Developer/gatsby-test-with-source-data/src/layouts/data.js",
-      "id": "SitePage /perdida-de-identidad-latina-11-de-los-estadounidenses-con-ese-origen-no-se-identifica-como-hispano",
-      "parent": "SOURCE",
-      "children": [],
-      "internal": {
-        "type": "SitePage",
-        "contentDigest": "4ad003fecf74fe6d104be5b797122c83",
+        "contentDigest": "fadcd47dc730de6fba49c8611f87ce9b",
         "owner": "internal-data-bridge"
       }
     },
@@ -1176,7 +1266,7 @@
           }
         }
       },
-      "updatedAt": 1513826354193,
+      "updatedAt": 1513856441178,
       "pluginCreator___NODE": "Plugin default-site-plugin",
       "pluginCreatorId": "Plugin default-site-plugin",
       "componentPath": "/Users/juanjorge/Developer/gatsby-test-with-source-data/src/layouts/data.js",
@@ -1185,7 +1275,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "d78bbbd45987a6e4db05c15654b3d044",
+        "contentDigest": "f97fc60549a03a73143411d3e782c324",
         "owner": "internal-data-bridge"
       }
     },
@@ -1221,7 +1311,7 @@
           }
         }
       },
-      "updatedAt": 1513826354194,
+      "updatedAt": 1513856441179,
       "pluginCreator___NODE": "Plugin default-site-plugin",
       "pluginCreatorId": "Plugin default-site-plugin",
       "componentPath": "/Users/juanjorge/Developer/gatsby-test-with-source-data/src/layouts/data.js",
@@ -1230,7 +1320,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "ca5adf24b93d9505003e647e7c50d4ce",
+        "contentDigest": "6147435928b1dd3c60b53858b401c302",
         "owner": "internal-data-bridge"
       }
     },
@@ -1266,7 +1356,7 @@
           }
         }
       },
-      "updatedAt": 1513826354195,
+      "updatedAt": 1513856441181,
       "pluginCreator___NODE": "Plugin default-site-plugin",
       "pluginCreatorId": "Plugin default-site-plugin",
       "componentPath": "/Users/juanjorge/Developer/gatsby-test-with-source-data/src/layouts/data.js",
@@ -1275,7 +1365,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "ac0cddfc5ac5e4ea928a1e18ce87212e",
+        "contentDigest": "13a9f12733d1692f471da3a9985a9500",
         "owner": "internal-data-bridge"
       }
     },
@@ -1311,7 +1401,7 @@
           }
         }
       },
-      "updatedAt": 1513826354196,
+      "updatedAt": 1513856441182,
       "pluginCreator___NODE": "Plugin default-site-plugin",
       "pluginCreatorId": "Plugin default-site-plugin",
       "componentPath": "/Users/juanjorge/Developer/gatsby-test-with-source-data/src/layouts/data.js",
@@ -1320,52 +1410,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "ce38586f08032716e90f1c15a028b7da",
-        "owner": "internal-data-bridge"
-      }
-    },
-    "SitePage /khloe-kardashian-confirma-que-si-esta-embarazada-kylie-jenner-aun-no-dice-ni-pio": {
-      "layout": "index",
-      "jsonName": "khloe-kardashian-confirma-que-si-esta-embarazada-kylie-jenner-aun-no-dice-ni-pio.json",
-      "internalComponentName": "ComponentKhloeKardashianConfirmaQueSiEstaEmbarazadaKylieJennerAunNoDiceNiPio",
-      "path": "/khloe-kardashian-confirma-que-si-esta-embarazada-kylie-jenner-aun-no-dice-ni-pio",
-      "component": "/Users/juanjorge/Developer/gatsby-test-with-source-data/src/layouts/data.js",
-      "componentChunkName": "component---src-layouts-data-js",
-      "context": {
-        "slug": "00000160-7640-dd32-ad6c-7e75c1ac0000",
-        "node": {
-          "id": "00000160-7640-dd32-ad6c-7e75c1ac0000",
-          "publishDate": "2017-12-20T19:21:30-05:00",
-          "title": "Khloe Kardashian confirma que sí está embarazada... Kylie Jenner aún no dice ni pío",
-          "widget": "",
-          "shortTitle": "Khloe Kardashian confirma que sí está embarazada... Kylie Jenner aún no dice ni pío",
-          "description": "Faltando cinco días para la celebración de la Navidad, la tercera hija de Kris Jenner rompió el silencio y compartió las buenas nuevas con sus más de 70 millones de seguidores en Instagram.",
-          "images": {
-            "original": {
-              "href": "https://cdn4.uvnimg.com/df/6d/4adf20f14ea39c228fdabee6026b/khloebaby.jpg",
-              "width": 1342,
-              "height": 760
-            }
-          },
-          "children": [],
-          "parent": "00000160-7640-dd32-ad6c-7e75c1ac0000",
-          "internal": {
-            "type": "Article",
-            "mediaType": "application/json",
-            "contentDigest": "d9107373c6cd6abb185b9ff942abeb3d"
-          }
-        }
-      },
-      "updatedAt": 1513826354198,
-      "pluginCreator___NODE": "Plugin default-site-plugin",
-      "pluginCreatorId": "Plugin default-site-plugin",
-      "componentPath": "/Users/juanjorge/Developer/gatsby-test-with-source-data/src/layouts/data.js",
-      "id": "SitePage /khloe-kardashian-confirma-que-si-esta-embarazada-kylie-jenner-aun-no-dice-ni-pio",
-      "parent": "SOURCE",
-      "children": [],
-      "internal": {
-        "type": "SitePage",
-        "contentDigest": "4e986183d8cdd39092d48ec527546d6c",
+        "contentDigest": "6a0108791ee7ad6990abbb3ed611c0cc",
         "owner": "internal-data-bridge"
       }
     },
@@ -1377,7 +1422,7 @@
       "component": "/Users/juanjorge/Developer/gatsby-test-with-source-data/src/pages/404.js",
       "componentChunkName": "component---src-pages-404-js",
       "context": {},
-      "updatedAt": 1513826354240,
+      "updatedAt": 1513856441232,
       "pluginCreator___NODE": "Plugin component-page-creator",
       "pluginCreatorId": "Plugin component-page-creator",
       "componentPath": "/Users/juanjorge/Developer/gatsby-test-with-source-data/src/pages/404.js",
@@ -1386,7 +1431,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "a2ee952d4cbd8febe2aa1dab73558f3d",
+        "contentDigest": "e9703dfcddc78561fd80cf0cc321006e",
         "owner": "internal-data-bridge"
       }
     },
@@ -1398,7 +1443,7 @@
       "component": "/Users/juanjorge/Developer/gatsby-test-with-source-data/src/pages/feed-watch.js",
       "componentChunkName": "component---src-pages-feed-watch-js",
       "context": {},
-      "updatedAt": 1513826354241,
+      "updatedAt": 1513856441233,
       "pluginCreator___NODE": "Plugin component-page-creator",
       "pluginCreatorId": "Plugin component-page-creator",
       "componentPath": "/Users/juanjorge/Developer/gatsby-test-with-source-data/src/pages/feed-watch.js",
@@ -1407,7 +1452,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "600187b6f5d2338ce45f7ef9fd39b76f",
+        "contentDigest": "383eca98aaa37fbf73a2616730682783",
         "owner": "internal-data-bridge"
       }
     },
@@ -1419,7 +1464,7 @@
       "component": "/Users/juanjorge/Developer/gatsby-test-with-source-data/src/pages/index.js",
       "componentChunkName": "component---src-pages-index-js",
       "context": {},
-      "updatedAt": 1513826354242,
+      "updatedAt": 1513856441236,
       "pluginCreator___NODE": "Plugin component-page-creator",
       "pluginCreatorId": "Plugin component-page-creator",
       "componentPath": "/Users/juanjorge/Developer/gatsby-test-with-source-data/src/pages/index.js",
@@ -1428,7 +1473,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "69de463ef4eabb1007f02fdb50457a43",
+        "contentDigest": "c506bc32e28fd6e5abe8dc2335bcb357",
         "owner": "internal-data-bridge"
       }
     },
@@ -1440,7 +1485,7 @@
       "component": "/Users/juanjorge/Developer/gatsby-test-with-source-data/src/pages/404.js",
       "componentChunkName": "component---src-pages-404-js",
       "context": {},
-      "updatedAt": 1513826354247,
+      "updatedAt": 1513856441245,
       "pluginCreator___NODE": "Plugin prod-404",
       "pluginCreatorId": "Plugin prod-404",
       "componentPath": "/Users/juanjorge/Developer/gatsby-test-with-source-data/src/pages/404.js",
@@ -1449,14 +1494,14 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "2d7ab2ffd9e8f5bcd4a61694e6e97628",
+        "contentDigest": "98b2037136bb0ebb0bb553a58c360f82",
         "owner": "internal-data-bridge"
       }
     }
   },
   "status": {
     "plugins": {},
-    "PLUGINS_HASH": "969e24f6ebb62e53fa289b54cb0eca66"
+    "PLUGINS_HASH": "33cdd82a1bae6f6d0539124c9565ff58"
   },
   "componentDataDependencies": {
     "nodes": {},

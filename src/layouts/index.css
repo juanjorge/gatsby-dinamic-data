@@ -132,6 +132,12 @@ button,
 select {
   text-transform: none;
 }
+.textinput
+{
+  width: 100%;
+  padding: 6px;
+  margin-bottom: 5px;
+}
 [type=reset],
 [type=submit],
 button,
@@ -151,6 +157,18 @@ button:hover,
 html [type=button]:hover
 {
   background-color: #ccc;
+}
+[type=reset]:active,
+[type=submit]:active,
+button:active,
+html [type=button]:active
+{
+  background-color: #999;
+}
+[type=button][disabled]
+{
+  color: #bbb;
+  border: 1px solid #bbb;
 }
 [type=button][disabled]:hover
 {
