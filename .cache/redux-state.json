@@ -8,7 +8,7 @@
       "component": "/Users/juanjorge/Developer/gatsby-test-with-source-data/.cache/dev-404-page.js",
       "componentChunkName": "component---cache-dev-404-page-js",
       "context": {},
-      "updatedAt": 1513781836204,
+      "updatedAt": 1513826126523,
       "pluginCreator___NODE": "Plugin dev-404-page",
       "pluginCreatorId": "Plugin dev-404-page",
       "componentPath": "/Users/juanjorge/Developer/gatsby-test-with-source-data/.cache/dev-404-page.js",
@@ -17,7 +17,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "80b4818fa4420facbc477e73ea6a9cd3",
+        "contentDigest": "52b079266d8a15488d21324eb702e3fd",
         "owner": "internal-data-bridge"
       }
     },
@@ -287,7 +287,7 @@
       "resolve": "/Users/juanjorge/Developer/gatsby-test-with-source-data",
       "id": "Plugin default-site-plugin",
       "name": "default-site-plugin",
-      "version": "0d14a480a8f0bcaf68dbb80c39eb5afc",
+      "version": "1c9269d9936760288cb919cbc1a904a5",
       "pluginOptions": {
         "plugins": []
       },
@@ -356,7 +356,7 @@
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "6b25cb5f149e9c6633e6a95f61051f8d",
+        "contentDigest": "ad3664bdbeb713538a73407792fcb116",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
@@ -369,463 +369,103 @@
       "host": "localhost",
       "pathPrefix": "",
       "polyfill": true,
-      "buildTime": "2017-12-20T14:57:10.101Z",
+      "buildTime": "2017-12-21T03:15:22.858Z",
       "id": "Site",
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "f4af4004fd1d79d63a8a0869272bb082",
+        "contentDigest": "b16cae4de8ebd5e56a8a3b9b510d4523",
         "type": "Site",
         "owner": "internal-data-bridge"
       }
     },
-    "SitePage /con-buenas-nuevas-llego-el-angel-de-la-justicia-para-este-padre-inmigrante-que-fue-detenido-por-ice": {
+    "SitePage /cuando-puedo-acceder-a-becas-para-carreras-stem": {
       "layout": "index",
-      "jsonName": "con-buenas-nuevas-llego-el-angel-de-la-justicia-para-este-padre-inmigrante-que-fue-detenido-por-ice.json",
-      "internalComponentName": "ComponentConBuenasNuevasLlegoElAngelDeLaJusticiaParaEstePadreInmigranteQueFueDetenidoPorIce",
-      "path": "/con-buenas-nuevas-llego-el-angel-de-la-justicia-para-este-padre-inmigrante-que-fue-detenido-por-ice",
+      "jsonName": "cuando-puedo-acceder-a-becas-para-carreras-stem.json",
+      "internalComponentName": "ComponentCuandoPuedoAccederABecasParaCarrerasStem",
+      "path": "/cuando-puedo-acceder-a-becas-para-carreras-stem",
       "component": "/Users/juanjorge/Developer/gatsby-test-with-source-data/src/layouts/data.js",
       "componentChunkName": "component---src-layouts-data-js",
       "context": {
-        "slug": "00000160-7443-dadb-a1f0-7e6fdaba0000",
+        "slug": "00000160-74af-d98e-a5f7-f7ef99900000",
         "node": {
-          "id": "00000160-7443-dadb-a1f0-7e6fdaba0000",
-          "publishDate": "2017-12-20T08:42:00-05:00",
-          "title": "Con buenas nuevas llegó el Ángel de la Justicia para este padre inmigrante que fue detenido por ICE",
+          "id": "00000160-74af-d98e-a5f7-f7ef99900000",
+          "publishDate": "2017-12-20T11:09:56-05:00",
+          "title": "¿Cuándo puedo acceder a becas para carreras STEM?",
           "widget": "",
-          "shortTitle": "Con buenas nuevas llegó el Ángel de la Justicia para este padre inmigrante que fue detenido por ICE",
-          "description": "El señor José fue detenido hace un tiempo por agentes de ICE, y confiesa haber tenido mucho miedo y angustia por no poder ver a su esposa e hijas. Por eso ahora la abogada Jessica Domínguez llegó con una luz de esperanza para que ya no tema más.",
+          "shortTitle": "¿Cuándo puedo acceder a becas para carreras STEM?",
+          "description": "Muchas organizaciones te dan la oportunidad de estudiar carreras STEM como Ciencias y Matemáticas. Mira las fechas límite",
           "images": {
             "original": {
-              "href": "https://cdn1.uvnimg.com/12/27/6e75e08b47d39cae4a77e2ba0f3e/9d666950ec114a27a622c4af76fa5c18",
-              "width": 1920,
-              "height": 1080
+              "href": "https://cdn4.uvnimg.com/82/3a/6ef77aee4b99b372a36f74b410ce/img-4996.JPG",
+              "width": 3264,
+              "height": 2448
             }
           },
           "children": [],
-          "parent": "00000160-7443-dadb-a1f0-7e6fdaba0000",
-          "internal": {
-            "type": "Video",
-            "mediaType": "application/json",
-            "contentDigest": "d2cb8bcc9c8d50132a772a3c553a0662"
-          }
-        }
-      },
-      "updatedAt": 1513781836816,
-      "pluginCreator___NODE": "Plugin default-site-plugin",
-      "pluginCreatorId": "Plugin default-site-plugin",
-      "componentPath": "/Users/juanjorge/Developer/gatsby-test-with-source-data/src/layouts/data.js",
-      "id": "SitePage /con-buenas-nuevas-llego-el-angel-de-la-justicia-para-este-padre-inmigrante-que-fue-detenido-por-ice",
-      "parent": "SOURCE",
-      "children": [],
-      "internal": {
-        "type": "SitePage",
-        "contentDigest": "6c7591a34a175cf8ea3396774692e58e",
-        "owner": "internal-data-bridge"
-      }
-    },
-    "SitePage /el-primer-dreamer-deportado-en-el-gobierno-trump-puede-perder-la-posibilidad-de-reingresar-a-eeuu": {
-      "layout": "index",
-      "jsonName": "el-primer-dreamer-deportado-en-el-gobierno-trump-puede-perder-la-posibilidad-de-reingresar-a-eeuu.json",
-      "internalComponentName": "ComponentElPrimerDreamerDeportadoEnElGobiernoTrumpPuedePerderLaPosibilidadDeReingresarAEeuu",
-      "path": "/el-primer-dreamer-deportado-en-el-gobierno-trump-puede-perder-la-posibilidad-de-reingresar-a-eeuu",
-      "component": "/Users/juanjorge/Developer/gatsby-test-with-source-data/src/layouts/data.js",
-      "componentChunkName": "component---src-layouts-data-js",
-      "context": {
-        "slug": "00000160-7424-dadb-a1f0-7e6e4cfa0000",
-        "node": {
-          "id": "00000160-7424-dadb-a1f0-7e6e4cfa0000",
-          "publishDate": "2017-12-20T08:24:00-05:00",
-          "title": "El primer dreamer deportado en el gobierno Trump puede perder la posibilidad de reingresar a EEUU",
-          "widget": "",
-          "shortTitle": "El primer dreamer deportado en el gobierno Trump puede perder la posibilidad de reingresar a EEUU",
-          "description": "Juan Manuel Montes cometió el error de cruzar la frontera de manera ilegal y fue detenido por Inmigración, que le imputó cargos de delito menor. Abogados aseguran que con dichos antecedentes es muy difícil que este hispano pueda ser admitido en el país.",
-          "images": {
-            "original": {
-              "href": "https://cdn2.uvnimg.com/68/40/9c63135a4a0384465c56881138ad/d6162abb007b44de88fca42580808984",
-              "width": 1920,
-              "height": 1080
-            }
-          },
-          "children": [],
-          "parent": "00000160-7424-dadb-a1f0-7e6e4cfa0000",
-          "internal": {
-            "type": "Video",
-            "mediaType": "application/json",
-            "contentDigest": "5d10fcc1abb6642b6a367ba92dcbf48e"
-          }
-        }
-      },
-      "updatedAt": 1513781836817,
-      "pluginCreator___NODE": "Plugin default-site-plugin",
-      "pluginCreatorId": "Plugin default-site-plugin",
-      "componentPath": "/Users/juanjorge/Developer/gatsby-test-with-source-data/src/layouts/data.js",
-      "id": "SitePage /el-primer-dreamer-deportado-en-el-gobierno-trump-puede-perder-la-posibilidad-de-reingresar-a-eeuu",
-      "parent": "SOURCE",
-      "children": [],
-      "internal": {
-        "type": "SitePage",
-        "contentDigest": "f5e28c9b7d52fb26b2183717b5f80192",
-        "owner": "internal-data-bridge"
-      }
-    },
-    "SitePage /republicanos-y-democratas-no-esperan-ningun-acuerdo-para-proteger-a-los-dreamers-antes-de-que-finalice-el-ano": {
-      "layout": "index",
-      "jsonName": "republicanos-y-democratas-no-esperan-ningun-acuerdo-para-proteger-a-los-dreamers-antes-de-que-finalice-el-ano.json",
-      "internalComponentName": "ComponentRepublicanosYDemocratasNoEsperanNingunAcuerdoParaProtegerALosDreamersAntesDeQueFinaliceElAno",
-      "path": "/republicanos-y-democratas-no-esperan-ningun-acuerdo-para-proteger-a-los-dreamers-antes-de-que-finalice-el-ano",
-      "component": "/Users/juanjorge/Developer/gatsby-test-with-source-data/src/layouts/data.js",
-      "componentChunkName": "component---src-layouts-data-js",
-      "context": {
-        "slug": "00000160-708f-d760-adea-7b8fb9320000",
-        "node": {
-          "id": "00000160-708f-d760-adea-7b8fb9320000",
-          "publishDate": "2017-12-19T17:03:51-05:00",
-          "title": "Republicanos y demócratas no esperan ningún acuerdo para proteger a los dreamers antes de que finalice el año",
-          "widget": "",
-          "shortTitle": "Republicanos y demócratas no esperan ningún acuerdo para proteger a los dreamers ",
-          "description": "Legisladores de ambos partidos reconocen que las negociaciones se encuentran en un punto muerto y contemplan ya retomar las conversaciones a principios del 2018. Un grupo de senadores se reunió este martes con el jefe de gabinete de la Casa Blanca, John Kelly, para trabajar sobre un acuerdo que podría legar en enero, según Politico.",
-          "images": {
-            "original": {
-              "href": "https://cdn2.uvnimg.com/61/f2/74397fd74fc38074b578bdd54ee1/gettyimages-887139994.jpg",
-              "width": 3000,
-              "height": 2123
-            }
-          },
-          "children": [],
-          "parent": "00000160-708f-d760-adea-7b8fb9320000",
+          "parent": "00000160-74af-d98e-a5f7-f7ef99900000",
           "internal": {
             "type": "Article",
             "mediaType": "application/json",
-            "contentDigest": "bdbc84a60d286ba6bb5050002c5cd678"
+            "contentDigest": "15a7c3583c2618122be4de8b2b49848e"
           }
         }
       },
-      "updatedAt": 1513781836818,
+      "updatedAt": 1513826127847,
       "pluginCreator___NODE": "Plugin default-site-plugin",
       "pluginCreatorId": "Plugin default-site-plugin",
       "componentPath": "/Users/juanjorge/Developer/gatsby-test-with-source-data/src/layouts/data.js",
-      "id": "SitePage /republicanos-y-democratas-no-esperan-ningun-acuerdo-para-proteger-a-los-dreamers-antes-de-que-finalice-el-ano",
+      "id": "SitePage /cuando-puedo-acceder-a-becas-para-carreras-stem",
       "parent": "SOURCE",
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "1142e4e67c40e2603461271478634f9e",
+        "contentDigest": "8846a3b73ba0b2e2cbb7e04fdad326c3",
         "owner": "internal-data-bridge"
       }
     },
-    "SitePage /esta-joven-le-pide-a-santa-por-el-tps-de-sus-padres": {
+    "SitePage /aprende-a-hacer-tamales-mexicanos-con-esta-sencilla-receta": {
       "layout": "index",
-      "jsonName": "esta-joven-le-pide-a-santa-por-el-tps-de-sus-padres.json",
-      "internalComponentName": "ComponentEstaJovenLePideASantaPorElTpsDeSusPadres",
-      "path": "/esta-joven-le-pide-a-santa-por-el-tps-de-sus-padres",
+      "jsonName": "aprende-a-hacer-tamales-mexicanos-con-esta-sencilla-receta.json",
+      "internalComponentName": "ComponentAprendeAHacerTamalesMexicanosConEstaSencillaReceta",
+      "path": "/aprende-a-hacer-tamales-mexicanos-con-esta-sencilla-receta",
       "component": "/Users/juanjorge/Developer/gatsby-test-with-source-data/src/layouts/data.js",
       "componentChunkName": "component---src-layouts-data-js",
       "context": {
-        "slug": "00000160-72a5-da48-ab73-72a7f0f60000",
+        "slug": "00000160-747e-dadb-a1f0-7e7e024c0000",
         "node": {
-          "id": "00000160-72a5-da48-ab73-72a7f0f60000",
-          "publishDate": "2017-12-19T19:18:00-05:00",
-          "title": "Esta joven le pide a Santa por el TPS de sus padres",
+          "id": "00000160-747e-dadb-a1f0-7e7e024c0000",
+          "publishDate": "2017-12-20T10:01:00-05:00",
+          "title": "Aprende a hacer tamales mexicanos con esta sencilla receta",
           "widget": "",
-          "shortTitle": "Esta joven le pide a Santa por el TPS de sus padres",
-          "description": "Keyly Tejado de 11 años de edad busca apoyar a sus padres y busca pedir a congresistas que ayuden a los beneficiarios del TPS.",
+          "shortTitle": "Aprende a hacer tamales mexicanos con esta sencilla receta",
+          "description": "El chef Juan Mondragón nos comparte sus secretos para lograr preparan este delicioso plato, que no puede faltar en época navideña. Toma nota de los pasos a seguir.",
           "images": {
             "original": {
-              "href": "https://cdn2.uvnimg.com/6c/36/10621cb946d88cd06b6c6a893e60/15319f77ba6946a99e30f0948f1b1e5a",
-              "width": 1280,
-              "height": 720
-            }
-          },
-          "children": [],
-          "parent": "00000160-72a5-da48-ab73-72a7f0f60000",
-          "internal": {
-            "type": "Video",
-            "mediaType": "application/json",
-            "contentDigest": "1f90c41bc0a635c9278322c22e0fdf19"
-          }
-        }
-      },
-      "updatedAt": 1513781836819,
-      "pluginCreator___NODE": "Plugin default-site-plugin",
-      "pluginCreatorId": "Plugin default-site-plugin",
-      "componentPath": "/Users/juanjorge/Developer/gatsby-test-with-source-data/src/layouts/data.js",
-      "id": "SitePage /esta-joven-le-pide-a-santa-por-el-tps-de-sus-padres",
-      "parent": "SOURCE",
-      "children": [],
-      "internal": {
-        "type": "SitePage",
-        "contentDigest": "f883156a554717d1f59bc67e9aa28eae",
-        "owner": "internal-data-bridge"
-      }
-    },
-    "SitePage /el-proceso-que-debe-seguir-un-ciudadano-o-residente-permanente-al-solicitar-el-cambio-de-estado-de-un-familiar": {
-      "layout": "index",
-      "jsonName": "el-proceso-que-debe-seguir-un-ciudadano-o-residente-permanente-al-solicitar-el-cambio-de-estado-de-un-familiar.json",
-      "internalComponentName": "ComponentElProcesoQueDebeSeguirUnCiudadanoOResidentePermanenteAlSolicitarElCambioDeEstadoDeUnFamiliar",
-      "path": "/el-proceso-que-debe-seguir-un-ciudadano-o-residente-permanente-al-solicitar-el-cambio-de-estado-de-un-familiar",
-      "component": "/Users/juanjorge/Developer/gatsby-test-with-source-data/src/layouts/data.js",
-      "componentChunkName": "component---src-layouts-data-js",
-      "context": {
-        "slug": "00000160-7299-da48-ab73-729f6db00000",
-        "node": {
-          "id": "00000160-7299-da48-ab73-729f6db00000",
-          "publishDate": "2017-12-19T23:46:00-05:00",
-          "title": "El proceso que debe seguir un ciudadano o residente permanente al solicitar el cambio de estado de un familiar",
-          "widget": "",
-          "shortTitle": "El proceso a seguir de un ciudadano al solicitar el cambio de estado de un familiar",
-          "description": "Invitamos a una abogada experta en inmigración para que nos contara sobre los requisitos que debe llenar una persona en esta situación. Además, nos dijo por qué es tan importante para un residente permanente solicitar la ciudadanía.",
-          "images": {
-            "original": {
-              "href": "https://cdn1.uvnimg.com/fa/33/ef7fc392484bb8d25fff135be9bf/889c24e9a2dd48c98b15bfa959b31e74",
+              "href": "https://cdn1.uvnimg.com/40/e5/0a2ee46d43799a357648c6efece6/d2244dc1ca264e0d95eb06d0af33a791",
               "width": 1920,
               "height": 1080
             }
           },
           "children": [],
-          "parent": "00000160-7299-da48-ab73-729f6db00000",
+          "parent": "00000160-747e-dadb-a1f0-7e7e024c0000",
           "internal": {
             "type": "Video",
             "mediaType": "application/json",
-            "contentDigest": "2a53fa8cac7250d78a3507da0647497c"
+            "contentDigest": "74c9120a9d6dbeb793a74a6542e2571d"
           }
         }
       },
-      "updatedAt": 1513781836819,
+      "updatedAt": 1513826127848,
       "pluginCreator___NODE": "Plugin default-site-plugin",
       "pluginCreatorId": "Plugin default-site-plugin",
       "componentPath": "/Users/juanjorge/Developer/gatsby-test-with-source-data/src/layouts/data.js",
-      "id": "SitePage /el-proceso-que-debe-seguir-un-ciudadano-o-residente-permanente-al-solicitar-el-cambio-de-estado-de-un-familiar",
+      "id": "SitePage /aprende-a-hacer-tamales-mexicanos-con-esta-sencilla-receta",
       "parent": "SOURCE",
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "7e393c3b41f6dc359051b678fdb615a6",
-        "owner": "internal-data-bridge"
-      }
-    },
-    "SitePage /dreamers-protestan-en-illinois-para-pedir-soluciones-antes-de-que-finalice-el-periodo-de-sesiones-del-congreso": {
-      "layout": "index",
-      "jsonName": "dreamers-protestan-en-illinois-para-pedir-soluciones-antes-de-que-finalice-el-periodo-de-sesiones-del-congreso.json",
-      "internalComponentName": "ComponentDreamersProtestanEnIllinoisParaPedirSolucionesAntesDeQueFinaliceElPeriodoDeSesionesDelCongreso",
-      "path": "/dreamers-protestan-en-illinois-para-pedir-soluciones-antes-de-que-finalice-el-periodo-de-sesiones-del-congreso",
-      "component": "/Users/juanjorge/Developer/gatsby-test-with-source-data/src/layouts/data.js",
-      "componentChunkName": "component---src-layouts-data-js",
-      "context": {
-        "slug": "00000160-726f-da48-ab73-72efe00b0000",
-        "node": {
-          "id": "00000160-726f-da48-ab73-72efe00b0000",
-          "publishDate": "2017-12-19T23:47:00-05:00",
-          "title": "Dreamers protestan en Illinois para pedir soluciones antes de que finalice el período de sesiones del Congreso",
-          "widget": "",
-          "shortTitle": "Dreamers protestan para pedir soluciones antes de que finalice el período de sesiones del Congreso",
-          "description": "Decenas de personas que apoyan a beneficiarios de DACA se manifestaron frente a las oficinas de los senadores demócratas por Illinois Dick Durbin y Tammy Duckworth para instarlos a que soliciten en el Congreso que se vote el Dream Act antes del receso de fin de año. Las movilizaciones en Estados Unidos se intensificarán hasta el 22 de diciembre, fecha en la que los amparados esperan que se apruebe una medida de protección permanente.",
-          "images": {
-            "original": {
-              "href": "https://cdn3.uvnimg.com/81/fe/71c2604441ad937007dff0b12f71/f9d610c4b8d243149c27892c634c233a",
-              "width": 1920,
-              "height": 1080
-            }
-          },
-          "children": [],
-          "parent": "00000160-726f-da48-ab73-72efe00b0000",
-          "internal": {
-            "type": "Video",
-            "mediaType": "application/json",
-            "contentDigest": "2c98c841f84788d770a1e8b36f4f7c11"
-          }
-        }
-      },
-      "updatedAt": 1513781836820,
-      "pluginCreator___NODE": "Plugin default-site-plugin",
-      "pluginCreatorId": "Plugin default-site-plugin",
-      "componentPath": "/Users/juanjorge/Developer/gatsby-test-with-source-data/src/layouts/data.js",
-      "id": "SitePage /dreamers-protestan-en-illinois-para-pedir-soluciones-antes-de-que-finalice-el-periodo-de-sesiones-del-congreso",
-      "parent": "SOURCE",
-      "children": [],
-      "internal": {
-        "type": "SitePage",
-        "contentDigest": "fd47787e362ba1aa39c7b36bbadcd9fd",
-        "owner": "internal-data-bridge"
-      }
-    },
-    "SitePage /recuperar-mi-relacion-con-mis-tres-hijos-el-deseo-del-veterano-deportado-que-regresa-esta-navidad-a-eeuu": {
-      "layout": "index",
-      "jsonName": "recuperar-mi-relacion-con-mis-tres-hijos-el-deseo-del-veterano-deportado-que-regresa-esta-navidad-a-eeuu.json",
-      "internalComponentName": "ComponentRecuperarMiRelacionConMisTresHijosElDeseoDelVeteranoDeportadoQueRegresaEstaNavidadAEeuu",
-      "path": "/recuperar-mi-relacion-con-mis-tres-hijos-el-deseo-del-veterano-deportado-que-regresa-esta-navidad-a-eeuu",
-      "component": "/Users/juanjorge/Developer/gatsby-test-with-source-data/src/layouts/data.js",
-      "componentChunkName": "component---src-layouts-data-js",
-      "context": {
-        "slug": "00000160-7163-d446-a1e0-7ffbd6a90000",
-        "node": {
-          "id": "00000160-7163-d446-a1e0-7ffbd6a90000",
-          "publishDate": "2017-12-19T21:43:48-05:00",
-          "title": "\"Recuperar mi relación con mis tres hijos\", el deseo del veterano deportado que regresa esta Navidad a EEUU",
-          "widget": "",
-          "shortTitle": "\"Recuperar a mis hijos\", el deseo del veterano deportado que regresa esta Navidad a EEUU",
-          "description": "Tras 15 años en los que se perdió de la infancia y adolescencia de sus tres hijos, Marco Chávez cuenta las horas para volver al país que siempre llamó casa. Antes de que termine el año se convertirá en el primer exmilitar deportado  que regresará legalmente a Estados Unidos gracias a un perdón que le otorgó el gobernador de California. ",
-          "images": {
-            "original": {
-              "href": "https://cdn2.uvnimg.com/0c/5a/794408974e01a32a26a7acba4c6c/dsc01939.JPG",
-              "width": 5456,
-              "height": 3064
-            }
-          },
-          "children": [],
-          "parent": "00000160-7163-d446-a1e0-7ffbd6a90000",
-          "internal": {
-            "type": "Article",
-            "mediaType": "application/json",
-            "contentDigest": "86e179d03020ee7dc7e22ba18458be63"
-          }
-        }
-      },
-      "updatedAt": 1513781836821,
-      "pluginCreator___NODE": "Plugin default-site-plugin",
-      "pluginCreatorId": "Plugin default-site-plugin",
-      "componentPath": "/Users/juanjorge/Developer/gatsby-test-with-source-data/src/layouts/data.js",
-      "id": "SitePage /recuperar-mi-relacion-con-mis-tres-hijos-el-deseo-del-veterano-deportado-que-regresa-esta-navidad-a-eeuu",
-      "parent": "SOURCE",
-      "children": [],
-      "internal": {
-        "type": "SitePage",
-        "contentDigest": "ad01671e9ad820c0acfd697d4cacd5af",
-        "owner": "internal-data-bridge"
-      }
-    },
-    "SitePage /el-conmovedor-reencuentro-de-una-madre-con-sus-hijas-que-habian-sido-raptadas-por-su-padre": {
-      "layout": "index",
-      "jsonName": "el-conmovedor-reencuentro-de-una-madre-con-sus-hijas-que-habian-sido-raptadas-por-su-padre.json",
-      "internalComponentName": "ComponentElConmovedorReencuentroDeUnaMadreConSusHijasQueHabianSidoRaptadasPorSuPadre",
-      "path": "/el-conmovedor-reencuentro-de-una-madre-con-sus-hijas-que-habian-sido-raptadas-por-su-padre",
-      "component": "/Users/juanjorge/Developer/gatsby-test-with-source-data/src/layouts/data.js",
-      "componentChunkName": "component---src-layouts-data-js",
-      "context": {
-        "slug": "00000160-715d-da48-ab73-73df7b850000",
-        "node": {
-          "id": "00000160-715d-da48-ab73-73df7b850000",
-          "publishDate": "2017-12-19T18:59:00-05:00",
-          "title": "El conmovedor reencuentro de una madre con sus hijas que habían sido raptadas por su padre",
-          "widget": "",
-          "shortTitle": "El conmovedor reencuentro de una madre con sus hijas que habían sido raptadas por su padre",
-          "description": "Para Leticia Labra este es el \"mejor regalo de navidad\" después de 11 años de sufrimientos. Las jovencitas fueron sacadas del país por su padre en 2006 sin el consentimiento de la madre y pese a que ella lo reportó, no se tomó ninguna duda al respecto.",
-          "images": {
-            "original": {
-              "href": "https://cdn1.uvnimg.com/fe/14/ff0279364b9082ad9a77e3a7b661/245238499e4f428083f0d98ecaa9dc7d",
-              "width": 1920,
-              "height": 1080
-            }
-          },
-          "children": [],
-          "parent": "00000160-715d-da48-ab73-73df7b850000",
-          "internal": {
-            "type": "Video",
-            "mediaType": "application/json",
-            "contentDigest": "aa092c55d0bbfc52c3172b026f99f1b6"
-          }
-        }
-      },
-      "updatedAt": 1513781836821,
-      "pluginCreator___NODE": "Plugin default-site-plugin",
-      "pluginCreatorId": "Plugin default-site-plugin",
-      "componentPath": "/Users/juanjorge/Developer/gatsby-test-with-source-data/src/layouts/data.js",
-      "id": "SitePage /el-conmovedor-reencuentro-de-una-madre-con-sus-hijas-que-habian-sido-raptadas-por-su-padre",
-      "parent": "SOURCE",
-      "children": [],
-      "internal": {
-        "type": "SitePage",
-        "contentDigest": "f3daa320e3040cc0c8a44844635f506f",
-        "owner": "internal-data-bridge"
-      }
-    },
-    "SitePage /familias-inmigrantes-se-reunen-tras-mas-de-dos-decadas-sin-verse": {
-      "layout": "index",
-      "jsonName": "familias-inmigrantes-se-reunen-tras-mas-de-dos-decadas-sin-verse.json",
-      "internalComponentName": "ComponentFamiliasInmigrantesSeReunenTrasMasDeDosDecadasSinVerse",
-      "path": "/familias-inmigrantes-se-reunen-tras-mas-de-dos-decadas-sin-verse",
-      "component": "/Users/juanjorge/Developer/gatsby-test-with-source-data/src/layouts/data.js",
-      "componentChunkName": "component---src-layouts-data-js",
-      "context": {
-        "slug": "00000160-71b1-da48-ab73-73b7a4370000",
-        "node": {
-          "id": "00000160-71b1-da48-ab73-73b7a4370000",
-          "publishDate": "2017-12-19T21:07:00-05:00",
-          "title": "Familias inmigrantes se reúnen tras más de dos décadas sin verse",
-          "widget": "",
-          "shortTitle": "Familias inmigrantes se reúnen tras más de dos décadas sin verse",
-          "description": "El encuentro forma parte del programa “Palomas mensajeras” que tiene como objetivo reunir a padres y madres de la tercera edad con sus hijos que viven en los Estados Unidos y que no se han visto en años.",
-          "images": {
-            "original": {
-              "href": "https://cdn3.uvnimg.com/67/f5/7257de7740a98eda6a30fe9dd1fc/dde47650ee7a464abc983f7e36473251",
-              "width": 1280,
-              "height": 720
-            }
-          },
-          "children": [],
-          "parent": "00000160-71b1-da48-ab73-73b7a4370000",
-          "internal": {
-            "type": "Video",
-            "mediaType": "application/json",
-            "contentDigest": "08f82f33aaeb88a082119837ebaf3156"
-          }
-        }
-      },
-      "updatedAt": 1513781836822,
-      "pluginCreator___NODE": "Plugin default-site-plugin",
-      "pluginCreatorId": "Plugin default-site-plugin",
-      "componentPath": "/Users/juanjorge/Developer/gatsby-test-with-source-data/src/layouts/data.js",
-      "id": "SitePage /familias-inmigrantes-se-reunen-tras-mas-de-dos-decadas-sin-verse",
-      "parent": "SOURCE",
-      "children": [],
-      "internal": {
-        "type": "SitePage",
-        "contentDigest": "d5860fbd0527467a7f54e277000f8fc7",
-        "owner": "internal-data-bridge"
-      }
-    },
-    "SitePage /por-su-estatus-legal-esta-mujer-no-puede-reclamar-el-cuerpo-de-su-esposo-que-se-electrocuto-en-accidente-laboral": {
-      "layout": "index",
-      "jsonName": "por-su-estatus-legal-esta-mujer-no-puede-reclamar-el-cuerpo-de-su-esposo-que-se-electrocuto-en-accidente-laboral.json",
-      "internalComponentName": "ComponentPorSuEstatusLegalEstaMujerNoPuedeReclamarElCuerpoDeSuEsposoQueSeElectrocutoEnAccidenteLaboral",
-      "path": "/por-su-estatus-legal-esta-mujer-no-puede-reclamar-el-cuerpo-de-su-esposo-que-se-electrocuto-en-accidente-laboral",
-      "component": "/Users/juanjorge/Developer/gatsby-test-with-source-data/src/layouts/data.js",
-      "componentChunkName": "component---src-layouts-data-js",
-      "context": {
-        "slug": "00000160-7185-da48-ab73-73879f900000",
-        "node": {
-          "id": "00000160-7185-da48-ab73-73879f900000",
-          "publishDate": "2017-12-19T18:34:00-05:00",
-          "title": "Por su estatus legal, esta mujer no puede reclamar el cuerpo de su esposo que se electrocutó en accidente laboral",
-          "widget": "",
-          "shortTitle": "Por su estatus legal, esta mujer no puede reclamar el cuerpo de su esposo que se electrocutó en accidente laboral",
-          "description": "Margarita Juárez reclama entre lágrimas justicia y una solución después de que el padre de sus cuatro hijos murió electrocutado cuando realizaba labores como empleado de la empresa B&G Properties Maintenance, que no le ha dado respuesta a esta familia de Guatemala. El cadáver lleva casi una semana en la morgue porque Juárez no tiene documentos ni está casada legalmente. La FPL tampoco se ha pronunciado sobre el caso.",
-          "images": {
-            "original": {
-              "href": "https://cdn3.uvnimg.com/98/67/6a17f21d44f78d2a3d6b994b6bfa/c370f90025594fb9a6407d2a7b578127",
-              "width": 1920,
-              "height": 1080
-            }
-          },
-          "children": [],
-          "parent": "00000160-7185-da48-ab73-73879f900000",
-          "internal": {
-            "type": "Video",
-            "mediaType": "application/json",
-            "contentDigest": "a755a3bc551d22db86d39bb96d5cdc5f"
-          }
-        }
-      },
-      "updatedAt": 1513781836823,
-      "pluginCreator___NODE": "Plugin default-site-plugin",
-      "pluginCreatorId": "Plugin default-site-plugin",
-      "componentPath": "/Users/juanjorge/Developer/gatsby-test-with-source-data/src/layouts/data.js",
-      "id": "SitePage /por-su-estatus-legal-esta-mujer-no-puede-reclamar-el-cuerpo-de-su-esposo-que-se-electrocuto-en-accidente-laboral",
-      "parent": "SOURCE",
-      "children": [],
-      "internal": {
-        "type": "SitePage",
-        "contentDigest": "ddcde7d022208cce7252112a1ba16aba",
+        "contentDigest": "1d4fc3ca0021c4919c344de51db93cb9",
         "owner": "internal-data-bridge"
       }
     },
@@ -861,7 +501,7 @@
           }
         }
       },
-      "updatedAt": 1513781836826,
+      "updatedAt": 1513826127849,
       "pluginCreator___NODE": "Plugin default-site-plugin",
       "pluginCreatorId": "Plugin default-site-plugin",
       "componentPath": "/Users/juanjorge/Developer/gatsby-test-with-source-data/src/layouts/data.js",
@@ -870,7 +510,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "5bf3269ccb149354cb00c5e8d74b66d8",
+        "contentDigest": "003b9e78fd7863561ab136f0ab50eb92",
         "owner": "internal-data-bridge"
       }
     },
@@ -906,7 +546,7 @@
           }
         }
       },
-      "updatedAt": 1513781836835,
+      "updatedAt": 1513826127850,
       "pluginCreator___NODE": "Plugin default-site-plugin",
       "pluginCreatorId": "Plugin default-site-plugin",
       "componentPath": "/Users/juanjorge/Developer/gatsby-test-with-source-data/src/layouts/data.js",
@@ -915,7 +555,817 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "bb3f5772e61a43f81e737ef0bdad7d6a",
+        "contentDigest": "14fe0bf6f7dc289a067bf84fe6864108",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /el-puma-se-sometio-a-un-doble-trasplante-de-pulmon-en-un-hospital-de-miami": {
+      "layout": "index",
+      "jsonName": "el-puma-se-sometio-a-un-doble-trasplante-de-pulmon-en-un-hospital-de-miami.json",
+      "internalComponentName": "ComponentElPumaSeSometioAUnDobleTrasplanteDePulmonEnUnHospitalDeMiami",
+      "path": "/el-puma-se-sometio-a-un-doble-trasplante-de-pulmon-en-un-hospital-de-miami",
+      "component": "/Users/juanjorge/Developer/gatsby-test-with-source-data/src/layouts/data.js",
+      "componentChunkName": "component---src-layouts-data-js",
+      "context": {
+        "slug": "00000160-6be2-d252-a7f4-6ff771da0000",
+        "node": {
+          "id": "00000160-6be2-d252-a7f4-6ff771da0000",
+          "publishDate": "2017-12-18T18:04:00-05:00",
+          "title": "'El Puma' se sometió a un doble trasplante de pulmón en un hospital de Miami",
+          "widget": "",
+          "shortTitle": "'El Puma' se sometió a un doble trasplante de pulmón en un hospital de Miami",
+          "description": "El cantante venezolano se encuentra recluido en cuidados intensivos, tras recibir dos órganos ajenos que suponen un largo proceso de recuperación y un cambio radical del estilo de vida.",
+          "images": {
+            "original": {
+              "href": "https://cdn1.uvnimg.com/09/2a/aae8cf674418a5ab4e32fa5a1f58/f79ade82511943bb94046925eb85d0a3",
+              "width": 1920,
+              "height": 1080
+            }
+          },
+          "children": [],
+          "parent": "00000160-6be2-d252-a7f4-6ff771da0000",
+          "internal": {
+            "type": "Video",
+            "mediaType": "application/json",
+            "contentDigest": "9f42292511dfd5176df9e943b76e940a"
+          }
+        }
+      },
+      "updatedAt": 1513826127854,
+      "pluginCreator___NODE": "Plugin default-site-plugin",
+      "pluginCreatorId": "Plugin default-site-plugin",
+      "componentPath": "/Users/juanjorge/Developer/gatsby-test-with-source-data/src/layouts/data.js",
+      "id": "SitePage /el-puma-se-sometio-a-un-doble-trasplante-de-pulmon-en-un-hospital-de-miami",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "f9a68c713d875b3068b9e947282812e8",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /autoridades-llaman-a-los-consumidores-a-protegerse-de-llamadas-fraudulentas": {
+      "layout": "index",
+      "jsonName": "autoridades-llaman-a-los-consumidores-a-protegerse-de-llamadas-fraudulentas.json",
+      "internalComponentName": "ComponentAutoridadesLlamanALosConsumidoresAProtegerseDeLlamadasFraudulentas",
+      "path": "/autoridades-llaman-a-los-consumidores-a-protegerse-de-llamadas-fraudulentas",
+      "component": "/Users/juanjorge/Developer/gatsby-test-with-source-data/src/layouts/data.js",
+      "componentChunkName": "component---src-layouts-data-js",
+      "context": {
+        "slug": "00000160-7706-dadb-a1f0-7f6e16550000",
+        "node": {
+          "id": "00000160-7706-dadb-a1f0-7f6e16550000",
+          "publishDate": "2017-12-20T21:57:00-05:00",
+          "title": "Autoridades llaman a los consumidores a protegerse de llamadas fraudulentas",
+          "widget": "",
+          "shortTitle": "Autoridades llaman a los consumidores a protegerse de llamadas fraudulentas",
+          "description": "Mediante estas llamadas, los estafadores fingen ser miembros del IRS para obtener datos y robar la identidad de sus víctimas.",
+          "images": {
+            "original": {
+              "href": "https://cdn4.uvnimg.com/81/e3/8b814748477593bd92d9e2f383d2/fd7c48e7f2b24698901231bdebc3788e",
+              "width": 1920,
+              "height": 1080
+            }
+          },
+          "children": [],
+          "parent": "00000160-7706-dadb-a1f0-7f6e16550000",
+          "internal": {
+            "type": "Video",
+            "mediaType": "application/json",
+            "contentDigest": "daa83f00b2f3b6b61d49f9c01916a595"
+          }
+        }
+      },
+      "updatedAt": 1513826127855,
+      "pluginCreator___NODE": "Plugin default-site-plugin",
+      "pluginCreatorId": "Plugin default-site-plugin",
+      "componentPath": "/Users/juanjorge/Developer/gatsby-test-with-source-data/src/layouts/data.js",
+      "id": "SitePage /autoridades-llaman-a-los-consumidores-a-protegerse-de-llamadas-fraudulentas",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "c49fcb85ae52d78868fc10b6d0506649",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /arrestan-a-ocho-presuntos-integrantes-de-una-pandilla-en-pittsburg": {
+      "layout": "index",
+      "jsonName": "arrestan-a-ocho-presuntos-integrantes-de-una-pandilla-en-pittsburg.json",
+      "internalComponentName": "ComponentArrestanAOchoPresuntosIntegrantesDeUnaPandillaEnPittsburg",
+      "path": "/arrestan-a-ocho-presuntos-integrantes-de-una-pandilla-en-pittsburg",
+      "component": "/Users/juanjorge/Developer/gatsby-test-with-source-data/src/layouts/data.js",
+      "componentChunkName": "component---src-layouts-data-js",
+      "context": {
+        "slug": "00000160-76f1-dadb-a1f0-7eff3b570000",
+        "node": {
+          "id": "00000160-76f1-dadb-a1f0-7eff3b570000",
+          "publishDate": "2017-12-20T21:32:00-05:00",
+          "title": "Arrestan a ocho presuntos integrantes de una pandilla en Pittsburg",
+          "widget": "",
+          "shortTitle": "Arrestan a ocho presuntos integrantes de una pandilla en Pittsburg",
+          "description": "Mediante un operativo entre varias agentes se logró el arresto de estos ocho sospechosos, además de decomisar armas y drogas.",
+          "images": {
+            "original": {
+              "href": "https://cdn1.uvnimg.com/25/62/c03fd6014adea1339f53c76c02b3/122017-sfpm1-1.jpg",
+              "width": 1381,
+              "height": 803
+            }
+          },
+          "children": [],
+          "parent": "00000160-76f1-dadb-a1f0-7eff3b570000",
+          "internal": {
+            "type": "Video",
+            "mediaType": "application/json",
+            "contentDigest": "1179a40cb5ae512d6129bdbe1c0a53cb"
+          }
+        }
+      },
+      "updatedAt": 1513826127855,
+      "pluginCreator___NODE": "Plugin default-site-plugin",
+      "pluginCreatorId": "Plugin default-site-plugin",
+      "componentPath": "/Users/juanjorge/Developer/gatsby-test-with-source-data/src/layouts/data.js",
+      "id": "SitePage /arrestan-a-ocho-presuntos-integrantes-de-una-pandilla-en-pittsburg",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "2faf86210d8a1d0ab2d4e6f13e09ac47",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /miembros-de-varias-religiones-se-unen-para-pedir-que-los-angeles-se-convierta-en-ciudad-santuario": {
+      "layout": "index",
+      "jsonName": "miembros-de-varias-religiones-se-unen-para-pedir-que-los-angeles-se-convierta-en-ciudad-santuario.json",
+      "internalComponentName": "ComponentMiembrosDeVariasReligionesSeUnenParaPedirQueLosAngelesSeConviertaEnCiudadSantuario",
+      "path": "/miembros-de-varias-religiones-se-unen-para-pedir-que-los-angeles-se-convierta-en-ciudad-santuario",
+      "component": "/Users/juanjorge/Developer/gatsby-test-with-source-data/src/layouts/data.js",
+      "componentChunkName": "component---src-layouts-data-js",
+      "context": {
+        "slug": "00000160-76f8-dadb-a1f0-7efe4def0000",
+        "node": {
+          "id": "00000160-76f8-dadb-a1f0-7efe4def0000",
+          "publishDate": "2017-12-20T21:21:00-05:00",
+          "title": "Miembros de varias religiones se unen para pedir que Los Ángeles se convierta en ciudad santuario",
+          "widget": "",
+          "shortTitle": "Miembros de varias religiones piden que Los Ángeles se convierta en ciudad santuario",
+          "description": "Decenas de personas participaron en una peregrinación, que comenzó en la alcaldía de Los Ángeles, pasó por el departamento de policía y terminó frente al centro de detención de ICE. Los manifestantes mostraron su apoyo a los detenidos, pidieron al alcalde Eric Garcetti que convierta a la ciudad en santuario y exigieron respeto a los derechos de los inmigrantes.",
+          "images": {
+            "original": {
+              "href": "https://cdn3.uvnimg.com/c4/4b/661af32a4f6db4b89093eaf6a76a/cdbdc1b0191040efbb1ad143f6be0f79",
+              "width": 1920,
+              "height": 1080
+            }
+          },
+          "children": [],
+          "parent": "00000160-76f8-dadb-a1f0-7efe4def0000",
+          "internal": {
+            "type": "Video",
+            "mediaType": "application/json",
+            "contentDigest": "9a8f8c3be0a3bae3669b63947cc87bdd"
+          }
+        }
+      },
+      "updatedAt": 1513826127856,
+      "pluginCreator___NODE": "Plugin default-site-plugin",
+      "pluginCreatorId": "Plugin default-site-plugin",
+      "componentPath": "/Users/juanjorge/Developer/gatsby-test-with-source-data/src/layouts/data.js",
+      "id": "SitePage /miembros-de-varias-religiones-se-unen-para-pedir-que-los-angeles-se-convierta-en-ciudad-santuario",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "63c405f0c70c7af46c1bb4f866e1bd7a",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /el-programa-palomas-mensajeras-reune-familias-de-mexico-en-los-angeles": {
+      "layout": "index",
+      "jsonName": "el-programa-palomas-mensajeras-reune-familias-de-mexico-en-los-angeles.json",
+      "internalComponentName": "ComponentElProgramaPalomasMensajerasReuneFamiliasDeMexicoEnLosAngeles",
+      "path": "/el-programa-palomas-mensajeras-reune-familias-de-mexico-en-los-angeles",
+      "component": "/Users/juanjorge/Developer/gatsby-test-with-source-data/src/layouts/data.js",
+      "componentChunkName": "component---src-layouts-data-js",
+      "context": {
+        "slug": "00000160-76f5-dadb-a1f0-7eff45120000",
+        "node": {
+          "id": "00000160-76f5-dadb-a1f0-7eff45120000",
+          "publishDate": "2017-12-20T21:10:00-05:00",
+          "title": "El programa Palomas Mensajeras reúne familias de México en Los Ángeles",
+          "widget": "",
+          "shortTitle": "El programa Palomas Mensajeras reúne familias de México en Los Ángeles",
+          "description": "Inmigrantes tuvieron la oportunidad de ver a sus allegados de Michoacán después de años de distanciamiento. La Secretaría del Migrante y organizaciones de interés humano celebraron el encuentro para Navidad y Año Nuevo en Estados Unidos.",
+          "images": {
+            "original": {
+              "href": "https://cdn1.uvnimg.com/f2/c1/e836ed07490e94146836a5d8e226/52093527a8e74f158cdd4581ba4c36e0",
+              "width": 1920,
+              "height": 1080
+            }
+          },
+          "children": [],
+          "parent": "00000160-76f5-dadb-a1f0-7eff45120000",
+          "internal": {
+            "type": "Video",
+            "mediaType": "application/json",
+            "contentDigest": "cb74dfcac49d6c7003bb41e5a91996f6"
+          }
+        }
+      },
+      "updatedAt": 1513826127856,
+      "pluginCreator___NODE": "Plugin default-site-plugin",
+      "pluginCreatorId": "Plugin default-site-plugin",
+      "componentPath": "/Users/juanjorge/Developer/gatsby-test-with-source-data/src/layouts/data.js",
+      "id": "SitePage /el-programa-palomas-mensajeras-reune-familias-de-mexico-en-los-angeles",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "6e18eed6718a14d92d21ba3dcaab2d6d",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /lider-republicano-promete-votacion-en-el-senado-por-el-dream-act-si-logran-acuerdo-bipartidista-en-enero": {
+      "layout": "index",
+      "jsonName": "lider-republicano-promete-votacion-en-el-senado-por-el-dream-act-si-logran-acuerdo-bipartidista-en-enero.json",
+      "internalComponentName": "ComponentLiderRepublicanoPrometeVotacionEnElSenadoPorElDreamActSiLogranAcuerdoBipartidistaEnEnero",
+      "path": "/lider-republicano-promete-votacion-en-el-senado-por-el-dream-act-si-logran-acuerdo-bipartidista-en-enero",
+      "component": "/Users/juanjorge/Developer/gatsby-test-with-source-data/src/layouts/data.js",
+      "componentChunkName": "component---src-layouts-data-js",
+      "context": {
+        "slug": "00000160-7653-dd32-ad6c-7e77e5a40000",
+        "node": {
+          "id": "00000160-7653-dd32-ad6c-7e77e5a40000",
+          "publishDate": "2017-12-20T19:50:07-05:00",
+          "title": "Líder republicano promete votación en el Senado por el Dream Act si logran acuerdo bipartidista en enero",
+          "widget": "",
+          "shortTitle": "Líder republicano promete votación en el Senado por el Dream Act si hay acuerdo bipartidista",
+          "description": "Las negociaciones en el Congreso para legalizar a los dreamers se estancaron en las últimas semanas, pero este miércoles Mitch McConnell aseguró que \"si los negociadores llegan a un acuerdo antes del fin de enero, lo traeré a un voto individual en el pleno del Senado\".",
+          "images": {
+            "original": {
+              "href": "https://cdn2.uvnimg.com/ad/1b/0e1fd7f949c590e0b3d14eb94874/mitch-mcconnell.jpg",
+              "width": 1024,
+              "height": 692
+            }
+          },
+          "children": [],
+          "parent": "00000160-7653-dd32-ad6c-7e77e5a40000",
+          "internal": {
+            "type": "Article",
+            "mediaType": "application/json",
+            "contentDigest": "51a46135b06118ea6ab23025cf03a053"
+          }
+        }
+      },
+      "updatedAt": 1513826127857,
+      "pluginCreator___NODE": "Plugin default-site-plugin",
+      "pluginCreatorId": "Plugin default-site-plugin",
+      "componentPath": "/Users/juanjorge/Developer/gatsby-test-with-source-data/src/layouts/data.js",
+      "id": "SitePage /lider-republicano-promete-votacion-en-el-senado-por-el-dream-act-si-logran-acuerdo-bipartidista-en-enero",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "0b449157bb71b770c20d699a8a683755",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /patrulla-fronteriza-se-declara-en-alerta-para-rescatar-a-migrantes-victimas-de-las-bajas-temperaturas": {
+      "layout": "index",
+      "jsonName": "patrulla-fronteriza-se-declara-en-alerta-para-rescatar-a-migrantes-victimas-de-las-bajas-temperaturas.json",
+      "internalComponentName": "ComponentPatrullaFronterizaSeDeclaraEnAlertaParaRescatarAMigrantesVictimasDeLasBajasTemperaturas",
+      "path": "/patrulla-fronteriza-se-declara-en-alerta-para-rescatar-a-migrantes-victimas-de-las-bajas-temperaturas",
+      "component": "/Users/juanjorge/Developer/gatsby-test-with-source-data/src/layouts/data.js",
+      "componentChunkName": "component---src-layouts-data-js",
+      "context": {
+        "slug": "00000160-766e-dadb-a1f0-7e6e49ba0000",
+        "node": {
+          "id": "00000160-766e-dadb-a1f0-7e6e49ba0000",
+          "publishDate": "2017-12-20T19:10:00-05:00",
+          "title": "Patrulla Fronteriza se declara en alerta para rescatar a migrantes víctimas de las bajas temperaturas",
+          "widget": "",
+          "shortTitle": "Patrulla Fronteriza se declara en alerta para rescatar a migrantes víctimas de las bajas temperaturas",
+          "description": "De acuerdo con agentes, las temperaturas en el desierto pueden llegar a niveles muy bajos y los inmigrantes no utilizan la ropa adecuada.",
+          "images": {
+            "original": {
+              "href": "https://cdn4.uvnimg.com/1f/ab/adb378c84d32b2286903b660b6e2/122017-azpm1-2.jpg",
+              "width": 1559,
+              "height": 799
+            }
+          },
+          "children": [],
+          "parent": "00000160-766e-dadb-a1f0-7e6e49ba0000",
+          "internal": {
+            "type": "Video",
+            "mediaType": "application/json",
+            "contentDigest": "380f02118612f1fda03281e431dcbb8c"
+          }
+        }
+      },
+      "updatedAt": 1513826127857,
+      "pluginCreator___NODE": "Plugin default-site-plugin",
+      "pluginCreatorId": "Plugin default-site-plugin",
+      "componentPath": "/Users/juanjorge/Developer/gatsby-test-with-source-data/src/layouts/data.js",
+      "id": "SitePage /patrulla-fronteriza-se-declara-en-alerta-para-rescatar-a-migrantes-victimas-de-las-bajas-temperaturas",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "fb80375cb45d912fe998130b0968c66c",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /aunque-california-se-estrenara-en-enero-como-estado-santuario-uno-de-sus-condados-ya-se-adelanto-para-proteger-a-indocumentados": {
+      "layout": "index",
+      "jsonName": "aunque-california-se-estrenara-en-enero-como-estado-santuario-uno-de-sus-condados-ya-se-adelanto-para-proteger-a-indocumentados.json",
+      "internalComponentName": "ComponentAunqueCaliforniaSeEstrenaraEnEneroComoEstadoSantuarioUnoDeSusCondadosYaSeAdelantoParaProtegerAIndocumentados",
+      "path": "/aunque-california-se-estrenara-en-enero-como-estado-santuario-uno-de-sus-condados-ya-se-adelanto-para-proteger-a-indocumentados",
+      "component": "/Users/juanjorge/Developer/gatsby-test-with-source-data/src/layouts/data.js",
+      "componentChunkName": "component---src-layouts-data-js",
+      "context": {
+        "slug": "00000160-7677-dadb-a1f0-7e7f9f160000",
+        "node": {
+          "id": "00000160-7677-dadb-a1f0-7e7f9f160000",
+          "publishDate": "2017-12-20T18:52:00-05:00",
+          "title": "Aunque California se estrenará en enero como estado santuario, uno de sus condados ya se adelantó para proteger a indocumentados",
+          "widget": "",
+          "shortTitle": "Aunque California se estrenará en enero como estado santuario, uno de sus condados ya se adelantó para proteger a indocumentados",
+          "description": "A partir de la próxima semana en el condado de Monterrey ya no serán bienvenidos los agentes de inmigración en la cárcel. Con esta medida buscan restablecer la confianza de quienes no reportan delitos por miedo a la policía.",
+          "images": {
+            "original": {
+              "href": "https://cdn4.uvnimg.com/4c/b9/2da166cb41788465d42aa8d8727d/9ff18c9f85e14a979414458900c2c0a3",
+              "width": 1920,
+              "height": 1080
+            }
+          },
+          "children": [],
+          "parent": "00000160-7677-dadb-a1f0-7e7f9f160000",
+          "internal": {
+            "type": "Video",
+            "mediaType": "application/json",
+            "contentDigest": "4092065fa8b24fa44770e7b075a0ab75"
+          }
+        }
+      },
+      "updatedAt": 1513826127858,
+      "pluginCreator___NODE": "Plugin default-site-plugin",
+      "pluginCreatorId": "Plugin default-site-plugin",
+      "componentPath": "/Users/juanjorge/Developer/gatsby-test-with-source-data/src/layouts/data.js",
+      "id": "SitePage /aunque-california-se-estrenara-en-enero-como-estado-santuario-uno-de-sus-condados-ya-se-adelanto-para-proteger-a-indocumentados",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "2b6e5de1cea922b26414dd21660c3129",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /40-artistas-piden-a-los-democratas-proteger-a-los-dreamers": {
+      "layout": "index",
+      "jsonName": "40-artistas-piden-a-los-democratas-proteger-a-los-dreamers.json",
+      "internalComponentName": "Component40ArtistasPidenALosDemocratasProtegerALosDreamers",
+      "path": "/40-artistas-piden-a-los-democratas-proteger-a-los-dreamers",
+      "component": "/Users/juanjorge/Developer/gatsby-test-with-source-data/src/layouts/data.js",
+      "componentChunkName": "component---src-layouts-data-js",
+      "context": {
+        "slug": "00000160-764b-dd32-ad6c-7e7f09f50000",
+        "node": {
+          "id": "00000160-764b-dd32-ad6c-7e7f09f50000",
+          "publishDate": "2017-12-20T19:11:29-05:00",
+          "title": "40 artistas piden a los demócratas proteger a los dreamers",
+          "widget": "",
+          "shortTitle": "40 artistas piden a los demócratas proteger a los dreamers",
+          "description": "\"Este es un problema moral que exige acción, sin más demora. Los dreamers y los destinatarios de DACA son una parte integral de nuestro país, por lo que le instamos que se aseguren de utilizar su poder para hacer esto antes de irse de vacaciones con su familia\", dice la carta dirigida a Charles Schumer y Nancy Pelosi.",
+          "images": {
+            "original": {
+              "href": "https://cdn3.uvnimg.com/42/bc/254bcfc74adc94e50bbd8db57a4b/america-getty.jpg",
+              "width": 3101,
+              "height": 4557
+            }
+          },
+          "children": [],
+          "parent": "00000160-764b-dd32-ad6c-7e7f09f50000",
+          "internal": {
+            "type": "Article",
+            "mediaType": "application/json",
+            "contentDigest": "ec82bc94c408478cfd8f36983c850bbe"
+          }
+        }
+      },
+      "updatedAt": 1513826127859,
+      "pluginCreator___NODE": "Plugin default-site-plugin",
+      "pluginCreatorId": "Plugin default-site-plugin",
+      "componentPath": "/Users/juanjorge/Developer/gatsby-test-with-source-data/src/layouts/data.js",
+      "id": "SitePage /40-artistas-piden-a-los-democratas-proteger-a-los-dreamers",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "7fc81064ff18df95302777bf1c85d0b2",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /la-angustia-sobre-el-futuro-de-800-000-dreamers-se-prolongara-hasta-enero": {
+      "layout": "index",
+      "jsonName": "la-angustia-sobre-el-futuro-de-800-000-dreamers-se-prolongara-hasta-enero.json",
+      "internalComponentName": "ComponentLaAngustiaSobreElFuturoDe800000DreamersSeProlongaraHastaEnero",
+      "path": "/la-angustia-sobre-el-futuro-de-800-000-dreamers-se-prolongara-hasta-enero",
+      "component": "/Users/juanjorge/Developer/gatsby-test-with-source-data/src/layouts/data.js",
+      "componentChunkName": "component---src-layouts-data-js",
+      "context": {
+        "slug": "00000160-7660-dadb-a1f0-7e6e8ba80000",
+        "node": {
+          "id": "00000160-7660-dadb-a1f0-7e6e8ba80000",
+          "publishDate": "2017-12-20T18:42:00-05:00",
+          "title": "La angustia sobre el futuro de 800,000 dreamers se prolongará hasta enero",
+          "widget": "",
+          "shortTitle": "La angustia sobre el futuro de 800,000 dreamers se prolongará hasta enero",
+          "description": "El senador republicano Jeff Flake dijo que en enero votarán sobre un proyecto de ley que protegería a quienes tienen DACA. El senador demócrata Dick Durbin mostró su preocupación tras reunirse con John Kelly y senadores de ambos partidos.",
+          "images": {
+            "original": {
+              "href": "https://cdn4.uvnimg.com/17/e6/c5e5c94948f396bb2cb89dfd2fb4/79dd29d2b1d24e6b959694c269e17c84",
+              "width": 1920,
+              "height": 1080
+            }
+          },
+          "children": [],
+          "parent": "00000160-7660-dadb-a1f0-7e6e8ba80000",
+          "internal": {
+            "type": "Video",
+            "mediaType": "application/json",
+            "contentDigest": "0cfbbb51a0193357cb0d2e4a516a8696"
+          }
+        }
+      },
+      "updatedAt": 1513826127859,
+      "pluginCreator___NODE": "Plugin default-site-plugin",
+      "pluginCreatorId": "Plugin default-site-plugin",
+      "componentPath": "/Users/juanjorge/Developer/gatsby-test-with-source-data/src/layouts/data.js",
+      "id": "SitePage /la-angustia-sobre-el-futuro-de-800-000-dreamers-se-prolongara-hasta-enero",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "7c31c04c56fdfd76b1906632f6e4c79c",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /perdida-de-identidad-latina-11-de-los-estadounidenses-con-ese-origen-no-se-identifica-como-hispano": {
+      "layout": "index",
+      "jsonName": "perdida-de-identidad-latina-11-de-los-estadounidenses-con-ese-origen-no-se-identifica-como-hispano.json",
+      "internalComponentName": "ComponentPerdidaDeIdentidadLatina11DeLosEstadounidensesConEseOrigenNoSeIdentificaComoHispano",
+      "path": "/perdida-de-identidad-latina-11-de-los-estadounidenses-con-ese-origen-no-se-identifica-como-hispano",
+      "component": "/Users/juanjorge/Developer/gatsby-test-with-source-data/src/layouts/data.js",
+      "componentChunkName": "component---src-layouts-data-js",
+      "context": {
+        "slug": "00000160-74d0-d98e-a5f7-f7f8b9950000",
+        "node": {
+          "id": "00000160-74d0-d98e-a5f7-f7f8b9950000",
+          "publishDate": "2017-12-20T12:05:34-05:00",
+          "title": "Pérdida de identidad latina: 11% de los estadounidenses con ese origen no se identifica como hispano",
+          "widget": "",
+          "shortTitle": "Pérdida de identidad latina: 11% de los estadounidenses con ese origen no se identifica como hispano",
+          "description": "Una investigación del Centro Pew revela que unos 5 millones de estadounidenses de origen hispano no se identifica con esa cultura, pese a tener al menos un ancestro en su familia.",
+          "images": {
+            "original": {
+              "href": "https://cdn3.uvnimg.com/59/21/5d9542104846857b2d71cfb3a25b/hispanos-getty.jpg",
+              "width": 594,
+              "height": 396
+            }
+          },
+          "children": [],
+          "parent": "00000160-74d0-d98e-a5f7-f7f8b9950000",
+          "internal": {
+            "type": "Article",
+            "mediaType": "application/json",
+            "contentDigest": "0977b67b057a494d9b3692b45cd04bca"
+          }
+        }
+      },
+      "updatedAt": 1513826127860,
+      "pluginCreator___NODE": "Plugin default-site-plugin",
+      "pluginCreatorId": "Plugin default-site-plugin",
+      "componentPath": "/Users/juanjorge/Developer/gatsby-test-with-source-data/src/layouts/data.js",
+      "id": "SitePage /perdida-de-identidad-latina-11-de-los-estadounidenses-con-ese-origen-no-se-identifica-como-hispano",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "9e21ded3444a6d2b04284f3f3e726d91",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /expertos-en-inmigracion-aconsejan-a-algunos-residentes-permanentes-consultar-con-abogados-antes-de-viajar-fuera-de-eeuu": {
+      "layout": "index",
+      "jsonName": "expertos-en-inmigracion-aconsejan-a-algunos-residentes-permanentes-consultar-con-abogados-antes-de-viajar-fuera-de-eeuu.json",
+      "internalComponentName": "ComponentExpertosEnInmigracionAconsejanAAlgunosResidentesPermanentesConsultarConAbogadosAntesDeViajarFueraDeEeuu",
+      "path": "/expertos-en-inmigracion-aconsejan-a-algunos-residentes-permanentes-consultar-con-abogados-antes-de-viajar-fuera-de-eeuu",
+      "component": "/Users/juanjorge/Developer/gatsby-test-with-source-data/src/layouts/data.js",
+      "componentChunkName": "component---src-layouts-data-js",
+      "context": {
+        "slug": "00000160-7616-dadb-a1f0-7e7e58190000",
+        "node": {
+          "id": "00000160-7616-dadb-a1f0-7e7e58190000",
+          "publishDate": "2017-12-20T17:25:00-05:00",
+          "title": "Expertos en inmigración aconsejan a algunos residentes permanentes consultar con abogados antes de viajar fuera de EEUU",
+          "widget": "",
+          "shortTitle": "Expertos en inmigración aconsejan a algunos residentes permanentes consultar con abogados antes de viajar fuera de EEUU",
+          "description": "Especialistas explican por qué el hablar con un abogado antes de salir del país puede ser de gran ayuda para algunos residentes permanentes.",
+          "images": {
+            "original": {
+              "href": "https://cdn3.uvnimg.com/a6/4f/9351fd2449069531b48b1789ba60/384801d5f25c41ac99e37685a5671e6e",
+              "width": 1920,
+              "height": 1080
+            }
+          },
+          "children": [],
+          "parent": "00000160-7616-dadb-a1f0-7e7e58190000",
+          "internal": {
+            "type": "Video",
+            "mediaType": "application/json",
+            "contentDigest": "6b4c79425f4c07f3c7a9bc9558a9080f"
+          }
+        }
+      },
+      "updatedAt": 1513826127860,
+      "pluginCreator___NODE": "Plugin default-site-plugin",
+      "pluginCreatorId": "Plugin default-site-plugin",
+      "componentPath": "/Users/juanjorge/Developer/gatsby-test-with-source-data/src/layouts/data.js",
+      "id": "SitePage /expertos-en-inmigracion-aconsejan-a-algunos-residentes-permanentes-consultar-con-abogados-antes-de-viajar-fuera-de-eeuu",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "060e60de1737acc081cd19448652f9cb",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /al-punto-con-jorge-ramos-17-de-diciembre-2017": {
+      "layout": "index",
+      "jsonName": "al-punto-con-jorge-ramos-17-de-diciembre-2017.json",
+      "internalComponentName": "ComponentAlPuntoConJorgeRamos17DeDiciembre2017",
+      "path": "/al-punto-con-jorge-ramos-17-de-diciembre-2017",
+      "component": "/Users/juanjorge/Developer/gatsby-test-with-source-data/src/layouts/data.js",
+      "componentChunkName": "component---src-layouts-data-js",
+      "context": {
+        "slug": "00000160-70b0-da48-ab73-72b7447d0000",
+        "node": {
+          "id": "00000160-70b0-da48-ab73-72b7447d0000",
+          "publishDate": "2017-12-18T00:00:00-05:00",
+          "title": "Al Punto con Jorge Ramos - 17 de diciembre, 2017",
+          "widget": "",
+          "shortTitle": "Al Punto con Jorge Ramos - 17 de diciembre",
+          "description": "Ricardo Anaya explica por qué quiere ser presidente de México. Meryl Streep, Tom Hanks and Steven Spielberg hablan sobre su nueva película ‘The Post’, sobre el acoso sexual y Trump.",
+          "images": {
+            "original": {
+              "href": "https://cdn3.uvnimg.com/15/f9/222f48ab4bbbb5011234895e78f9/751d154ddedf43b4b9c778468499f2d7",
+              "width": 1920,
+              "height": 1080
+            }
+          },
+          "children": [],
+          "parent": "00000160-70b0-da48-ab73-72b7447d0000",
+          "internal": {
+            "type": "Video",
+            "mediaType": "application/json",
+            "contentDigest": "3494ddadfc7b3c06a719b5b24e3a9f5f"
+          }
+        }
+      },
+      "updatedAt": 1513826127861,
+      "pluginCreator___NODE": "Plugin default-site-plugin",
+      "pluginCreatorId": "Plugin default-site-plugin",
+      "componentPath": "/Users/juanjorge/Developer/gatsby-test-with-source-data/src/layouts/data.js",
+      "id": "SitePage /al-punto-con-jorge-ramos-17-de-diciembre-2017",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "76932519c6aa9338e30a1502414e1f88",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /esto-es-lo-que-le-exigen-a-luis-miguel-para-que-pueda-hacer-sus-conciertos-en-el-auditorio": {
+      "layout": "index",
+      "jsonName": "esto-es-lo-que-le-exigen-a-luis-miguel-para-que-pueda-hacer-sus-conciertos-en-el-auditorio.json",
+      "internalComponentName": "ComponentEstoEsLoQueLeExigenALuisMiguelParaQuePuedaHacerSusConciertosEnElAuditorio",
+      "path": "/esto-es-lo-que-le-exigen-a-luis-miguel-para-que-pueda-hacer-sus-conciertos-en-el-auditorio",
+      "component": "/Users/juanjorge/Developer/gatsby-test-with-source-data/src/layouts/data.js",
+      "componentChunkName": "component---src-layouts-data-js",
+      "context": {
+        "slug": "00000160-76c6-dadb-a1f0-7eee904d0000",
+        "node": {
+          "id": "00000160-76c6-dadb-a1f0-7eee904d0000",
+          "publishDate": "2017-12-20T18:50:00-05:00",
+          "title": "Esto es lo que le exigen a Luis Miguel para que pueda hacer sus conciertos en el Auditorio",
+          "widget": "",
+          "shortTitle": "Esto es lo que le exigen a Luis Miguel para que pueda hacer sus conciertos en el Auditorio",
+          "description": "Además, Aureliano Salgado nos cuenta en su Auriespacio sobre la que catalogaron la mayor sorpresa del mundo del espectáculo este 2017.",
+          "images": {
+            "original": {
+              "href": "https://cdn2.uvnimg.com/1b/e8/d1f78389488d83b62c8212ff7b69/c68ffe94c97b4c66b8e33d2925e3170d",
+              "width": 1920,
+              "height": 1080
+            }
+          },
+          "children": [],
+          "parent": "00000160-76c6-dadb-a1f0-7eee904d0000",
+          "internal": {
+            "type": "Video",
+            "mediaType": "application/json",
+            "contentDigest": "d6d942c129cfff6336a4c6c007b41085"
+          }
+        }
+      },
+      "updatedAt": 1513826127862,
+      "pluginCreator___NODE": "Plugin default-site-plugin",
+      "pluginCreatorId": "Plugin default-site-plugin",
+      "componentPath": "/Users/juanjorge/Developer/gatsby-test-with-source-data/src/layouts/data.js",
+      "id": "SitePage /esto-es-lo-que-le-exigen-a-luis-miguel-para-que-pueda-hacer-sus-conciertos-en-el-auditorio",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "18862a889c8d39df61b65641a3d739f7",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /el-emotivo-adios-en-video-de-beto-sierra-a-su-amigo-asesinado-el-pirata-de-culiacan": {
+      "layout": "index",
+      "jsonName": "el-emotivo-adios-en-video-de-beto-sierra-a-su-amigo-asesinado-el-pirata-de-culiacan.json",
+      "internalComponentName": "ComponentElEmotivoAdiosEnVideoDeBetoSierraASuAmigoAsesinadoElPirataDeCuliacan",
+      "path": "/el-emotivo-adios-en-video-de-beto-sierra-a-su-amigo-asesinado-el-pirata-de-culiacan",
+      "component": "/Users/juanjorge/Developer/gatsby-test-with-source-data/src/layouts/data.js",
+      "componentChunkName": "component---src-layouts-data-js",
+      "context": {
+        "slug": "00000160-76ca-dadb-a1f0-7eee1e340000",
+        "node": {
+          "id": "00000160-76ca-dadb-a1f0-7eee1e340000",
+          "publishDate": "2017-12-20T20:25:00-05:00",
+          "title": "El emotivo adiós en video de Beto Sierra a su amigo asesinado ‘El Pirata de Culiacán’",
+          "widget": "",
+          "shortTitle": "El emotivo adiós en video de Beto Sierra a su amigo asesinado ‘El Pirata de Culiacán’",
+          "description": "El promotor musical, quien ha ganado notoriedad en redes sociales, publicó un video en el que se despide de su amigo asesinado Juan Luis Lagunas, mejor conocido como ‘El pirata de Culiacán’.",
+          "images": {
+            "original": {
+              "href": "https://cdn4.uvnimg.com/26/0a/e7967e0d4009ab5e1fc79308da92/40e57bb019e6495d92ae89b3e89c4ae9",
+              "width": 1920,
+              "height": 1080
+            }
+          },
+          "children": [],
+          "parent": "00000160-76ca-dadb-a1f0-7eee1e340000",
+          "internal": {
+            "type": "Video",
+            "mediaType": "application/json",
+            "contentDigest": "a770c9ab0a7f77a9769e6220ba485350"
+          }
+        }
+      },
+      "updatedAt": 1513826127862,
+      "pluginCreator___NODE": "Plugin default-site-plugin",
+      "pluginCreatorId": "Plugin default-site-plugin",
+      "componentPath": "/Users/juanjorge/Developer/gatsby-test-with-source-data/src/layouts/data.js",
+      "id": "SitePage /el-emotivo-adios-en-video-de-beto-sierra-a-su-amigo-asesinado-el-pirata-de-culiacan",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "c372608f3489d8375b58881ea8d9411e",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /esta-es-la-entrevista-que-le-hicimos-al-pirata-de-culiacan-antes-de-su-asesinato": {
+      "layout": "index",
+      "jsonName": "esta-es-la-entrevista-que-le-hicimos-al-pirata-de-culiacan-antes-de-su-asesinato.json",
+      "internalComponentName": "ComponentEstaEsLaEntrevistaQueLeHicimosAlPirataDeCuliacanAntesDeSuAsesinato",
+      "path": "/esta-es-la-entrevista-que-le-hicimos-al-pirata-de-culiacan-antes-de-su-asesinato",
+      "component": "/Users/juanjorge/Developer/gatsby-test-with-source-data/src/layouts/data.js",
+      "componentChunkName": "component---src-layouts-data-js",
+      "context": {
+        "slug": "00000160-768c-dadb-a1f0-7eee3c750000",
+        "node": {
+          "id": "00000160-768c-dadb-a1f0-7eee3c750000",
+          "publishDate": "2017-12-20T19:45:00-05:00",
+          "title": "Esta es la entrevista que le hicimos al ‘Pirata de Culiacán’  antes de su asesinato",
+          "widget": "",
+          "shortTitle": "Esta es la entrevista que le hicimos al ‘Pirata de Culiacán’  antes de su asesinato",
+          "description": "Juan Luis Lagunas Rosales soñaba con ser cantante de música romantica. El joven de tan solo 17 años de edad habló en aquel entonces con Univision Entretenimiento sobre la repentina notoriedad que ganó en redes sociales, su abuso del alcohol y cuales eran sus aspiraciones.",
+          "images": {
+            "original": {
+              "href": "https://cdn2.uvnimg.com/3e/d8/aa904c7e4d9fb840aecff675f212/a83fea5ab3884917849eab2f805f2fd1",
+              "width": 1920,
+              "height": 1080
+            }
+          },
+          "children": [],
+          "parent": "00000160-768c-dadb-a1f0-7eee3c750000",
+          "internal": {
+            "type": "Video",
+            "mediaType": "application/json",
+            "contentDigest": "46319469a34085e03432d0ebe24e6757"
+          }
+        }
+      },
+      "updatedAt": 1513826127863,
+      "pluginCreator___NODE": "Plugin default-site-plugin",
+      "pluginCreatorId": "Plugin default-site-plugin",
+      "componentPath": "/Users/juanjorge/Developer/gatsby-test-with-source-data/src/layouts/data.js",
+      "id": "SitePage /esta-es-la-entrevista-que-le-hicimos-al-pirata-de-culiacan-antes-de-su-asesinato",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "c000e0b399ef4ba76f6ae687542783dd",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /ya-reclamaron-el-cuerpo-de-el-pirata-de-culiacan-de-la-morgue-de-jalisco": {
+      "layout": "index",
+      "jsonName": "ya-reclamaron-el-cuerpo-de-el-pirata-de-culiacan-de-la-morgue-de-jalisco.json",
+      "internalComponentName": "ComponentYaReclamaronElCuerpoDeElPirataDeCuliacanDeLaMorgueDeJalisco",
+      "path": "/ya-reclamaron-el-cuerpo-de-el-pirata-de-culiacan-de-la-morgue-de-jalisco",
+      "component": "/Users/juanjorge/Developer/gatsby-test-with-source-data/src/layouts/data.js",
+      "componentChunkName": "component---src-layouts-data-js",
+      "context": {
+        "slug": "00000160-750f-d98e-a5f7-f76f34c60000",
+        "node": {
+          "id": "00000160-750f-d98e-a5f7-f76f34c60000",
+          "publishDate": "2017-12-20T14:29:56-05:00",
+          "title": "Ya reclamaron el cuerpo de ‘El Pirata de Culiacán’ de la morgue de Jalisco",
+          "widget": "",
+          "shortTitle": "Ya reclamaron el cuerpo de ‘El Pirata de Culiacán’ de la morgue de Jalisco",
+          "description": "Un familiar del joven asesinado el pasado martes acudió a reconocer el cadaver del famosos 'youtubero'.",
+          "images": {
+            "original": {
+              "href": "https://cdn4.uvnimg.com/fe/31/c389b1e944c2b25c5428de5090a5/piratadeculiacan223.png",
+              "width": 653,
+              "height": 523
+            }
+          },
+          "children": [],
+          "parent": "00000160-750f-d98e-a5f7-f76f34c60000",
+          "internal": {
+            "type": "Article",
+            "mediaType": "application/json",
+            "contentDigest": "8cc556a492c99a8c195e34c8802ef4e6"
+          }
+        }
+      },
+      "updatedAt": 1513826127864,
+      "pluginCreator___NODE": "Plugin default-site-plugin",
+      "pluginCreatorId": "Plugin default-site-plugin",
+      "componentPath": "/Users/juanjorge/Developer/gatsby-test-with-source-data/src/layouts/data.js",
+      "id": "SitePage /ya-reclamaron-el-cuerpo-de-el-pirata-de-culiacan-de-la-morgue-de-jalisco",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "2ebb814d23f054ae3a1ab66c74eb1817",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /khloe-kardashian-confirma-que-si-esta-embarazada-kylie-jenner-aun-no-dice-ni-pio": {
+      "layout": "index",
+      "jsonName": "khloe-kardashian-confirma-que-si-esta-embarazada-kylie-jenner-aun-no-dice-ni-pio.json",
+      "internalComponentName": "ComponentKhloeKardashianConfirmaQueSiEstaEmbarazadaKylieJennerAunNoDiceNiPio",
+      "path": "/khloe-kardashian-confirma-que-si-esta-embarazada-kylie-jenner-aun-no-dice-ni-pio",
+      "component": "/Users/juanjorge/Developer/gatsby-test-with-source-data/src/layouts/data.js",
+      "componentChunkName": "component---src-layouts-data-js",
+      "context": {
+        "slug": "00000160-7640-dd32-ad6c-7e75c1ac0000",
+        "node": {
+          "id": "00000160-7640-dd32-ad6c-7e75c1ac0000",
+          "publishDate": "2017-12-20T19:21:30-05:00",
+          "title": "Khloe Kardashian confirma que sí está embarazada... Kylie Jenner aún no dice ni pío",
+          "widget": "",
+          "shortTitle": "Khloe Kardashian confirma que sí está embarazada... Kylie Jenner aún no dice ni pío",
+          "description": "Faltando cinco días para la celebración de la Navidad, la tercera hija de Kris Jenner rompió el silencio y compartió las buenas nuevas con sus más de 70 millones de seguidores en Instagram.",
+          "images": {
+            "original": {
+              "href": "https://cdn4.uvnimg.com/df/6d/4adf20f14ea39c228fdabee6026b/khloebaby.jpg",
+              "width": 1342,
+              "height": 760
+            }
+          },
+          "children": [],
+          "parent": "00000160-7640-dd32-ad6c-7e75c1ac0000",
+          "internal": {
+            "type": "Article",
+            "mediaType": "application/json",
+            "contentDigest": "d9107373c6cd6abb185b9ff942abeb3d"
+          }
+        }
+      },
+      "updatedAt": 1513826127864,
+      "pluginCreator___NODE": "Plugin default-site-plugin",
+      "pluginCreatorId": "Plugin default-site-plugin",
+      "componentPath": "/Users/juanjorge/Developer/gatsby-test-with-source-data/src/layouts/data.js",
+      "id": "SitePage /khloe-kardashian-confirma-que-si-esta-embarazada-kylie-jenner-aun-no-dice-ni-pio",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "40ffbf8832700c5cb6012dbf0b97c367",
         "owner": "internal-data-bridge"
       }
     },
@@ -927,7 +1377,7 @@
       "component": "/Users/juanjorge/Developer/gatsby-test-with-source-data/src/pages/404.js",
       "componentChunkName": "component---src-pages-404-js",
       "context": {},
-      "updatedAt": 1513781836882,
+      "updatedAt": 1513826127892,
       "pluginCreator___NODE": "Plugin component-page-creator",
       "pluginCreatorId": "Plugin component-page-creator",
       "componentPath": "/Users/juanjorge/Developer/gatsby-test-with-source-data/src/pages/404.js",
@@ -936,7 +1386,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "b7deafabf8e763efbd3ac6cf1e090d64",
+        "contentDigest": "5b0237594199c6a12426a08739a15a12",
         "owner": "internal-data-bridge"
       }
     },
@@ -948,7 +1398,7 @@
       "component": "/Users/juanjorge/Developer/gatsby-test-with-source-data/src/pages/feed-watch.js",
       "componentChunkName": "component---src-pages-feed-watch-js",
       "context": {},
-      "updatedAt": 1513781836883,
+      "updatedAt": 1513826127895,
       "pluginCreator___NODE": "Plugin component-page-creator",
       "pluginCreatorId": "Plugin component-page-creator",
       "componentPath": "/Users/juanjorge/Developer/gatsby-test-with-source-data/src/pages/feed-watch.js",
@@ -957,7 +1407,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "b4e1ddc3926c59c536decc1f27c5ccf0",
+        "contentDigest": "f7f4ad8a8743c6ff1d0811a96f4b3c3d",
         "owner": "internal-data-bridge"
       }
     },
@@ -969,7 +1419,7 @@
       "component": "/Users/juanjorge/Developer/gatsby-test-with-source-data/src/pages/index.js",
       "componentChunkName": "component---src-pages-index-js",
       "context": {},
-      "updatedAt": 1513781836884,
+      "updatedAt": 1513826127897,
       "pluginCreator___NODE": "Plugin component-page-creator",
       "pluginCreatorId": "Plugin component-page-creator",
       "componentPath": "/Users/juanjorge/Developer/gatsby-test-with-source-data/src/pages/index.js",
@@ -978,7 +1428,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "4823ca67cd8969d4e87a246162712e6e",
+        "contentDigest": "dec65b8f4fee53a6e6adf8667faef8ff",
         "owner": "internal-data-bridge"
       }
     },
@@ -990,7 +1440,7 @@
       "component": "/Users/juanjorge/Developer/gatsby-test-with-source-data/src/pages/404.js",
       "componentChunkName": "component---src-pages-404-js",
       "context": {},
-      "updatedAt": 1513781836887,
+      "updatedAt": 1513826127901,
       "pluginCreator___NODE": "Plugin prod-404",
       "pluginCreatorId": "Plugin prod-404",
       "componentPath": "/Users/juanjorge/Developer/gatsby-test-with-source-data/src/pages/404.js",
@@ -999,14 +1449,14 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "b92e684ecd99cec27c9cde8ccd8ebc2f",
+        "contentDigest": "c374b5cfbbb80fc194aa31a92bfbc6d9",
         "owner": "internal-data-bridge"
       }
     }
   },
   "status": {
     "plugins": {},
-    "PLUGINS_HASH": "33cdd82a1bae6f6d0539124c9565ff58"
+    "PLUGINS_HASH": "969e24f6ebb62e53fa289b54cb0eca66"
   },
   "componentDataDependencies": {
     "nodes": {},
