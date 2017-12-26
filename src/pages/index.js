@@ -8,11 +8,11 @@ export default class IndexPage extends React.Component {
 
           return (
           <div>
-              <h1>Static pages generated:</h1>
+              <h1>Static pages generated: ({pages.length - 5})</h1>
               <ul>
                   {
                     pages.map(({ node }) => {
-                      if(node.path != 'dev-404-page/' && node.path != '/404/' && node.path != '/404.html' && node.path != '/dev-404-page/' && node.path != '/')
+                      if(node.path != '/feed-watch/' && node.path != 'dev-404-page/' && node.path != '/404/' && node.path != '/404.html' && node.path != '/dev-404-page/' && node.path != '/')
                       return (
                         <li>
                             <a href={'/gatsby-test-dynamic-data/public' + node.path}>{node.path}</a>

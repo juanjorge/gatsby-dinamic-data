@@ -4,8 +4,8 @@ import { setTimeout } from 'timers';
 const AWS = require('aws-sdk/dist/aws-sdk-react-native')
 const axios = require(`axios`)
 const crypto = require(`crypto`)
-const BUCKET = 'agency-fe-test-2'
-const BUCKET_SOURCE = 'agency-fe-test-2-build'
+const BUCKET = 'univision-external-content'
+const BUCKET_SOURCE = 'univision-external-content-build'
 const OBJECT = 'gatsby-test-dynamic-data'
      
 AWS.config.apiVersions = {
@@ -18,7 +18,7 @@ AWS.config.update({
         accessKeyId: process.env.AWS_ACCESS_KEY_ID,
         secretAccessKey: process.env.AWS_SECRET_ACCESS_KEY
     },
-    region: 'us-east-2'
+    region: 'us-east-1'
 });   
 var codebuild = new AWS.CodeBuild();
 var dynamodb = new AWS.DynamoDB();
@@ -225,7 +225,7 @@ export default class FeedWatchPage extends React.Component {
     {
         var params = {
             //projectName: "gatsby-test-dynamic-data"
-            projectName: "gatsby-build"
+            projectName: "external-content-build"
         };
         codebuild.startBuild(params, function(err, data) {
             if (err){

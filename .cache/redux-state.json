@@ -8,7 +8,7 @@
       "component": "/Users/juanjorge/Developer/gatsby-test-with-source-data/.cache/dev-404-page.js",
       "componentChunkName": "component---cache-dev-404-page-js",
       "context": {},
-      "updatedAt": 1513856440377,
+      "updatedAt": 1514299557342,
       "pluginCreator___NODE": "Plugin dev-404-page",
       "pluginCreatorId": "Plugin dev-404-page",
       "componentPath": "/Users/juanjorge/Developer/gatsby-test-with-source-data/.cache/dev-404-page.js",
@@ -17,7 +17,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "d629c1c9a171902608adb846d5cd86ee",
+        "contentDigest": "8c7099ea03a725664ada6f0999d2295b",
         "owner": "internal-data-bridge"
       }
     },
@@ -369,12 +369,12 @@
       "host": "localhost",
       "pathPrefix": "",
       "polyfill": true,
-      "buildTime": "2017-12-21T11:40:35.982Z",
+      "buildTime": "2017-12-26T14:45:53.330Z",
       "id": "Site",
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "8867df58a7a6c4bf41af54724b702707",
+        "contentDigest": "7806da91273e8760c1dc83172a17059f",
         "type": "Site",
         "owner": "internal-data-bridge"
       }
@@ -411,7 +411,7 @@
           }
         }
       },
-      "updatedAt": 1513856441158,
+      "updatedAt": 1514299557958,
       "pluginCreator___NODE": "Plugin default-site-plugin",
       "pluginCreatorId": "Plugin default-site-plugin",
       "componentPath": "/Users/juanjorge/Developer/gatsby-test-with-source-data/src/layouts/data.js",
@@ -420,7 +420,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "9d6cd2f5a903694f2fe38f81b71e835d",
+        "contentDigest": "4b9f18b976bcd523215ed19eeebc8d09",
         "owner": "internal-data-bridge"
       }
     },
@@ -456,7 +456,7 @@
           }
         }
       },
-      "updatedAt": 1513856441159,
+      "updatedAt": 1514299557959,
       "pluginCreator___NODE": "Plugin default-site-plugin",
       "pluginCreatorId": "Plugin default-site-plugin",
       "componentPath": "/Users/juanjorge/Developer/gatsby-test-with-source-data/src/layouts/data.js",
@@ -465,7 +465,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "dc7fda0d01a667b0f20df22d420a6c5d",
+        "contentDigest": "6cf16eeb8829b1d99f8f421378e86686",
         "owner": "internal-data-bridge"
       }
     },
@@ -501,7 +501,7 @@
           }
         }
       },
-      "updatedAt": 1513856441160,
+      "updatedAt": 1514299557960,
       "pluginCreator___NODE": "Plugin default-site-plugin",
       "pluginCreatorId": "Plugin default-site-plugin",
       "componentPath": "/Users/juanjorge/Developer/gatsby-test-with-source-data/src/layouts/data.js",
@@ -510,7 +510,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "01cd67d8a7489de46b064e446b240d54",
+        "contentDigest": "e4553cbc9da892326ff0c3b192203558",
         "owner": "internal-data-bridge"
       }
     },
@@ -546,7 +546,7 @@
           }
         }
       },
-      "updatedAt": 1513856441160,
+      "updatedAt": 1514299557961,
       "pluginCreator___NODE": "Plugin default-site-plugin",
       "pluginCreatorId": "Plugin default-site-plugin",
       "componentPath": "/Users/juanjorge/Developer/gatsby-test-with-source-data/src/layouts/data.js",
@@ -555,7 +555,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "325b4db5e88275aec050704a9a3ba6fa",
+        "contentDigest": "986dd05c430daea995cc7ae55e67d63b",
         "owner": "internal-data-bridge"
       }
     },
@@ -591,7 +591,7 @@
           }
         }
       },
-      "updatedAt": 1513856441161,
+      "updatedAt": 1514299557961,
       "pluginCreator___NODE": "Plugin default-site-plugin",
       "pluginCreatorId": "Plugin default-site-plugin",
       "componentPath": "/Users/juanjorge/Developer/gatsby-test-with-source-data/src/layouts/data.js",
@@ -600,7 +600,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "1322603be3cb204748f1090dc5ff0875",
+        "contentDigest": "9b9ff446386b90578a695b00b0735f00",
         "owner": "internal-data-bridge"
       }
     },
@@ -636,7 +636,7 @@
           }
         }
       },
-      "updatedAt": 1513856441162,
+      "updatedAt": 1514299557962,
       "pluginCreator___NODE": "Plugin default-site-plugin",
       "pluginCreatorId": "Plugin default-site-plugin",
       "componentPath": "/Users/juanjorge/Developer/gatsby-test-with-source-data/src/layouts/data.js",
@@ -645,7 +645,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "d65505b039238441b577278a5068b9cc",
+        "contentDigest": "61dbace6ecedb64452c7d1f9ffca4553",
         "owner": "internal-data-bridge"
       }
     },
@@ -681,7 +681,7 @@
           }
         }
       },
-      "updatedAt": 1513856441163,
+      "updatedAt": 1514299557962,
       "pluginCreator___NODE": "Plugin default-site-plugin",
       "pluginCreatorId": "Plugin default-site-plugin",
       "componentPath": "/Users/juanjorge/Developer/gatsby-test-with-source-data/src/layouts/data.js",
@@ -690,7 +690,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "dbe5ef868a3152f0e48ff8085c0ae917",
+        "contentDigest": "69453a7766532ea5abcd81141efd6f26",
         "owner": "internal-data-bridge"
       }
     },
@@ -726,7 +726,7 @@
           }
         }
       },
-      "updatedAt": 1513856441164,
+      "updatedAt": 1514299557963,
       "pluginCreator___NODE": "Plugin default-site-plugin",
       "pluginCreatorId": "Plugin default-site-plugin",
       "componentPath": "/Users/juanjorge/Developer/gatsby-test-with-source-data/src/layouts/data.js",
@@ -735,682 +735,727 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "06001b18bd92c0e4abcd308b91421f39",
+        "contentDigest": "9a988901fa9a3430f87d0a6f3113dcce",
         "owner": "internal-data-bridge"
       }
     },
-    "SitePage /recomendaciones-para-el-cruce-de-la-frontera-de-tijuana-en-esta-temporada-navidena": {
+    "SitePage /una-persona-herida-y-12-evacuadas-por-el-incendio-en-una-vivienda-de-brooklyn": {
       "layout": "index",
-      "jsonName": "recomendaciones-para-el-cruce-de-la-frontera-de-tijuana-en-esta-temporada-navidena.json",
-      "internalComponentName": "ComponentRecomendacionesParaElCruceDeLaFronteraDeTijuanaEnEstaTemporadaNavidena",
-      "path": "/recomendaciones-para-el-cruce-de-la-frontera-de-tijuana-en-esta-temporada-navidena",
+      "jsonName": "una-persona-herida-y-12-evacuadas-por-el-incendio-en-una-vivienda-de-brooklyn.json",
+      "internalComponentName": "ComponentUnaPersonaHeridaY12EvacuadasPorElIncendioEnUnaViviendaDeBrooklyn",
+      "path": "/una-persona-herida-y-12-evacuadas-por-el-incendio-en-una-vivienda-de-brooklyn",
       "component": "/Users/juanjorge/Developer/gatsby-test-with-source-data/src/layouts/data.js",
       "componentChunkName": "component---src-layouts-data-js",
       "context": {
-        "slug": "00000160-7831-dadb-a1f0-7a7f1b030000",
+        "slug": "00000160-78d7-dadb-a1f0-7aff4ed70000",
         "node": {
-          "id": "00000160-7831-dadb-a1f0-7a7f1b030000",
-          "publishDate": "2017-12-21T03:00:00-05:00",
-          "title": "Recomendaciones para el cruce de la frontera de Tijuana en esta temporada navideña",
+          "id": "00000160-78d7-dadb-a1f0-7aff4ed70000",
+          "publishDate": "2017-12-21T06:26:00-05:00",
+          "title": "Una persona herida y 12 evacuadas por el incendio en una vivienda de Brooklyn",
           "widget": "",
-          "shortTitle": "Recomendaciones para el cruce de la frontera de Tijuana en esta temporada navideña",
-          "description": "La Oficina de Aduanas y Protección Fronteriza de Estados Unidos aconseja a los viajeros tener a la mano sus documentos, la lista de mandado y la mercancía que van a transportar para que la declaración fluya más rápido y se evite congestión.",
+          "shortTitle": "Una persona herida y 12 evacuadas por el incendio en una vivienda de Brooklyn",
+          "description": "Los bomberos atendieron la emergencia en la madrugada por un incendio de dos alarmas que inició en una vivienda y se extendió a estructuras vecinas. Informaron que una persona sufrió heridas leves.",
           "images": {
             "original": {
-              "href": "https://cdn2.uvnimg.com/b0/32/23e4167e4734b672cce0ccf81beb/6a568461ebcc4644b9215a78aaeb0296",
+              "href": "https://cdn3.uvnimg.com/52/f9/042ae16b4eef9a905344024f17f3/29195f05c18a455ca8b9e7eec8a6f85d",
               "width": 1920,
               "height": 1080
             }
           },
           "children": [],
-          "parent": "00000160-7831-dadb-a1f0-7a7f1b030000",
+          "parent": "00000160-78d7-dadb-a1f0-7aff4ed70000",
           "internal": {
             "type": "Video",
             "mediaType": "application/json",
-            "contentDigest": "7bc35f0d0f6740006b580fa5a8ca3c4d"
+            "contentDigest": "3b19223090d77f53e561a42d4ef6a05f"
           }
         }
       },
-      "updatedAt": 1513856441164,
+      "updatedAt": 1514299557964,
       "pluginCreator___NODE": "Plugin default-site-plugin",
       "pluginCreatorId": "Plugin default-site-plugin",
       "componentPath": "/Users/juanjorge/Developer/gatsby-test-with-source-data/src/layouts/data.js",
-      "id": "SitePage /recomendaciones-para-el-cruce-de-la-frontera-de-tijuana-en-esta-temporada-navidena",
+      "id": "SitePage /una-persona-herida-y-12-evacuadas-por-el-incendio-en-una-vivienda-de-brooklyn",
       "parent": "SOURCE",
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "57dc7080b50e80e5220af5e8a60d6b45",
+        "contentDigest": "513c4f23bad0ad16496916c185e21809",
         "owner": "internal-data-bridge"
       }
     },
-    "SitePage /residentes-permanentes-en-eeuu-viajan-con-el-temor-de-no-poder-ingresar-de-nuevo": {
+    "SitePage /a-tiempo-para-la-cena-de-navidad-este-hombre-se-reune-de-nuevo-con-su-familia-tras-ser-deportado": {
       "layout": "index",
-      "jsonName": "residentes-permanentes-en-eeuu-viajan-con-el-temor-de-no-poder-ingresar-de-nuevo.json",
-      "internalComponentName": "ComponentResidentesPermanentesEnEeuuViajanConElTemorDeNoPoderIngresarDeNuevo",
-      "path": "/residentes-permanentes-en-eeuu-viajan-con-el-temor-de-no-poder-ingresar-de-nuevo",
+      "jsonName": "a-tiempo-para-la-cena-de-navidad-este-hombre-se-reune-de-nuevo-con-su-familia-tras-ser-deportado.json",
+      "internalComponentName": "ComponentATiempoParaLaCenaDeNavidadEsteHombreSeReuneDeNuevoConSuFamiliaTrasSerDeportado",
+      "path": "/a-tiempo-para-la-cena-de-navidad-este-hombre-se-reune-de-nuevo-con-su-familia-tras-ser-deportado",
       "component": "/Users/juanjorge/Developer/gatsby-test-with-source-data/src/layouts/data.js",
       "componentChunkName": "component---src-layouts-data-js",
       "context": {
-        "slug": "00000160-782f-dadb-a1f0-7a6f16d60000",
+        "slug": "00000160-915a-dadb-a1f0-9b7e9cda0000",
         "node": {
-          "id": "00000160-782f-dadb-a1f0-7a6f16d60000",
-          "publishDate": "2017-12-21T02:56:00-05:00",
-          "title": "Residentes permanentes en EEUU viajan con el temor de no poder ingresar de nuevo",
+          "id": "00000160-915a-dadb-a1f0-9b7e9cda0000",
+          "publishDate": "2017-12-25T23:48:00-05:00",
+          "title": "A tiempo para la cena de Navidad: Este hombre se reúne de nuevo con su familia tras ser deportado",
           "widget": "",
-          "shortTitle": "Residentes permanentes en EEUU viajan con el temor de no poder ingresar de nuevo",
-          "description": "El temor, según abogados de inmigración, se debe a las políticas migratorias del presidente Donald Trump. Varios residentes legales han manifestado que cuando vuelven a ingresar a EEUU encuentran con diversos obstáculos por parte de los agentes de inmigración, aun sin tener antecedentes penales. Muchos prefieren y recomiendan no viajar por miedo, pero otros se arriesgan para pasar las fiestas decembrinas junto a sus seres queridos.",
+          "shortTitle": "A tiempo para la cena de Navidad: Este hombre se reúne de nuevo con su familia tras ser deportado",
+          "description": "Después de por lo menos cuatro años de ausencia y múltiples batallas legales, Román Zuvieta volvió a abrazar a su esposa y a sus dos hijos. Su cónyuge, Carmen, dijo que no existen palabra para describir el daño que causa la repatriación.",
           "images": {
             "original": {
-              "href": "https://cdn4.uvnimg.com/a0/0e/5b87d77345559c1c5b772bc651f8/81c949585ebe4e16a8fbbe5d255ffccb",
-              "width": 1280,
-              "height": 720
-            }
-          },
-          "children": [],
-          "parent": "00000160-782f-dadb-a1f0-7a6f16d60000",
-          "internal": {
-            "type": "Video",
-            "mediaType": "application/json",
-            "contentDigest": "b5cd60b21f7d64cd6e6fc0f7cc31bea3"
-          }
-        }
-      },
-      "updatedAt": 1513856441165,
-      "pluginCreator___NODE": "Plugin default-site-plugin",
-      "pluginCreatorId": "Plugin default-site-plugin",
-      "componentPath": "/Users/juanjorge/Developer/gatsby-test-with-source-data/src/layouts/data.js",
-      "id": "SitePage /residentes-permanentes-en-eeuu-viajan-con-el-temor-de-no-poder-ingresar-de-nuevo",
-      "parent": "SOURCE",
-      "children": [],
-      "internal": {
-        "type": "SitePage",
-        "contentDigest": "9879f286983ec3042cf7e588d0bfa52e",
-        "owner": "internal-data-bridge"
-      }
-    },
-    "SitePage /ciudadana-estadounidense-demanda-a-ice-por-presunta-detencion-injustificada-en-california": {
-      "layout": "index",
-      "jsonName": "ciudadana-estadounidense-demanda-a-ice-por-presunta-detencion-injustificada-en-california.json",
-      "internalComponentName": "ComponentCiudadanaEstadounidenseDemandaAIcePorPresuntaDetencionInjustificadaEnCalifornia",
-      "path": "/ciudadana-estadounidense-demanda-a-ice-por-presunta-detencion-injustificada-en-california",
-      "component": "/Users/juanjorge/Developer/gatsby-test-with-source-data/src/layouts/data.js",
-      "componentChunkName": "component---src-layouts-data-js",
-      "context": {
-        "slug": "00000160-77d9-dadb-a1f0-7fff70960000",
-        "node": {
-          "id": "00000160-77d9-dadb-a1f0-7fff70960000",
-          "publishDate": "2017-12-21T00:00:00-05:00",
-          "title": "Ciudadana estadounidense demanda a ICE por presunta detención injustificada en California",
-          "widget": "",
-          "shortTitle": "Ciudadana estadounidense demanda a ICE por presunta detención injustificada en California",
-          "description": "La Unión Americana de Libertades Civiles (ACLU) interpuso la demanda en nombre de Guadalupe Plascencia contra el Servicio de Inmigración y Control de Aduanas y el Sheriff del condado de San Bernardino alegando una privación de la libertad sin causa y su prolongación. ICE no respondió a una solicitud de Univision para hablar sobre el caso.",
-          "images": {
-            "original": {
-              "href": "https://cdn3.uvnimg.com/71/7b/3319bc4547d8ae90e1357130410a/cda879378094400bb2c0f4d6e5ffdaae",
+              "href": "https://cdn2.uvnimg.com/72/c9/0de48fbb41cf821092d7deba953b/183b92d3a99d4734a58fe768cbae5864",
               "width": 1920,
               "height": 1080
             }
           },
           "children": [],
-          "parent": "00000160-77d9-dadb-a1f0-7fff70960000",
+          "parent": "00000160-915a-dadb-a1f0-9b7e9cda0000",
           "internal": {
             "type": "Video",
             "mediaType": "application/json",
-            "contentDigest": "8ceecbc4645090ce6fa96122241ede5e"
+            "contentDigest": "c6575c8f8ee821b99ee7da98c29f0058"
           }
         }
       },
-      "updatedAt": 1513856441167,
+      "updatedAt": 1514299557964,
       "pluginCreator___NODE": "Plugin default-site-plugin",
       "pluginCreatorId": "Plugin default-site-plugin",
       "componentPath": "/Users/juanjorge/Developer/gatsby-test-with-source-data/src/layouts/data.js",
-      "id": "SitePage /ciudadana-estadounidense-demanda-a-ice-por-presunta-detencion-injustificada-en-california",
+      "id": "SitePage /a-tiempo-para-la-cena-de-navidad-este-hombre-se-reune-de-nuevo-con-su-familia-tras-ser-deportado",
       "parent": "SOURCE",
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "c19af6efba7a4fb8a566ee0d57a11489",
+        "contentDigest": "dbd6295dea461dc3cbb9c7d02fb2e951",
         "owner": "internal-data-bridge"
       }
     },
-    "SitePage /lo-que-implicaria-la-revision-de-la-visa-h-1-b-por-parte-del-departamento-de-seguridad-nacional": {
+    "SitePage /la-intencion-del-presidente-el-estudio-de-ucla-llevado-a-corte-federal-en-nueva-york-para-defender-daca": {
       "layout": "index",
-      "jsonName": "lo-que-implicaria-la-revision-de-la-visa-h-1-b-por-parte-del-departamento-de-seguridad-nacional.json",
-      "internalComponentName": "ComponentLoQueImplicariaLaRevisionDeLaVisaH1BPorParteDelDepartamentoDeSeguridadNacional",
-      "path": "/lo-que-implicaria-la-revision-de-la-visa-h-1-b-por-parte-del-departamento-de-seguridad-nacional",
+      "jsonName": "la-intencion-del-presidente-el-estudio-de-ucla-llevado-a-corte-federal-en-nueva-york-para-defender-daca.json",
+      "internalComponentName": "ComponentLaIntencionDelPresidenteElEstudioDeUclaLlevadoACorteFederalEnNuevaYorkParaDefenderDaca",
+      "path": "/la-intencion-del-presidente-el-estudio-de-ucla-llevado-a-corte-federal-en-nueva-york-para-defender-daca",
       "component": "/Users/juanjorge/Developer/gatsby-test-with-source-data/src/layouts/data.js",
       "componentChunkName": "component---src-layouts-data-js",
       "context": {
-        "slug": "00000160-77c9-dadb-a1f0-7fef09a60000",
+        "slug": "00000160-9149-dadb-a1f0-9b6f1b500000",
         "node": {
-          "id": "00000160-77c9-dadb-a1f0-7fef09a60000",
-          "publishDate": "2017-12-20T23:57:00-05:00",
-          "title": "Lo que implicaría la revisión de la visa H-1B por parte del Departamento de Seguridad Nacional",
+          "id": "00000160-9149-dadb-a1f0-9b6f1b500000",
+          "publishDate": "2017-12-25T23:42:00-05:00",
+          "title": "La Intención del Presidente, el estudio de UCLA llevado a corte federal en Nueva York para defender DACA",
           "widget": "",
-          "shortTitle": "Lo que implicaría la revisión de la visa H-1B por parte del Departamento de Seguridad Nacional",
-          "description": "Durante la campaña presidencial, Donald Trump calificó como muy malo este programa de permisos para trabajadores calificados. Ahora, el Departamento de Seguridad Nacional contempla que los cónyuges de los beneficiarios no puedan trabajar en el país.",
+          "shortTitle": "La Intención del Presidente, el estudio de UCLA llevado a una corte federal para defender DACA",
+          "description": "El docente de la Universidad de California en Los Ángeles (UCLA) Octavio Pescador expresó que se realizó un análisis de por lo menos 300 discursos, 6,000 tuits y 1 millón de palabras de Donald Trump para probar que hay una intención negativa en su discurso y que esto se \"traduce\" en políticas públicas incorrectas.",
           "images": {
             "original": {
-              "href": "https://cdn3.uvnimg.com/49/90/0670e9e4486486892bdd6fa3a1f1/9b78b69077fc415cbe0ad2ef21b03472",
+              "href": "https://cdn3.uvnimg.com/eb/e8/38e04aa04f4f92c83edef1124091/3a5a21588134461f9af02987b165f099",
               "width": 1920,
               "height": 1080
             }
           },
           "children": [],
-          "parent": "00000160-77c9-dadb-a1f0-7fef09a60000",
+          "parent": "00000160-9149-dadb-a1f0-9b6f1b500000",
           "internal": {
             "type": "Video",
             "mediaType": "application/json",
-            "contentDigest": "7692b1b2207c66bf6ecf7c1c27baaf71"
+            "contentDigest": "300b5a4f1bbddc1f3396518057278b92"
           }
         }
       },
-      "updatedAt": 1513856441168,
+      "updatedAt": 1514299557965,
       "pluginCreator___NODE": "Plugin default-site-plugin",
       "pluginCreatorId": "Plugin default-site-plugin",
       "componentPath": "/Users/juanjorge/Developer/gatsby-test-with-source-data/src/layouts/data.js",
-      "id": "SitePage /lo-que-implicaria-la-revision-de-la-visa-h-1-b-por-parte-del-departamento-de-seguridad-nacional",
+      "id": "SitePage /la-intencion-del-presidente-el-estudio-de-ucla-llevado-a-corte-federal-en-nueva-york-para-defender-daca",
       "parent": "SOURCE",
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "d89df64ce094b12e94f7cddabb2226bf",
+        "contentDigest": "92afb2fd66ac778c1c436f6d9b3e4a74",
         "owner": "internal-data-bridge"
       }
     },
-    "SitePage /liberan-a-los-siete-dreamers-arrestados-que-hicieron-huelga-de-hambre-para-presionar-por-un-dream-act-limpio": {
+    "SitePage /inmigrantes-agradecen-y-piden-en-la-placita-olvera-de-los-angeles-tras-la-nochebuena": {
       "layout": "index",
-      "jsonName": "liberan-a-los-siete-dreamers-arrestados-que-hicieron-huelga-de-hambre-para-presionar-por-un-dream-act-limpio.json",
-      "internalComponentName": "ComponentLiberanALosSieteDreamersArrestadosQueHicieronHuelgaDeHambreParaPresionarPorUnDreamActLimpio",
-      "path": "/liberan-a-los-siete-dreamers-arrestados-que-hicieron-huelga-de-hambre-para-presionar-por-un-dream-act-limpio",
+      "jsonName": "inmigrantes-agradecen-y-piden-en-la-placita-olvera-de-los-angeles-tras-la-nochebuena.json",
+      "internalComponentName": "ComponentInmigrantesAgradecenYPidenEnLaPlacitaOlveraDeLosAngelesTrasLaNochebuena",
+      "path": "/inmigrantes-agradecen-y-piden-en-la-placita-olvera-de-los-angeles-tras-la-nochebuena",
       "component": "/Users/juanjorge/Developer/gatsby-test-with-source-data/src/layouts/data.js",
       "componentChunkName": "component---src-layouts-data-js",
       "context": {
-        "slug": "00000160-7785-dadb-a1f0-7feffa720000",
+        "slug": "00000160-90c6-dadb-a1f0-9aeea07b0000",
         "node": {
-          "id": "00000160-7785-dadb-a1f0-7feffa720000",
-          "publishDate": "2017-12-20T23:48:00-05:00",
-          "title": "Liberan a los siete dreamers arrestados que hicieron huelga de hambre para presionar por un 'Dream Act limpio'",
+          "id": "00000160-90c6-dadb-a1f0-9aeea07b0000",
+          "publishDate": "2017-12-25T21:09:00-05:00",
+          "title": "Inmigrantes agradecen y piden en la Placita Olvera de Los Ángeles tras la Nochebuena",
           "widget": "",
-          "shortTitle": "Liberan a dreamers arrestados que hicieron huelga de hambre para presionar por un 'Dream Act limpio'",
-          "description": "Después de seis días, siete dreamers y un defensor de la medida salieron de la cárcel en Washington tras ser detenidos cuando realizaban manifestaciones pacíficas en las oficinas del líder de la minoría del Senado, el demócrata Chuck Schumer, y del congresista republicano por Florida, Carlos Curbelo, con el fin de instarlos a apoyar en el Congreso una medida que ampare permanentemente a beneficiarios de DACA y sin repercusiones para otros inmigrantes.",
+          "shortTitle": "Inmigrantes agradecen y piden en la Placita Olvera de Los Ángeles tras la Nochebuena",
+          "description": "\"Que Donald Trump tenga piedad y consideración porque la vida da muchas vueltas\", una reforma migratoria y protección para los dreamers son algunos deseos de los visitantes del lugar religioso después del día de Navidad.",
           "images": {
             "original": {
-              "href": "https://cdn4.uvnimg.com/64/48/41c9cf9c40bf91936d242af47e6b/ef728c1f0b8e4c69ac9f3aab3bf9585b",
+              "href": "https://cdn1.uvnimg.com/60/15/732f7a064cba8b588936b4aaa618/da62035382e6403fa4d7aac837fdd357",
               "width": 1920,
               "height": 1080
             }
           },
           "children": [],
-          "parent": "00000160-7785-dadb-a1f0-7feffa720000",
+          "parent": "00000160-90c6-dadb-a1f0-9aeea07b0000",
           "internal": {
             "type": "Video",
             "mediaType": "application/json",
-            "contentDigest": "8fccf0002192441e912710759ff5c063"
+            "contentDigest": "99ce3f56e8d60bc4cf4d7f6b707cabdd"
           }
         }
       },
-      "updatedAt": 1513856441170,
+      "updatedAt": 1514299557965,
       "pluginCreator___NODE": "Plugin default-site-plugin",
       "pluginCreatorId": "Plugin default-site-plugin",
       "componentPath": "/Users/juanjorge/Developer/gatsby-test-with-source-data/src/layouts/data.js",
-      "id": "SitePage /liberan-a-los-siete-dreamers-arrestados-que-hicieron-huelga-de-hambre-para-presionar-por-un-dream-act-limpio",
+      "id": "SitePage /inmigrantes-agradecen-y-piden-en-la-placita-olvera-de-los-angeles-tras-la-nochebuena",
       "parent": "SOURCE",
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "e5f8a24c82544f0c41ba3a3e1bae34cd",
+        "contentDigest": "5f702e028d6579d213a839d64956e918",
         "owner": "internal-data-bridge"
       }
     },
-    "SitePage /liberan-a-los-7-dreamers-arrestados-que-estaban-haciendo-huelga-de-hambre-para-presionar-a-los-democratas": {
+    "SitePage /a-estos-cubanos-de-eeuu-no-les-preocupa-tener-una-orden-de-deportacion": {
       "layout": "index",
-      "jsonName": "liberan-a-los-7-dreamers-arrestados-que-estaban-haciendo-huelga-de-hambre-para-presionar-a-los-democratas.json",
-      "internalComponentName": "ComponentLiberanALos7DreamersArrestadosQueEstabanHaciendoHuelgaDeHambreParaPresionarALosDemocratas",
-      "path": "/liberan-a-los-7-dreamers-arrestados-que-estaban-haciendo-huelga-de-hambre-para-presionar-a-los-democratas",
+      "jsonName": "a-estos-cubanos-de-eeuu-no-les-preocupa-tener-una-orden-de-deportacion.json",
+      "internalComponentName": "ComponentAEstosCubanosDeEeuuNoLesPreocupaTenerUnaOrdenDeDeportacion",
+      "path": "/a-estos-cubanos-de-eeuu-no-les-preocupa-tener-una-orden-de-deportacion",
       "component": "/Users/juanjorge/Developer/gatsby-test-with-source-data/src/layouts/data.js",
       "componentChunkName": "component---src-layouts-data-js",
       "context": {
-        "slug": "00000160-76cc-dd32-ad6c-7efdea070000",
+        "slug": "00000160-8a33-d946-a5fa-dbff7e580000",
         "node": {
-          "id": "00000160-76cc-dd32-ad6c-7efdea070000",
-          "publishDate": "2017-12-20T23:17:39-05:00",
-          "title": "Liberan a los 7 dreamers arrestados que estaban haciendo huelga de hambre para presionar a los demócratas",
+          "id": "00000160-8a33-d946-a5fa-dbff7e580000",
+          "publishDate": "2017-12-25T15:47:22-05:00",
+          "title": "A estos cubanos de EEUU no les preocupa tener una orden de deportación",
           "widget": "",
-          "shortTitle": "Liberan a los 7 dreamers arrestados que hacían huelga de hambre para presionar a los demócratas",
-          "description": "En total eran ocho los detenidos en Washington DC, siete dreamers y un ciudadano que colabora con la causa. Desde hace seis días y a riesgo de ser deportados los jóvenes quieren que los demócratas impulsen una ley que los proteja antes del viernes 22 de diciembre. ",
+          "shortTitle": "Más de 37,000 cubanos tienen orden de deportación pero \r\nPor qué los cubanos con orden de deportación no tienen miedo a ser deportados?",
+          "description": "Más de 37,000 cubanos en EEUU tienen orden de deportación. La mayoría entró en esa lista porque ha cometido algún delito. Pero esta comunidad no parece tan preocupada como otros inmigrantes, y los expertos explican por qué.",
           "images": {
             "original": {
-              "href": "https://cdn2.uvnimg.com/72/e5/fe98cbaf428e8185e0128e520429/gettyimages-453491813.jpg",
-              "width": 0,
-              "height": 0
+              "href": "https://cdn3.uvnimg.com/b3/ba/d7b45a0b4a73a20d96cc22c57ab1/gettyimages-52022470.jpg",
+              "width": 2400,
+              "height": 1562
             }
           },
           "children": [],
-          "parent": "00000160-76cc-dd32-ad6c-7efdea070000",
+          "parent": "00000160-8a33-d946-a5fa-dbff7e580000",
           "internal": {
             "type": "Article",
             "mediaType": "application/json",
-            "contentDigest": "5f0aa94a5e09a6dd6e57dbd6283f6826"
+            "contentDigest": "7dd84cec74b6ec16631fec067d9280bd"
           }
         }
       },
-      "updatedAt": 1513856441171,
+      "updatedAt": 1514299557966,
       "pluginCreator___NODE": "Plugin default-site-plugin",
       "pluginCreatorId": "Plugin default-site-plugin",
       "componentPath": "/Users/juanjorge/Developer/gatsby-test-with-source-data/src/layouts/data.js",
-      "id": "SitePage /liberan-a-los-7-dreamers-arrestados-que-estaban-haciendo-huelga-de-hambre-para-presionar-a-los-democratas",
+      "id": "SitePage /a-estos-cubanos-de-eeuu-no-les-preocupa-tener-una-orden-de-deportacion",
       "parent": "SOURCE",
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "036e085a8bcbe111df9f887cd64936b3",
+        "contentDigest": "a66dd92e71b6258c94bb054ab989e6ca",
         "owner": "internal-data-bridge"
       }
     },
-    "SitePage /quienes-son-elegibles-para-iniciar-el-tramite-de-ciudadania": {
+    "SitePage /activistas-inmigrantes-aseguran-que-seguiran-luchando-por-sus-derechos": {
       "layout": "index",
-      "jsonName": "quienes-son-elegibles-para-iniciar-el-tramite-de-ciudadania.json",
-      "internalComponentName": "ComponentQuienesSonElegiblesParaIniciarElTramiteDeCiudadania",
-      "path": "/quienes-son-elegibles-para-iniciar-el-tramite-de-ciudadania",
+      "jsonName": "activistas-inmigrantes-aseguran-que-seguiran-luchando-por-sus-derechos.json",
+      "internalComponentName": "ComponentActivistasInmigrantesAseguranQueSeguiranLuchandoPorSusDerechos",
+      "path": "/activistas-inmigrantes-aseguran-que-seguiran-luchando-por-sus-derechos",
       "component": "/Users/juanjorge/Developer/gatsby-test-with-source-data/src/layouts/data.js",
       "componentChunkName": "component---src-layouts-data-js",
       "context": {
-        "slug": "00000160-76fc-dadb-a1f0-7efeb7910000",
+        "slug": "00000160-902e-dadb-a1f0-9a6e5d570000",
         "node": {
-          "id": "00000160-76fc-dadb-a1f0-7efeb7910000",
-          "publishDate": "2017-12-20T21:50:00-05:00",
-          "title": "¿Quiénes son elegibles para iniciar el trámite de ciudadanía?",
+          "id": "00000160-902e-dadb-a1f0-9a6e5d570000",
+          "publishDate": "2017-12-25T19:11:00-05:00",
+          "title": "Activistas inmigrantes aseguran que seguirán luchando por sus derechos",
           "widget": "",
-          "shortTitle": "¿Quiénes son elegibles para iniciar el trámite de ciudadanía?",
-          "description": "Una experta en inmigración explicó quiénes son elegibles para la ciudadanía, así como los pasos de los trámites.",
+          "shortTitle": "Activistas inmigrantes aseguran que seguirán luchando por sus derechos",
+          "description": "Una activista inmigrante relató las acciones que han tenido a lo largo del año y asegura que seguirán luchando.",
           "images": {
             "original": {
-              "href": "https://cdn2.uvnimg.com/2c/bd/14929e9241e9925e34900ec140d4/122017-sfpm1-5.jpg",
-              "width": 1769,
-              "height": 843
+              "href": "https://cdn4.uvnimg.com/4e/3c/f5f4a8bc411dbbffd1f862030706/122517-auspm1-2.jpg",
+              "width": 1339,
+              "height": 829
             }
           },
           "children": [],
-          "parent": "00000160-76fc-dadb-a1f0-7efeb7910000",
+          "parent": "00000160-902e-dadb-a1f0-9a6e5d570000",
           "internal": {
             "type": "Video",
             "mediaType": "application/json",
-            "contentDigest": "174cb2fff7a2e7d9a628f319045db582"
+            "contentDigest": "db9d23c27fa221ecacbdd8103a2b3f3b"
           }
         }
       },
-      "updatedAt": 1513856441172,
+      "updatedAt": 1514299557967,
       "pluginCreator___NODE": "Plugin default-site-plugin",
       "pluginCreatorId": "Plugin default-site-plugin",
       "componentPath": "/Users/juanjorge/Developer/gatsby-test-with-source-data/src/layouts/data.js",
-      "id": "SitePage /quienes-son-elegibles-para-iniciar-el-tramite-de-ciudadania",
+      "id": "SitePage /activistas-inmigrantes-aseguran-que-seguiran-luchando-por-sus-derechos",
       "parent": "SOURCE",
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "d37b609771dd85e8dc70c8788ee5c383",
+        "contentDigest": "a5b0ff2ca0815082975b1499fb2a55c9",
         "owner": "internal-data-bridge"
       }
     },
-    "SitePage /jovenes-inmigrantes-exigen-en-san-francisco-que-se-apruebe-un-dream-act": {
+    "SitePage /familia-inmigrante-de-austin-recibio-un-regalo-navideno": {
       "layout": "index",
-      "jsonName": "jovenes-inmigrantes-exigen-en-san-francisco-que-se-apruebe-un-dream-act.json",
-      "internalComponentName": "ComponentJovenesInmigrantesExigenEnSanFranciscoQueSeApruebeUnDreamAct",
-      "path": "/jovenes-inmigrantes-exigen-en-san-francisco-que-se-apruebe-un-dream-act",
+      "jsonName": "familia-inmigrante-de-austin-recibio-un-regalo-navideno.json",
+      "internalComponentName": "ComponentFamiliaInmigranteDeAustinRecibioUnRegaloNavideno",
+      "path": "/familia-inmigrante-de-austin-recibio-un-regalo-navideno",
       "component": "/Users/juanjorge/Developer/gatsby-test-with-source-data/src/layouts/data.js",
       "componentChunkName": "component---src-layouts-data-js",
       "context": {
-        "slug": "00000160-76f6-dadb-a1f0-7efed79e0000",
+        "slug": "00000160-9029-dadb-a1f0-9a6f22ec0000",
         "node": {
-          "id": "00000160-76f6-dadb-a1f0-7efed79e0000",
-          "publishDate": "2017-12-20T21:41:00-05:00",
-          "title": "Jóvenes inmigrantes exigen en San Francisco que se apruebe un ‘Dream Act’",
+          "id": "00000160-9029-dadb-a1f0-9a6f22ec0000",
+          "publishDate": "2017-12-25T19:06:00-05:00",
+          "title": "Familia inmigrante de Austin recibió un regalo navideño",
           "widget": "",
-          "shortTitle": "Jóvenes inmigrantes exigen en San Francisco que se apruebe un ‘Dream Act’",
-          "description": "Un grupo de jóvenes protestó en la ciudad pidiendo un ‘Dream Act’, mientras que un juez revisó cinco demandas contra la cancelación de DACA.",
+          "shortTitle": "Familia inmigrante de Austin recibió un regalo navideño",
+          "description": "Después de cinco años de separación, esta familia recibió un milagro y pudieron festejar la navidad reunidos nuevamente.",
           "images": {
             "original": {
-              "href": "https://cdn4.uvnimg.com/7e/25/8c6559a3415f855767de56fb5ef9/122017-sfpm1-3.jpg",
-              "width": 1455,
-              "height": 911
+              "href": "https://cdn2.uvnimg.com/cc/55/62693be74abf92e1d364dbbfd717/122517-auspm1-1.jpg",
+              "width": 1289,
+              "height": 795
             }
           },
           "children": [],
-          "parent": "00000160-76f6-dadb-a1f0-7efed79e0000",
+          "parent": "00000160-9029-dadb-a1f0-9a6f22ec0000",
           "internal": {
             "type": "Video",
             "mediaType": "application/json",
-            "contentDigest": "b206d2b6639b3f57faf2e9386be98a04"
+            "contentDigest": "b858b89eb59d96f7ba2744b4b634151b"
           }
         }
       },
-      "updatedAt": 1513856441173,
+      "updatedAt": 1514299557967,
       "pluginCreator___NODE": "Plugin default-site-plugin",
       "pluginCreatorId": "Plugin default-site-plugin",
       "componentPath": "/Users/juanjorge/Developer/gatsby-test-with-source-data/src/layouts/data.js",
-      "id": "SitePage /jovenes-inmigrantes-exigen-en-san-francisco-que-se-apruebe-un-dream-act",
+      "id": "SitePage /familia-inmigrante-de-austin-recibio-un-regalo-navideno",
       "parent": "SOURCE",
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "60303f1939c43bd5391df178e90cec72",
+        "contentDigest": "9bd383027b4902a35b62a7d6788b0066",
         "owner": "internal-data-bridge"
       }
     },
-    "SitePage /miembros-de-varias-religiones-se-unen-para-pedir-que-los-angeles-se-convierta-en-ciudad-santuario": {
+    "SitePage /cambios-en-permisos-de-trabajo-a-implementarse-a-partir-de-2018": {
       "layout": "index",
-      "jsonName": "miembros-de-varias-religiones-se-unen-para-pedir-que-los-angeles-se-convierta-en-ciudad-santuario.json",
-      "internalComponentName": "ComponentMiembrosDeVariasReligionesSeUnenParaPedirQueLosAngelesSeConviertaEnCiudadSantuario",
-      "path": "/miembros-de-varias-religiones-se-unen-para-pedir-que-los-angeles-se-convierta-en-ciudad-santuario",
+      "jsonName": "cambios-en-permisos-de-trabajo-a-implementarse-a-partir-de-2018.json",
+      "internalComponentName": "ComponentCambiosEnPermisosDeTrabajoAImplementarseAPartirDe2018",
+      "path": "/cambios-en-permisos-de-trabajo-a-implementarse-a-partir-de-2018",
       "component": "/Users/juanjorge/Developer/gatsby-test-with-source-data/src/layouts/data.js",
       "componentChunkName": "component---src-layouts-data-js",
       "context": {
-        "slug": "00000160-76f8-dadb-a1f0-7efe4def0000",
+        "slug": "00000160-9020-dadb-a1f0-9a6eb7f80000",
         "node": {
-          "id": "00000160-76f8-dadb-a1f0-7efe4def0000",
-          "publishDate": "2017-12-20T21:21:00-05:00",
-          "title": "Miembros de varias religiones se unen para pedir que Los Ángeles se convierta en ciudad santuario",
+          "id": "00000160-9020-dadb-a1f0-9a6eb7f80000",
+          "publishDate": "2017-12-25T18:58:00-05:00",
+          "title": "Cambios en permisos de trabajo a implementarse a partir de 2018",
           "widget": "",
-          "shortTitle": "Miembros de varias religiones piden que Los Ángeles se convierta en ciudad santuario",
-          "description": "Decenas de personas participaron en una peregrinación, que comenzó en la alcaldía de Los Ángeles, pasó por el departamento de policía y terminó frente al centro de detención de ICE. Los manifestantes mostraron su apoyo a los detenidos, pidieron al alcalde Eric Garcetti que convierta a la ciudad en santuario y exigieron respeto a los derechos de los inmigrantes.",
+          "shortTitle": "Cambios en permisos de trabajo a implementarse a partir de 2018",
+          "description": "Las cancelaciones a visas de trabajo H4, que empezarán a tener efecto en 2018, afectarán a cerca de 10,000 familias.",
           "images": {
             "original": {
-              "href": "https://cdn3.uvnimg.com/c4/4b/661af32a4f6db4b89093eaf6a76a/cdbdc1b0191040efbb1ad143f6be0f79",
+              "href": "https://cdn1.uvnimg.com/1e/ad/51e9df7f49bd91fd6a24b8d346cd/122517-sapm1-2.jpg",
+              "width": 1435,
+              "height": 817
+            }
+          },
+          "children": [],
+          "parent": "00000160-9020-dadb-a1f0-9a6eb7f80000",
+          "internal": {
+            "type": "Video",
+            "mediaType": "application/json",
+            "contentDigest": "6c5724439dcd3691e4273ceda406d93c"
+          }
+        }
+      },
+      "updatedAt": 1514299557968,
+      "pluginCreator___NODE": "Plugin default-site-plugin",
+      "pluginCreatorId": "Plugin default-site-plugin",
+      "componentPath": "/Users/juanjorge/Developer/gatsby-test-with-source-data/src/layouts/data.js",
+      "id": "SitePage /cambios-en-permisos-de-trabajo-a-implementarse-a-partir-de-2018",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "131a1caff6526f4be6495f270cf905b1",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /inmigrante-logra-un-permiso-humanitario-para-estar-con-su-hijo-luego-de-un-terrible-accidente-que-casi-le-cuesta-la-vida": {
+      "layout": "index",
+      "jsonName": "inmigrante-logra-un-permiso-humanitario-para-estar-con-su-hijo-luego-de-un-terrible-accidente-que-casi-le-cuesta-la-vida.json",
+      "internalComponentName": "ComponentInmigranteLograUnPermisoHumanitarioParaEstarConSuHijoLuegoDeUnTerribleAccidenteQueCasiLeCuestaLaVida",
+      "path": "/inmigrante-logra-un-permiso-humanitario-para-estar-con-su-hijo-luego-de-un-terrible-accidente-que-casi-le-cuesta-la-vida",
+      "component": "/Users/juanjorge/Developer/gatsby-test-with-source-data/src/layouts/data.js",
+      "componentChunkName": "component---src-layouts-data-js",
+      "context": {
+        "slug": "00000160-9021-dadb-a1f0-9a6f39a20000",
+        "node": {
+          "id": "00000160-9021-dadb-a1f0-9a6f39a20000",
+          "publishDate": "2017-12-25T18:43:00-05:00",
+          "title": "Inmigrante logra un permiso humanitario para estar con su hijo luego de un terrible accidente que casi le cuesta la vida",
+          "widget": "",
+          "shortTitle": "Inmigrante logra un permiso humanitario para estar con su hijo luego de un terrible accidente que casi le cuesta la vida",
+          "description": "Se debatió entre la vida y la muerte, pero sobrevivió. Ahora el reto es conseguir una solución para que su madre no sea deportada.",
+          "images": {
+            "original": {
+              "href": "https://cdn1.uvnimg.com/00/96/3151b309478e91b83bee39c27f43/e43dcb1fa0ee4a9281d4b412610ba5a9",
               "width": 1920,
               "height": 1080
             }
           },
           "children": [],
-          "parent": "00000160-76f8-dadb-a1f0-7efe4def0000",
+          "parent": "00000160-9021-dadb-a1f0-9a6f39a20000",
           "internal": {
             "type": "Video",
             "mediaType": "application/json",
-            "contentDigest": "9a8f8c3be0a3bae3669b63947cc87bdd"
+            "contentDigest": "ed6c635c3972b354b5568a4299797a04"
           }
         }
       },
-      "updatedAt": 1513856441174,
+      "updatedAt": 1514299557968,
       "pluginCreator___NODE": "Plugin default-site-plugin",
       "pluginCreatorId": "Plugin default-site-plugin",
       "componentPath": "/Users/juanjorge/Developer/gatsby-test-with-source-data/src/layouts/data.js",
-      "id": "SitePage /miembros-de-varias-religiones-se-unen-para-pedir-que-los-angeles-se-convierta-en-ciudad-santuario",
+      "id": "SitePage /inmigrante-logra-un-permiso-humanitario-para-estar-con-su-hijo-luego-de-un-terrible-accidente-que-casi-le-cuesta-la-vida",
       "parent": "SOURCE",
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "47407901a9a4771bc9c10d94ab2470df",
+        "contentDigest": "56cec1b4a893b149c578f2fbd45b8506",
         "owner": "internal-data-bridge"
       }
     },
-    "SitePage /el-programa-palomas-mensajeras-reune-familias-de-mexico-en-los-angeles": {
+    "SitePage /en-medio-de-la-navidad-trump-resalta-lo-que-segun-el-ha-logrado-este-ano-y-arremete-contra-la-prensa": {
       "layout": "index",
-      "jsonName": "el-programa-palomas-mensajeras-reune-familias-de-mexico-en-los-angeles.json",
-      "internalComponentName": "ComponentElProgramaPalomasMensajerasReuneFamiliasDeMexicoEnLosAngeles",
-      "path": "/el-programa-palomas-mensajeras-reune-familias-de-mexico-en-los-angeles",
+      "jsonName": "en-medio-de-la-navidad-trump-resalta-lo-que-segun-el-ha-logrado-este-ano-y-arremete-contra-la-prensa.json",
+      "internalComponentName": "ComponentEnMedioDeLaNavidadTrumpResaltaLoQueSegunElHaLogradoEsteAnoYArremeteContraLaPrensa",
+      "path": "/en-medio-de-la-navidad-trump-resalta-lo-que-segun-el-ha-logrado-este-ano-y-arremete-contra-la-prensa",
       "component": "/Users/juanjorge/Developer/gatsby-test-with-source-data/src/layouts/data.js",
       "componentChunkName": "component---src-layouts-data-js",
       "context": {
-        "slug": "00000160-76f5-dadb-a1f0-7eff45120000",
+        "slug": "00000160-9015-dadb-a1f0-9a7f0a010000",
         "node": {
-          "id": "00000160-76f5-dadb-a1f0-7eff45120000",
-          "publishDate": "2017-12-20T21:10:00-05:00",
-          "title": "El programa Palomas Mensajeras reúne familias de México en Los Ángeles",
+          "id": "00000160-9015-dadb-a1f0-9a7f0a010000",
+          "publishDate": "2017-12-25T18:35:00-05:00",
+          "title": "En medio de la Navidad, Trump resalta lo que, según él, ha logrado este año y arremete contra la prensa",
           "widget": "",
-          "shortTitle": "El programa Palomas Mensajeras reúne familias de México en Los Ángeles",
-          "description": "Inmigrantes tuvieron la oportunidad de ver a sus allegados de Michoacán después de años de distanciamiento. La Secretaría del Migrante y organizaciones de interés humano celebraron el encuentro para Navidad y Año Nuevo en Estados Unidos.",
+          "shortTitle": "En medio de la Navidad, Trump resalta lo que, según él, ha logrado este año y arremete contra la prensa",
+          "description": "A través de Twitter, el presidente dijo que la reforma de impuestos, junto a otros temas, han hecho del 2017 un buen año. Aquí te llevamos por un recorrido de la agenda de Trump en estos días festivos.",
           "images": {
             "original": {
-              "href": "https://cdn1.uvnimg.com/f2/c1/e836ed07490e94146836a5d8e226/52093527a8e74f158cdd4581ba4c36e0",
+              "href": "https://cdn4.uvnimg.com/5d/31/bf24c29648f0a17453bca00618b7/7636684bd4b4469ca2d698ff6b79eb24",
               "width": 1920,
               "height": 1080
             }
           },
           "children": [],
-          "parent": "00000160-76f5-dadb-a1f0-7eff45120000",
+          "parent": "00000160-9015-dadb-a1f0-9a7f0a010000",
           "internal": {
             "type": "Video",
             "mediaType": "application/json",
-            "contentDigest": "cb74dfcac49d6c7003bb41e5a91996f6"
+            "contentDigest": "55ecfc30096a6bcfa5e09e98b0779ff1"
           }
         }
       },
-      "updatedAt": 1513856441176,
+      "updatedAt": 1514299557969,
       "pluginCreator___NODE": "Plugin default-site-plugin",
       "pluginCreatorId": "Plugin default-site-plugin",
       "componentPath": "/Users/juanjorge/Developer/gatsby-test-with-source-data/src/layouts/data.js",
-      "id": "SitePage /el-programa-palomas-mensajeras-reune-familias-de-mexico-en-los-angeles",
+      "id": "SitePage /en-medio-de-la-navidad-trump-resalta-lo-que-segun-el-ha-logrado-este-ano-y-arremete-contra-la-prensa",
       "parent": "SOURCE",
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "0827ad0304d01ff3945e0cf8bf022ad6",
+        "contentDigest": "eeb6b6f1c6e8f23da23d8d214b4c8361",
         "owner": "internal-data-bridge"
       }
     },
-    "SitePage /con-tristeza-y-dolor-montserrat-oliver-suplica-impedir-que-se-viralicen-fotos-que-le-robaron": {
+    "SitePage /la-marisoul-el-alma-de-la-santa-cecilia-y-la-nueva-musica-latina-en-los-angeles": {
       "layout": "index",
-      "jsonName": "con-tristeza-y-dolor-montserrat-oliver-suplica-impedir-que-se-viralicen-fotos-que-le-robaron.json",
-      "internalComponentName": "ComponentConTristezaYDolorMontserratOliverSuplicaImpedirQueSeViralicenFotosQueLeRobaron",
-      "path": "/con-tristeza-y-dolor-montserrat-oliver-suplica-impedir-que-se-viralicen-fotos-que-le-robaron",
+      "jsonName": "la-marisoul-el-alma-de-la-santa-cecilia-y-la-nueva-musica-latina-en-los-angeles.json",
+      "internalComponentName": "ComponentLaMarisoulElAlmaDeLaSantaCeciliaYLaNuevaMusicaLatinaEnLosAngeles",
+      "path": "/la-marisoul-el-alma-de-la-santa-cecilia-y-la-nueva-musica-latina-en-los-angeles",
       "component": "/Users/juanjorge/Developer/gatsby-test-with-source-data/src/layouts/data.js",
       "componentChunkName": "component---src-layouts-data-js",
       "context": {
-        "slug": "00000160-7666-dd32-ad6c-7e773dbd0000",
+        "slug": "00000160-8ff9-dadb-a1f0-9fffd9f70000",
         "node": {
-          "id": "00000160-7666-dd32-ad6c-7e773dbd0000",
-          "publishDate": "2017-12-21T00:12:43-05:00",
-          "title": "Con tristeza y dolor, Montserrat Oliver suplica impedir que se viralicen fotos que le robaron",
+          "id": "00000160-8ff9-dadb-a1f0-9fffd9f70000",
+          "publishDate": "2017-12-25T16:30:00-05:00",
+          "title": "La Marisoul, el alma de La Santa Cecilia y la nueva música latina en Los Ángeles",
           "widget": "",
-          "shortTitle": "Con tristeza y dolor, Montserrat Oliver suplica impedir que se viralicen fotos que le robaron",
-          "description": "La conductora hizo un llamado al respeto y solicitó que se detenga la difusión de las imágenes donde se expone su vida íntima al lado de su novia, la modelo Yaya Kosikova y alegó que algunas fotografías fueron además modificadas.",
+          "shortTitle": "La Marisoul, el alma de La Santa Cecilia y la nueva música latina en Los Ángeles",
+          "description": "Marisol Hernández es la vocalista de La Santa Cecilia, la banda que le ha dado voz a los migrantes que persiguen en sueño americano. Su voz, que empezó a entrenarse en la Placita Olvera, ha llegado a grandes escenarios dando un mensaje de esperanza para la comunidad hispana que vive en Estados Unidos.",
           "images": {
             "original": {
-              "href": "https://cdn2.uvnimg.com/b7/81/6815a20549179f959b883ce762fc/montse2.JPG",
-              "width": 602,
-              "height": 394
+              "href": "https://cdn1.uvnimg.com/3b/4f/912b0df04d6c96c3cdc7d3f32ddc/d533f0d5e66c4e298efadfa762437c37",
+              "width": 1920,
+              "height": 1080
             }
           },
           "children": [],
-          "parent": "00000160-7666-dd32-ad6c-7e773dbd0000",
+          "parent": "00000160-8ff9-dadb-a1f0-9fffd9f70000",
+          "internal": {
+            "type": "Video",
+            "mediaType": "application/json",
+            "contentDigest": "876f51de78a065716a8e7eaee56a596a"
+          }
+        }
+      },
+      "updatedAt": 1514299557970,
+      "pluginCreator___NODE": "Plugin default-site-plugin",
+      "pluginCreatorId": "Plugin default-site-plugin",
+      "componentPath": "/Users/juanjorge/Developer/gatsby-test-with-source-data/src/layouts/data.js",
+      "id": "SitePage /la-marisoul-el-alma-de-la-santa-cecilia-y-la-nueva-musica-latina-en-los-angeles",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "90a7e1a28e539eabae43f299d7d567fb",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /ricardo-montaner-le-puso-una-condicion-a-sus-hijos-eva-mau-y-ricky-para-seguir-recibiendo-regalos-en-navidad": {
+      "layout": "index",
+      "jsonName": "ricardo-montaner-le-puso-una-condicion-a-sus-hijos-eva-mau-y-ricky-para-seguir-recibiendo-regalos-en-navidad.json",
+      "internalComponentName": "ComponentRicardoMontanerLePusoUnaCondicionASusHijosEvaMauYRickyParaSeguirRecibiendoRegalosEnNavidad",
+      "path": "/ricardo-montaner-le-puso-una-condicion-a-sus-hijos-eva-mau-y-ricky-para-seguir-recibiendo-regalos-en-navidad",
+      "component": "/Users/juanjorge/Developer/gatsby-test-with-source-data/src/layouts/data.js",
+      "componentChunkName": "component---src-layouts-data-js",
+      "context": {
+        "slug": "00000160-933a-dadb-a1f0-9b7eb14f0000",
+        "node": {
+          "id": "00000160-933a-dadb-a1f0-9b7eb14f0000",
+          "publishDate": "2017-12-26T09:27:00-05:00",
+          "title": "Ricardo Montaner le puso una condición a sus hijos Eva, Mau y Ricky para seguir recibiendo regalos en Navidad",
+          "widget": "",
+          "shortTitle": "Ricardo Montaner le puso una condición a sus hijos Eva, Mau y Ricky para seguir recibiendo regalos en Navidad",
+          "description": "El cantante venezolano festejó la fecha especial en compañía de su esposa e hijos, a quienes sorprendió con la entrega de obsequios y también con una condición para poder seguir recibiendo detalles como cuando eran niños.",
+          "images": {
+            "original": {
+              "href": "https://cdn4.uvnimg.com/86/52/186f3d7140bcaac6b0ae7f44c491/066bb14dc60e4f25b26c39f983bd202c",
+              "width": 1920,
+              "height": 1080
+            }
+          },
+          "children": [],
+          "parent": "00000160-933a-dadb-a1f0-9b7eb14f0000",
+          "internal": {
+            "type": "Video",
+            "mediaType": "application/json",
+            "contentDigest": "cca85e50003d98e006acaa4056062e6f"
+          }
+        }
+      },
+      "updatedAt": 1514299557970,
+      "pluginCreator___NODE": "Plugin default-site-plugin",
+      "pluginCreatorId": "Plugin default-site-plugin",
+      "componentPath": "/Users/juanjorge/Developer/gatsby-test-with-source-data/src/layouts/data.js",
+      "id": "SitePage /ricardo-montaner-le-puso-una-condicion-a-sus-hijos-eva-mau-y-ricky-para-seguir-recibiendo-regalos-en-navidad",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "76e7d8094a28e1ca6c870dc815e4f0ea",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /la-singular-visita-que-alejandra-espinoza-y-familia-recibieron-en-navidad-no-fue-santa": {
+      "layout": "index",
+      "jsonName": "la-singular-visita-que-alejandra-espinoza-y-familia-recibieron-en-navidad-no-fue-santa.json",
+      "internalComponentName": "ComponentLaSingularVisitaQueAlejandraEspinozaYFamiliaRecibieronEnNavidadNoFueSanta",
+      "path": "/la-singular-visita-que-alejandra-espinoza-y-familia-recibieron-en-navidad-no-fue-santa",
+      "component": "/Users/juanjorge/Developer/gatsby-test-with-source-data/src/layouts/data.js",
+      "componentChunkName": "component---src-layouts-data-js",
+      "context": {
+        "slug": "00000160-932f-dadb-a1f0-9b6fae3b0000",
+        "node": {
+          "id": "00000160-932f-dadb-a1f0-9b6fae3b0000",
+          "publishDate": "2017-12-26T09:12:00-05:00",
+          "title": "La singular visita que Alejandra Espinoza y familia recibieron en Navidad (no fue Santa)",
+          "widget": "",
+          "shortTitle": "La singular visita que Alejandra Espinoza y familia recibieron en Navidad (no fue Santa)",
+          "description": "La presentadora mexicana disfrutaba de los regalos de Navidad con su hijo Matteo, cuando uno de sus familiares encontró un pequeño e inesperado visitante.",
+          "images": {
+            "original": {
+              "href": "https://cdn1.uvnimg.com/15/f6/c22c9b57419a89a6676e8e58a184/d6f4c2b77adc413399140301dcc653b0",
+              "width": 1920,
+              "height": 1080
+            }
+          },
+          "children": [],
+          "parent": "00000160-932f-dadb-a1f0-9b6fae3b0000",
+          "internal": {
+            "type": "Video",
+            "mediaType": "application/json",
+            "contentDigest": "c8b7ef0a6f537d40071da8a631eaaa07"
+          }
+        }
+      },
+      "updatedAt": 1514299557971,
+      "pluginCreator___NODE": "Plugin default-site-plugin",
+      "pluginCreatorId": "Plugin default-site-plugin",
+      "componentPath": "/Users/juanjorge/Developer/gatsby-test-with-source-data/src/layouts/data.js",
+      "id": "SitePage /la-singular-visita-que-alejandra-espinoza-y-familia-recibieron-en-navidad-no-fue-santa",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "61489d3fae1c5843206e19396c403929",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /viaje-al-pueblo-de-rubi-asi-esta-en-el-aniversario-de-los-xv-anos-mas-masivos-de-mexico": {
+      "layout": "index",
+      "jsonName": "viaje-al-pueblo-de-rubi-asi-esta-en-el-aniversario-de-los-xv-anos-mas-masivos-de-mexico.json",
+      "internalComponentName": "ComponentViajeAlPuebloDeRubiAsiEstaEnElAniversarioDeLosXvAnosMasMasivosDeMexico",
+      "path": "/viaje-al-pueblo-de-rubi-asi-esta-en-el-aniversario-de-los-xv-anos-mas-masivos-de-mexico",
+      "component": "/Users/juanjorge/Developer/gatsby-test-with-source-data/src/layouts/data.js",
+      "componentChunkName": "component---src-layouts-data-js",
+      "context": {
+        "slug": "00000160-7b8e-d11c-a3eb-7bfff7750000",
+        "node": {
+          "id": "00000160-7b8e-d11c-a3eb-7bfff7750000",
+          "publishDate": "2017-12-25T18:50:21-05:00",
+          "title": "Viaje al pueblo de Rubí: así está en el aniversario de los XV años más masivos de México",
+          "widget": "",
+          "shortTitle": "Viaje al pueblo de Rubí: así está en el aniversario de los XV años más masivos de México",
+          "description": "Univision Entretenimiento visitó La Joya, la pequeña localidad en la comarca mexicana de Villa de Gudalupe que se hizo célebre de la mano de la quinceañera más famosa del mundo. Hoy la macrofiesta de XV es tanto motivo de orgullo como de pesadumbre en un pueblo que no olvida.",
+          "images": {
+            "original": {
+              "href": "https://cdn3.uvnimg.com/f3/03/552844fc4509b8cc509ce6688b56/joya-rubi.jpg",
+              "width": 3992,
+              "height": 2340
+            }
+          },
+          "children": [],
+          "parent": "00000160-7b8e-d11c-a3eb-7bfff7750000",
           "internal": {
             "type": "Article",
             "mediaType": "application/json",
-            "contentDigest": "c59299ec6fcd45dbd7691fe4af5bc757"
+            "contentDigest": "4efb5898a84adfe602007cedc608c0d8"
           }
         }
       },
-      "updatedAt": 1513856441177,
+      "updatedAt": 1514299557971,
       "pluginCreator___NODE": "Plugin default-site-plugin",
       "pluginCreatorId": "Plugin default-site-plugin",
       "componentPath": "/Users/juanjorge/Developer/gatsby-test-with-source-data/src/layouts/data.js",
-      "id": "SitePage /con-tristeza-y-dolor-montserrat-oliver-suplica-impedir-que-se-viralicen-fotos-que-le-robaron",
+      "id": "SitePage /viaje-al-pueblo-de-rubi-asi-esta-en-el-aniversario-de-los-xv-anos-mas-masivos-de-mexico",
       "parent": "SOURCE",
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "fadcd47dc730de6fba49c8611f87ce9b",
+        "contentDigest": "57240338368195fbfcb042ce5d01ef63",
         "owner": "internal-data-bridge"
       }
     },
-    "SitePage /esto-es-lo-que-le-exigen-a-luis-miguel-para-que-pueda-hacer-sus-conciertos-en-el-auditorio": {
+    "SitePage /geraldine-bazan-y-su-divorcio-la-frustracion-de-julian-gil-o-la-muerte-del-creador-de-playboy-ellos-tambien-lloraron-en-2017": {
       "layout": "index",
-      "jsonName": "esto-es-lo-que-le-exigen-a-luis-miguel-para-que-pueda-hacer-sus-conciertos-en-el-auditorio.json",
-      "internalComponentName": "ComponentEstoEsLoQueLeExigenALuisMiguelParaQuePuedaHacerSusConciertosEnElAuditorio",
-      "path": "/esto-es-lo-que-le-exigen-a-luis-miguel-para-que-pueda-hacer-sus-conciertos-en-el-auditorio",
+      "jsonName": "geraldine-bazan-y-su-divorcio-la-frustracion-de-julian-gil-o-la-muerte-del-creador-de-playboy-ellos-tambien-lloraron-en-2017.json",
+      "internalComponentName": "ComponentGeraldineBazanYSuDivorcioLaFrustracionDeJulianGilOLaMuerteDelCreadorDePlayboyEllosTambienLloraronEn2017",
+      "path": "/geraldine-bazan-y-su-divorcio-la-frustracion-de-julian-gil-o-la-muerte-del-creador-de-playboy-ellos-tambien-lloraron-en-2017",
       "component": "/Users/juanjorge/Developer/gatsby-test-with-source-data/src/layouts/data.js",
       "componentChunkName": "component---src-layouts-data-js",
       "context": {
-        "slug": "00000160-76c6-dadb-a1f0-7eee904d0000",
+        "slug": "00000160-7ebe-dadb-a1f0-7efe4dd90000",
         "node": {
-          "id": "00000160-76c6-dadb-a1f0-7eee904d0000",
-          "publishDate": "2017-12-20T18:50:00-05:00",
-          "title": "Esto es lo que le exigen a Luis Miguel para que pueda hacer sus conciertos en el Auditorio",
+          "id": "00000160-7ebe-dadb-a1f0-7efe4dd90000",
+          "publishDate": "2017-12-22T10:00:00-05:00",
+          "title": "Geraldine Bazán y su divorcio, la frustración de Julián Gil o la muerte del creador de Playboy: ellos también lloraron en 2017",
           "widget": "",
-          "shortTitle": "Esto es lo que le exigen a Luis Miguel para que pueda hacer sus conciertos en el Auditorio",
-          "description": "Además, Aureliano Salgado nos cuenta en su Auriespacio sobre la que catalogaron la mayor sorpresa del mundo del espectáculo este 2017.",
+          "shortTitle": "Geraldine Bazán y su divorcio, la frustración de Julián Gil o la muerte del creador de Playboy: ellos también lloraron en 2017",
+          "description": "No hay fama que le impida a las celebridades llorar. Artistas como Tito el Bambino, Pamela Anderson o Alan Tacher demostraron que también son humanos y sufren la muerte de un ser querido, los estragos de la naturaleza o las complicaciones que trae la vida.",
           "images": {
             "original": {
-              "href": "https://cdn2.uvnimg.com/1b/e8/d1f78389488d83b62c8212ff7b69/c68ffe94c97b4c66b8e33d2925e3170d",
+              "href": "https://cdn4.uvnimg.com/0c/36/cd8799d64b1fb4b3e76439077cb3/e5533eb0b82c477a963894bcf29e471c",
               "width": 1920,
               "height": 1080
             }
           },
           "children": [],
-          "parent": "00000160-76c6-dadb-a1f0-7eee904d0000",
+          "parent": "00000160-7ebe-dadb-a1f0-7efe4dd90000",
           "internal": {
             "type": "Video",
             "mediaType": "application/json",
-            "contentDigest": "d6d942c129cfff6336a4c6c007b41085"
+            "contentDigest": "2842f5825f9a79e09fde8e05498cfd1f"
           }
         }
       },
-      "updatedAt": 1513856441178,
+      "updatedAt": 1514299557972,
       "pluginCreator___NODE": "Plugin default-site-plugin",
       "pluginCreatorId": "Plugin default-site-plugin",
       "componentPath": "/Users/juanjorge/Developer/gatsby-test-with-source-data/src/layouts/data.js",
-      "id": "SitePage /esto-es-lo-que-le-exigen-a-luis-miguel-para-que-pueda-hacer-sus-conciertos-en-el-auditorio",
+      "id": "SitePage /geraldine-bazan-y-su-divorcio-la-frustracion-de-julian-gil-o-la-muerte-del-creador-de-playboy-ellos-tambien-lloraron-en-2017",
       "parent": "SOURCE",
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "f97fc60549a03a73143411d3e782c324",
+        "contentDigest": "64d5df7691d93ce6908ef2b7288bc61c",
         "owner": "internal-data-bridge"
       }
     },
-    "SitePage /el-emotivo-adios-en-video-de-beto-sierra-a-su-amigo-asesinado-el-pirata-de-culiacan": {
+    "SitePage /a-veces-tienes-que-decir-adios-mira-como-fernanda-castillo-recordo-en-navidad-a-sus-primos-muertos-en-el-sismo-de-mexico": {
       "layout": "index",
-      "jsonName": "el-emotivo-adios-en-video-de-beto-sierra-a-su-amigo-asesinado-el-pirata-de-culiacan.json",
-      "internalComponentName": "ComponentElEmotivoAdiosEnVideoDeBetoSierraASuAmigoAsesinadoElPirataDeCuliacan",
-      "path": "/el-emotivo-adios-en-video-de-beto-sierra-a-su-amigo-asesinado-el-pirata-de-culiacan",
+      "jsonName": "a-veces-tienes-que-decir-adios-mira-como-fernanda-castillo-recordo-en-navidad-a-sus-primos-muertos-en-el-sismo-de-mexico.json",
+      "internalComponentName": "ComponentAVecesTienesQueDecirAdiosMiraComoFernandaCastilloRecordoEnNavidadASusPrimosMuertosEnElSismoDeMexico",
+      "path": "/a-veces-tienes-que-decir-adios-mira-como-fernanda-castillo-recordo-en-navidad-a-sus-primos-muertos-en-el-sismo-de-mexico",
       "component": "/Users/juanjorge/Developer/gatsby-test-with-source-data/src/layouts/data.js",
       "componentChunkName": "component---src-layouts-data-js",
       "context": {
-        "slug": "00000160-76ca-dadb-a1f0-7eee1e340000",
+        "slug": "00000160-930c-d1cd-a372-f38c22de0000",
         "node": {
-          "id": "00000160-76ca-dadb-a1f0-7eee1e340000",
-          "publishDate": "2017-12-20T20:25:00-05:00",
-          "title": "El emotivo adiós en video de Beto Sierra a su amigo asesinado ‘El Pirata de Culiacán’",
+          "id": "00000160-930c-d1cd-a372-f38c22de0000",
+          "publishDate": "2017-12-26T09:07:32-05:00",
+          "title": "“A veces tienes que decir adiós”: mira cómo Fernanda Castillo recordó en Navidad a sus primos muertos en el sismo de México",
           "widget": "",
-          "shortTitle": "El emotivo adiós en video de Beto Sierra a su amigo asesinado ‘El Pirata de Culiacán’",
-          "description": "El promotor musical, quien ha ganado notoriedad en redes sociales, publicó un video en el que se despide de su amigo asesinado Juan Luis Lagunas, mejor conocido como ‘El pirata de Culiacán’.",
+          "shortTitle": "“A veces tienes que decir adiós”: mira cómo Fernanda Castillo recordó en Navidad a sus primos muertos en el sismo de México",
+          "description": "La actriz, quien perdió a dos de sus familiares en el terremoto del pasado 19 de septiembre que afectó a Puebla e Hidalgo, compartió una imagen junto a sus seres queridos recalcando que, aunque los perdió en medio de la tragedia, el amor seguirá por ellos “seguirá ahí por siempre”. \r\n",
           "images": {
             "original": {
-              "href": "https://cdn4.uvnimg.com/26/0a/e7967e0d4009ab5e1fc79308da92/40e57bb019e6495d92ae89b3e89c4ae9",
-              "width": 1920,
-              "height": 1080
+              "href": "https://cdn1.uvnimg.com/b3/8a/86d601084759a1131efd35d89b3f/fernanda.jpg",
+              "width": 1200,
+              "height": 628
             }
           },
           "children": [],
-          "parent": "00000160-76ca-dadb-a1f0-7eee1e340000",
+          "parent": "00000160-930c-d1cd-a372-f38c22de0000",
           "internal": {
-            "type": "Video",
+            "type": "Slideshow",
             "mediaType": "application/json",
-            "contentDigest": "a770c9ab0a7f77a9769e6220ba485350"
+            "contentDigest": "28174a4cbed14026829c1c33e92dffac"
           }
         }
       },
-      "updatedAt": 1513856441179,
+      "updatedAt": 1514299557973,
       "pluginCreator___NODE": "Plugin default-site-plugin",
       "pluginCreatorId": "Plugin default-site-plugin",
       "componentPath": "/Users/juanjorge/Developer/gatsby-test-with-source-data/src/layouts/data.js",
-      "id": "SitePage /el-emotivo-adios-en-video-de-beto-sierra-a-su-amigo-asesinado-el-pirata-de-culiacan",
+      "id": "SitePage /a-veces-tienes-que-decir-adios-mira-como-fernanda-castillo-recordo-en-navidad-a-sus-primos-muertos-en-el-sismo-de-mexico",
       "parent": "SOURCE",
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "6147435928b1dd3c60b53858b401c302",
-        "owner": "internal-data-bridge"
-      }
-    },
-    "SitePage /esta-es-la-entrevista-que-le-hicimos-al-pirata-de-culiacan-antes-de-su-asesinato": {
-      "layout": "index",
-      "jsonName": "esta-es-la-entrevista-que-le-hicimos-al-pirata-de-culiacan-antes-de-su-asesinato.json",
-      "internalComponentName": "ComponentEstaEsLaEntrevistaQueLeHicimosAlPirataDeCuliacanAntesDeSuAsesinato",
-      "path": "/esta-es-la-entrevista-que-le-hicimos-al-pirata-de-culiacan-antes-de-su-asesinato",
-      "component": "/Users/juanjorge/Developer/gatsby-test-with-source-data/src/layouts/data.js",
-      "componentChunkName": "component---src-layouts-data-js",
-      "context": {
-        "slug": "00000160-768c-dadb-a1f0-7eee3c750000",
-        "node": {
-          "id": "00000160-768c-dadb-a1f0-7eee3c750000",
-          "publishDate": "2017-12-20T19:45:00-05:00",
-          "title": "Esta es la entrevista que le hicimos al ‘Pirata de Culiacán’  antes de su asesinato",
-          "widget": "",
-          "shortTitle": "Esta es la entrevista que le hicimos al ‘Pirata de Culiacán’  antes de su asesinato",
-          "description": "Juan Luis Lagunas Rosales soñaba con ser cantante de música romantica. El joven de tan solo 17 años de edad habló en aquel entonces con Univision Entretenimiento sobre la repentina notoriedad que ganó en redes sociales, su abuso del alcohol y cuales eran sus aspiraciones.",
-          "images": {
-            "original": {
-              "href": "https://cdn2.uvnimg.com/3e/d8/aa904c7e4d9fb840aecff675f212/a83fea5ab3884917849eab2f805f2fd1",
-              "width": 1920,
-              "height": 1080
-            }
-          },
-          "children": [],
-          "parent": "00000160-768c-dadb-a1f0-7eee3c750000",
-          "internal": {
-            "type": "Video",
-            "mediaType": "application/json",
-            "contentDigest": "46319469a34085e03432d0ebe24e6757"
-          }
-        }
-      },
-      "updatedAt": 1513856441181,
-      "pluginCreator___NODE": "Plugin default-site-plugin",
-      "pluginCreatorId": "Plugin default-site-plugin",
-      "componentPath": "/Users/juanjorge/Developer/gatsby-test-with-source-data/src/layouts/data.js",
-      "id": "SitePage /esta-es-la-entrevista-que-le-hicimos-al-pirata-de-culiacan-antes-de-su-asesinato",
-      "parent": "SOURCE",
-      "children": [],
-      "internal": {
-        "type": "SitePage",
-        "contentDigest": "13a9f12733d1692f471da3a9985a9500",
-        "owner": "internal-data-bridge"
-      }
-    },
-    "SitePage /ya-reclamaron-el-cuerpo-de-el-pirata-de-culiacan-de-la-morgue-de-jalisco": {
-      "layout": "index",
-      "jsonName": "ya-reclamaron-el-cuerpo-de-el-pirata-de-culiacan-de-la-morgue-de-jalisco.json",
-      "internalComponentName": "ComponentYaReclamaronElCuerpoDeElPirataDeCuliacanDeLaMorgueDeJalisco",
-      "path": "/ya-reclamaron-el-cuerpo-de-el-pirata-de-culiacan-de-la-morgue-de-jalisco",
-      "component": "/Users/juanjorge/Developer/gatsby-test-with-source-data/src/layouts/data.js",
-      "componentChunkName": "component---src-layouts-data-js",
-      "context": {
-        "slug": "00000160-750f-d98e-a5f7-f76f34c60000",
-        "node": {
-          "id": "00000160-750f-d98e-a5f7-f76f34c60000",
-          "publishDate": "2017-12-20T14:29:56-05:00",
-          "title": "Ya reclamaron el cuerpo de ‘El Pirata de Culiacán’ de la morgue de Jalisco",
-          "widget": "",
-          "shortTitle": "Ya reclamaron el cuerpo de ‘El Pirata de Culiacán’ de la morgue de Jalisco",
-          "description": "Un familiar del joven asesinado el pasado martes acudió a reconocer el cadaver del famosos 'youtubero'.",
-          "images": {
-            "original": {
-              "href": "https://cdn4.uvnimg.com/fe/31/c389b1e944c2b25c5428de5090a5/piratadeculiacan223.png",
-              "width": 653,
-              "height": 523
-            }
-          },
-          "children": [],
-          "parent": "00000160-750f-d98e-a5f7-f76f34c60000",
-          "internal": {
-            "type": "Article",
-            "mediaType": "application/json",
-            "contentDigest": "8cc556a492c99a8c195e34c8802ef4e6"
-          }
-        }
-      },
-      "updatedAt": 1513856441182,
-      "pluginCreator___NODE": "Plugin default-site-plugin",
-      "pluginCreatorId": "Plugin default-site-plugin",
-      "componentPath": "/Users/juanjorge/Developer/gatsby-test-with-source-data/src/layouts/data.js",
-      "id": "SitePage /ya-reclamaron-el-cuerpo-de-el-pirata-de-culiacan-de-la-morgue-de-jalisco",
-      "parent": "SOURCE",
-      "children": [],
-      "internal": {
-        "type": "SitePage",
-        "contentDigest": "6a0108791ee7ad6990abbb3ed611c0cc",
+        "contentDigest": "9c8c5827e0f8b5bdcf82e406f971ee10",
         "owner": "internal-data-bridge"
       }
     },
@@ -1422,7 +1467,7 @@
       "component": "/Users/juanjorge/Developer/gatsby-test-with-source-data/src/pages/404.js",
       "componentChunkName": "component---src-pages-404-js",
       "context": {},
-      "updatedAt": 1513856441232,
+      "updatedAt": 1514299557997,
       "pluginCreator___NODE": "Plugin component-page-creator",
       "pluginCreatorId": "Plugin component-page-creator",
       "componentPath": "/Users/juanjorge/Developer/gatsby-test-with-source-data/src/pages/404.js",
@@ -1431,7 +1476,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "e9703dfcddc78561fd80cf0cc321006e",
+        "contentDigest": "498bcb9678c92cd40bbdeeecffcdf01e",
         "owner": "internal-data-bridge"
       }
     },
@@ -1443,7 +1488,7 @@
       "component": "/Users/juanjorge/Developer/gatsby-test-with-source-data/src/pages/feed-watch.js",
       "componentChunkName": "component---src-pages-feed-watch-js",
       "context": {},
-      "updatedAt": 1513856441233,
+      "updatedAt": 1514299557998,
       "pluginCreator___NODE": "Plugin component-page-creator",
       "pluginCreatorId": "Plugin component-page-creator",
       "componentPath": "/Users/juanjorge/Developer/gatsby-test-with-source-data/src/pages/feed-watch.js",
@@ -1452,7 +1497,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "383eca98aaa37fbf73a2616730682783",
+        "contentDigest": "c66799bcc6ad35165cc826580295328d",
         "owner": "internal-data-bridge"
       }
     },
@@ -1464,7 +1509,7 @@
       "component": "/Users/juanjorge/Developer/gatsby-test-with-source-data/src/pages/index.js",
       "componentChunkName": "component---src-pages-index-js",
       "context": {},
-      "updatedAt": 1513856441236,
+      "updatedAt": 1514299557998,
       "pluginCreator___NODE": "Plugin component-page-creator",
       "pluginCreatorId": "Plugin component-page-creator",
       "componentPath": "/Users/juanjorge/Developer/gatsby-test-with-source-data/src/pages/index.js",
@@ -1473,7 +1518,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "c506bc32e28fd6e5abe8dc2335bcb357",
+        "contentDigest": "a0dde967feac7b731b8935ad5db2a1a9",
         "owner": "internal-data-bridge"
       }
     },
@@ -1485,7 +1530,7 @@
       "component": "/Users/juanjorge/Developer/gatsby-test-with-source-data/src/pages/404.js",
       "componentChunkName": "component---src-pages-404-js",
       "context": {},
-      "updatedAt": 1513856441245,
+      "updatedAt": 1514299558000,
       "pluginCreator___NODE": "Plugin prod-404",
       "pluginCreatorId": "Plugin prod-404",
       "componentPath": "/Users/juanjorge/Developer/gatsby-test-with-source-data/src/pages/404.js",
@@ -1494,7 +1539,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "98b2037136bb0ebb0bb553a58c360f82",
+        "contentDigest": "08ae9aaceaaca8d54d31bb7fb53408f9",
         "owner": "internal-data-bridge"
       }
     }
